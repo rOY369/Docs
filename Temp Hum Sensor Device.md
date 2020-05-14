@@ -4,7 +4,7 @@
 
 ### OVERVIEW
 
-The temperature and humidity sensor device needs to maintain its connection with the local IoT network. This is majorly because the automation logic process running inside controllers i.e. `JouleRecipe` requires the data from the sensor to be present in the `Network Attached Storage`. The only way the sensor device can run compatible with the current architecture is that it participates in the local IoT network and publishes the data in that local network itself.
+The temperature and humidity sensor device needs to maintain its connection with the local IoT network. This is majorly because the automation logic process running inside the controllers requires the data from the temp/hum device to be present in its local storage. The only way the sensor device can run compatible with the current architecture is that it participates in the local IoT network and publishes the data in the local network on to the provided MQTT Broker.
 
 The following sections in the document are the technical requirements for this sensor device. The requirements have been divided into 3 categories -
 
@@ -29,59 +29,48 @@ The following sections in the document are the technical requirements for this s
 
 - Protocol: MQTT
 	- The device has to be connected to the local network through MQTT.
-	- The MQTT connection has to be established between the device and the mosquitto broker running inside a controller with `hostname=smartjoules.local` on `port=1883`.
+	- The MQTT connection has to be established between the temp/hum device and the broker running inside a controller with the provided port and hostname(not IP).
+
+	
+### CONFIGURATION COMPATIBILITY**
 
 - Device Configuration :
-	- User should be able to configure the following information somehow in the device such that it is stored in non-volatile memory like `FLASH` or `EEPROM` of the device for future use.
-	- `DeviceId`
-		- Each sensor device has a unique `deviceId` which is generated from the backend on registering the device onto our cloud portal JouleTrack(Dejoule).
-	- `SiteId`
-		- Each site has a unique `siteId`.
-		- All sensor devices in a site have to be aware of this `siteId`
+	- User should be able to configure the following information in the device such that it is stored and be available for future use.
+		- `DeviceId`
+			- Each sensor device has a unique `deviceId` which is generated from the backend on registering the device onto our cloud portal JouleTrack(Dejoule).
+		- `SiteId`
+			- Each site has a unique `siteId`.
+			- All sensor devices in a site have to be aware of this `siteId`
 
-- Data Format
-	- Topic : `data/<deviceId>/recent`
-	- Payload (string) :
-		- The `"<tmp>"` and `"<hum>"` values mentioned in the data packet below represent temperature and humidity values respectively. These can be of type float up to 2 decimal places.
-```
-{
-"deviceId": "<deviceId>",
-"siteId": "<siteId>",
-"timestamp": "<YYYY-MM-DD HH:MM:00>",
-"captured_at": "<YYYY-MM-DD HH:MM:SS>",
-"data": {
-"tmp": "<tmp>",
-"hum": "<hum>",
-}
-}
-```
+		-  `Payload`
+			- Type : JSON format
+			- Parameters:
+				- Timestamp
+				- Device ID (to be provided by Dejoule backend)
+				- Site ID  (to be provided by Dejoule backend)
+				- Data (temp and hum)
+		- `Data frequency` = 1 minute(default)/Should be configurable
 
-- Data frequency = 1 minute(default)/Should be configurable
+	
+`Note`: The temperature and hum values mentioned in the data packet below represent temperature and humidity values respectively. These can be of type float up to 2 decimal places.
 
 ### Data Quality-of-Service(QOS)**
 
 This service makes sure that the data quantity index is not compromised even if the device is not able to connect to the local network broker. Whenever the device is not able to connect to the broker due to some reason, it saves every minute data in a safe memory like an SD card. At the point, it gets reconnected to the broker it publishes all the old data back to the broker. The service should be able to upload old data of up to at least 3 days. 
 
-**Data Format**
+**Payload**
+	-  `Payload`
+		- Type : JSON format
+		- Parameters:
+			- Timestamp
+			- Device ID (to be provided by Dejoule backend)
+			- Site ID  (to be provided by Dejoule backend)
+			- Data (temp and hum)
+	- `Data frequency` = 1 minute(default)/Should be configurable
 
-- Topic : `data/<deviceId>/old`
-- Payload (string) :
 
-```
-{
-"deviceId": "<deviceId>",
-"siteId": "<siteId>",
-"timestamp": "<YYYY-MM-DD HH:MM:00>",
-"captured_at": "<YYYY-MM-DD HH:MM:SS>",
-"data": {
-"tmp": "<tmp>",
-"hum": "<hum>",
-}
-}
-```
+`Note`: The temperature and hum values mentioned in the data packet below represent temperature and humidity values respectively. These can be of type float up to 2 decimal places.
 
-- The `"<tmp>"` and `"<hum>"` values represent temperature and humidity values respectively. These can be of type float up to 2 decimal places.
-- Data frequency = 1 minute(default)/Should be configurable
 
 ### Secure OTA firmware updates***
 
