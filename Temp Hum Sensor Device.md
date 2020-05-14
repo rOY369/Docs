@@ -42,17 +42,23 @@ The following sections in the document are the technical requirements for this s
 			- Each site has a unique `siteId`.
 			- All sensor devices in a site have to be aware of this `siteId`
 
-		-  `Payload`
-			- Type : JSON format
-			- Parameters:
-				- Timestamp
-				- Device ID (to be provided by Dejoule backend)
-				- Site ID  (to be provided by Dejoule backend)
-				- Data (temp and hum)
-		- `Data frequency` = 1 minute(default)/Should be configurable
 
 	
-`Note`: The temperature and hum values can be of type float up to 2 decimal places.
+
+### Data Format** 
+
+
+- `Payload`
+	- Type : JSON format
+	- Parameters:
+		- Timestamp
+		- Device ID (to be provided by Dejoule backend)
+		- Site ID  (to be provided by Dejoule backend)
+		- Data (temp and hum)
+- `Data frequency` = 1 minute(default)/Should be configurable
+- `Note`: The temperature and hum values can be of type float up to 2 decimal places.
+
+
 
 ### Data Quality-of-Service(QOS)**
 
