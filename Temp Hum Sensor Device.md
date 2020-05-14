@@ -52,7 +52,7 @@ The following sections in the document are the technical requirements for this s
 		- `Data frequency` = 1 minute(default)/Should be configurable
 
 	
-`Note`: The temperature and hum values mentioned in the data packet below represent temperature and humidity values respectively. These can be of type float up to 2 decimal places.
+`Note`: The temperature and hum values can be of type float up to 2 decimal places.
 
 ### Data Quality-of-Service(QOS)**
 
