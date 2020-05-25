@@ -26,18 +26,16 @@ We need an action plan that
 **Action Plan**
 
 - Immediate Necessary Action
+- 
+- Awareness 
+- Monitoring and Measuring our consumption and waste  
+- Collaboration with Waste Management Consultants
+
 	- Tissues : Use of napkins, toilet rolls and face tissues. 
 	- Paper Waste : 
 		- Ideal Printer settings and policy
 		- Business Cards 
 	- 
-- 
-- Awareness 
-	- Training
-- Monitoring and Measuring our consumption and waste
-	- Measure how far are we from achieving the first outcome.  
-- Collaboration with Waste Management Consultants
-
 
 ### Waste Management Consultants 
 
@@ -47,7 +45,7 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MjM0NjY3LC03MDM3NzIzNjksMzc2OT
-AxMTMwLDU3NjQxMDQ5OCwyMDk4OTA2NTM0LC03MzU5MTc1NzQs
-LTE0NDQ2MDc3MjIsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE1OTYzNjQ0NTcsLTcwMzc3MjM2OSwzNz
+Y5MDExMzAsNTc2NDEwNDk4LDIwOTg5MDY1MzQsLTczNTkxNzU3
+NCwtMTQ0NDYwNzcyMiwtMjA4ODc0NjYxMl19
 -->
