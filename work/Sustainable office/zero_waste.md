@@ -17,17 +17,18 @@ Each step in the zero_waste action plan has to go through the following checks :
 
 We need an action plan that 
 - takes care of the existing waste problems immediately by deploying easy and economical solutions.
-- sets up a culture of sustainability by regular training 
+- sets up a culture of sustainability by regular training, knowledge share and positive influence. 
 - guides us consistently towards more sustainable waste management process and practices over the long term. 
 
 **Action Plan**
 
-- Immediate action
+- Immediate and Neceaction
 	- Tissues : Use of napkins, toilet rolls and face tissues. 
 	- Paper Waste : 
 		- Ideal Printer settings and policy
 		- Business Cards 
 	- 
+- 
 - Awareness 
 	- Training
 - Monitoring and Measuring our consumption and waste
@@ -43,7 +44,7 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkxNDk3MjAxLC03MDM3NzIzNjksMzc2OT
-AxMTMwLDU3NjQxMDQ5OCwyMDk4OTA2NTM0LC03MzU5MTc1NzQs
-LTE0NDQ2MDc3MjIsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTgxNzE3MzM4OCwtNzAzNzcyMzY5LDM3Nj
+kwMTEzMCw1NzY0MTA0OTgsMjA5ODkwNjUzNCwtNzM1OTE3NTc0
+LC0xNDQ0NjA3NzIyLC0yMDg4NzQ2NjEyXX0=
 -->
