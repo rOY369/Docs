@@ -45,9 +45,10 @@ We need an action plan in each waste category that
 **Immediate Action**
 
 - Tissues : Use of napkins, toilet rolls and face tissues. 
-	- 
+	- Toilet rolls in the washroom and tissues in the kitchen can be replaced by Beco products.  
 - Ideal Printer settings and policy
-- Business Cards 
+- 
+Business Cards 
 
 ### Waste Management Consultants 
 
@@ -57,8 +58,8 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NjU3MzA4NiwtMTU5NjM2NDQ1NywtNz
-AzNzcyMzY5LDM3NjkwMTEzMCw1NzY0MTA0OTgsMjA5ODkwNjUz
-NCwtNzM1OTE3NTc0LC0xNDQ0NjA3NzIyLC0yMDg4NzQ2NjEyXX
-0=
+eyJoaXN0b3J5IjpbLTIxMzQyNzY4OTksLTc2NjU3MzA4NiwtMT
+U5NjM2NDQ1NywtNzAzNzcyMzY5LDM3NjkwMTEzMCw1NzY0MTA0
+OTgsMjA5ODkwNjUzNCwtNzM1OTE3NTc0LC0xNDQ0NjA3NzIyLC
+0yMDg4NzQ2NjEyXX0=
 -->
