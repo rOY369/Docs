@@ -82,6 +82,9 @@ purified water.
 	- Vendor : Sandeep (+91-9873238833)
 
 
+## Food Waste 
+
+## 
 ### Waste Management Consultants 
 
 A waste management consultant can help streamline our waste disposal process, reduce waste management costs and minimize operational costs. It can provide tailor made solutions to manage waste and recycling. By carrying waste audit, it can determine effective ways to shift to zero waste and better waste management. If we collaborate with such consultants, we also get a green certificate. 
@@ -90,8 +93,8 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNzkxMzQyOSwtNzY2NTczMDg2LC0xNT
-k2MzY0NDU3LC03MDM3NzIzNjksMzc2OTAxMTMwLDU3NjQxMDQ5
-OCwyMDk4OTA2NTM0LC03MzU5MTc1NzQsLTE0NDQ2MDc3MjIsLT
-IwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTEwNDQ3ODY2MjcsLTgwNzkxMzQyOSwtNz
+Y2NTczMDg2LC0xNTk2MzY0NDU3LC03MDM3NzIzNjksMzc2OTAx
+MTMwLDU3NjQxMDQ5OCwyMDk4OTA2NTM0LC03MzU5MTc1NzQsLT
+E0NDQ2MDc3MjIsLTIwODg3NDY2MTJdfQ==
 -->
