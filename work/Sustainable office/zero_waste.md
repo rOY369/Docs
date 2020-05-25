@@ -22,7 +22,8 @@ We need an action plan that
 **Action Plan**
 
 - Immediate action
-
+	- Tissues : Use of napkins, toilet rolls and face tissues. 
+	- 
 - Awareness 
 	- Training
 - Monitoring and Measuring our consumption and waste
@@ -38,7 +39,7 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNTEwNzM0NSw1NzY0MTA0OTgsMjA5OD
-kwNjUzNCwtNzM1OTE3NTc0LC0xNDQ0NjA3NzIyLC0yMDg4NzQ2
-NjEyXX0=
+eyJoaXN0b3J5IjpbMjg0ODgxMjQ0LDU3NjQxMDQ5OCwyMDk4OT
+A2NTM0LC03MzU5MTc1NzQsLTE0NDQ2MDc3MjIsLTIwODg3NDY2
+MTJdfQ==
 -->
