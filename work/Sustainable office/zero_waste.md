@@ -7,7 +7,7 @@ The successful implementation of this zero_waste action plan means that the foll
  
 ## Basis of Action Plan 
 
-Each step in the zero_waste action plan has to go through the following checks :
+Each solution in the zero_waste action plan has to go through the following checks :
 - Is the solution absolutely required ? 
 - Is it easy to integrate into our lives ? 
 - Is it economically viable ?
@@ -17,7 +17,7 @@ It will cover the following types of waste - `paper`, `water`, `electricity`
 
 ## How ? 
 
-We need an action plan that 
+We need an action plan in each waste category that 
 - takes care of the existing waste problems immediately by deploying easy and economical solutions.
 - sets up a culture of sustainability by regular training, knowledge share and positive influence. 
 - involves tracking of our daily consumption.
@@ -26,13 +26,12 @@ We need an action plan that
 **Action Plan**
 
 - Immediate Necessary Action
-- 
+- Other effective solutions that can be discussed upon and deployed. 
 - Awareness 
 - Monitoring and Measuring our consumption and waste  
 - Collaboration with Waste Management Consultants
 
 ### Paper Waste
-
 
 - Tissues : Use of napkins, toilet rolls and face tissues. 
 - Ideal Printer settings and policy
@@ -46,8 +45,8 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1ODEwNDI4NywtMTU5NjM2NDQ1NywtNz
-AzNzcyMzY5LDM3NjkwMTEzMCw1NzY0MTA0OTgsMjA5ODkwNjUz
-NCwtNzM1OTE3NTc0LC0xNDQ0NjA3NzIyLC0yMDg4NzQ2NjEyXX
-0=
+eyJoaXN0b3J5IjpbLTIxNDEzODgyMDUsLTE1OTYzNjQ0NTcsLT
+cwMzc3MjM2OSwzNzY5MDExMzAsNTc2NDEwNDk4LDIwOTg5MDY1
+MzQsLTczNTkxNzU3NCwtMTQ0NDYwNzcyMiwtMjA4ODc0NjYxMl
+19
 -->
