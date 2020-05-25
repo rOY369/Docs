@@ -1,8 +1,9 @@
 
 ### Outcome 
 
-The successful implementation of this zero_waste action plan means that the following outcomes are achieved : 
-- Divert 90% of our solid waste from landfills either through recycling, composting, reusing or other methods. 
+The successful implementation of this zero_waste action plan means that the following outcomes are achieved -  Divert 90% of our solid waste from landfills either through recycling, composting, reusing or other methods.
+- Gte 
+ 
 
 ### Waste Management Consultants 
 
@@ -12,6 +13,6 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MDM3ODE4MCwtMTQ0NDYwNzcyMiwtMj
+eyJoaXN0b3J5IjpbLTYwODA0MDIxOSwtMTQ0NDYwNzcyMiwtMj
 A4ODc0NjYxMl19
 -->
