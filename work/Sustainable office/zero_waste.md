@@ -61,11 +61,12 @@ dispenser’s Rs 0.30.
 	- Turn on paper saving features in the printer ( read user manual )
 	- Double sided printing
 	- Penalty on excessive unnecessary printing
-	- Regular checks on paper 
+	- Regular checks on paper usage. 
 
 **Other possible solutions to be evaluated**
-- Business Cards 
 
+
+## Water Wa
 ### Waste Management Consultants 
 
 A waste management consultant can help streamline our waste disposal process, reduce waste management costs and minimize operational costs. It can provide tailor made solutions to manage waste and recycling. By carrying waste audit, it can determine effective ways to shift to zero waste and better waste management. If we collaborate with such consultants, we also get a green certificate. 
@@ -74,8 +75,8 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMjI5MTEyMCwtNzY2NTczMDg2LC0xNT
-k2MzY0NDU3LC03MDM3NzIzNjksMzc2OTAxMTMwLDU3NjQxMDQ5
-OCwyMDk4OTA2NTM0LC03MzU5MTc1NzQsLTE0NDQ2MDc3MjIsLT
-IwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTExMzAyNjQyMTQsLTc2NjU3MzA4NiwtMT
+U5NjM2NDQ1NywtNzAzNzcyMzY5LDM3NjkwMTEzMCw1NzY0MTA0
+OTgsMjA5ODkwNjUzNCwtNzM1OTE3NTc0LC0xNDQ0NjA3NzIyLC
+0yMDg4NzQ2NjEyXX0=
 -->
