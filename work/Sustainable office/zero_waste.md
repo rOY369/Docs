@@ -75,6 +75,10 @@ dispenser’s Rs 0.30.
 
 **Other possible solutions to be evaluated**
 - Replacing RO purifier with Alkaline Water Purifier
+	- No electricity required
+	- Enhanced mineral content of drinking water
+	- 
+	- Vendor : Sandeep (+91-9873238833)
 
 
 ### Waste Management Consultants 
@@ -85,8 +89,8 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTEyNjU5ODIsLTc2NjU3MzA4NiwtMT
-U5NjM2NDQ1NywtNzAzNzcyMzY5LDM3NjkwMTEzMCw1NzY0MTA0
-OTgsMjA5ODkwNjUzNCwtNzM1OTE3NTc0LC0xNDQ0NjA3NzIyLC
-0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbNjQ5NjUwNTkxLC03NjY1NzMwODYsLTE1OT
+YzNjQ0NTcsLTcwMzc3MjM2OSwzNzY5MDExMzAsNTc2NDEwNDk4
+LDIwOTg5MDY1MzQsLTczNTkxNzU3NCwtMTQ0NDYwNzcyMiwtMj
+A4ODc0NjYxMl19
 -->
