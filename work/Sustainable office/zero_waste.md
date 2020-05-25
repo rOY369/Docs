@@ -71,7 +71,7 @@ dispenser’s Rs 0.30.
 **Immediate Action**
 - Water saving tap aerator filter 
 	- Changing the water filters in all the taps ensure 40%-60% less water utilisation than regular taps. [https://www.amazon.in/Neosystek-Neo005-Plastic-Kitchen-Aerator/dp/B00HFQC7DK](https://www.amazon.in/Neosystek-Neo005-Plastic-Kitchen-Aerator/dp/B00HFQC7DK)
-	- Zerodor waterless urinals [https://www.merinorestrooms.com/products/zerodor-waterless-urinals/](https://www.merinorestrooms.com/products/zerodor-waterless-urinals/)
+- Zerodor waterless urinals [https://www.merinorestrooms.com/products/zerodor-waterless-urinals/](https://www.merinorestrooms.com/products/zerodor-waterless-urinals/)
 
 **Other possible solutions to be evaluated**
 - Replacing RO purifier with Alkaline Water Purifier
@@ -90,8 +90,8 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTMwMjI2MzcsLTc2NjU3MzA4NiwtMT
-U5NjM2NDQ1NywtNzAzNzcyMzY5LDM3NjkwMTEzMCw1NzY0MTA0
-OTgsMjA5ODkwNjUzNCwtNzM1OTE3NTc0LC0xNDQ0NjA3NzIyLC
-0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTgwNzkxMzQyOSwtNzY2NTczMDg2LC0xNT
+k2MzY0NDU3LC03MDM3NzIzNjksMzc2OTAxMTMwLDU3NjQxMDQ5
+OCwyMDk4OTA2NTM0LC03MzU5MTc1NzQsLTE0NDQ2MDc3MjIsLT
+IwODg3NDY2MTJdfQ==
 -->
