@@ -22,7 +22,9 @@ We need an action plan that
 **Action Plan**
 
 - Immediate action
+- 
 - Awareness 
+	- Training
 - Monitoring and Measuring our consumption and waste
 	- Measure how far are we from achieving the first outcome.  
 - Collaboration with Waste Management Consultants
@@ -36,6 +38,6 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5ODkwNjUzNCwtNzM1OTE3NTc0LC0xND
-Q0NjA3NzIyLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbNTc2NDEwNDk4LDIwOTg5MDY1MzQsLTczNT
+kxNzU3NCwtMTQ0NDYwNzcyMiwtMjA4ODc0NjYxMl19
 -->
