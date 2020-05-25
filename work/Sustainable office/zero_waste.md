@@ -17,8 +17,7 @@ Each step in the zero_waste action plan has to go through the following checks :
 
 We need an action plan that 
 - takes care of the existing waste problems immediately. 
-- 
-- guides us consistently towards a more sustainable process over the long term. 
+- guides us consistently towards more sustainable waste management process and practices over the long term. 
 
 
 ### Waste Management Consultants 
@@ -29,6 +28,6 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MzkyODc3OCwtMTQ0NDYwNzcyMiwtMj
+eyJoaXN0b3J5IjpbLTczNTkxNzU3NCwtMTQ0NDYwNzcyMiwtMj
 A4ODc0NjYxMl19
 -->
