@@ -15,7 +15,7 @@ Each solution in the zero_waste action plan has to go through the following chec
 
 It will cover the following types of waste - `paper`, `water`, `electricity`
 
-**Note** : Economically viable does not mean cheap solutions. The solution and its output together will be taken into account. All factors will be evaluated before 
+**Note** : Economically viable does not mean cheap solutions. The solution and its output together will be taken into account. All factors (installation, usage, maintenance, output etc.) will be evaluated to calculate cost-efficiency. 
 
 ## How ? 
 
@@ -47,11 +47,12 @@ We need an action plan in each waste category that
 **Immediate Action**
 
 - Tissues : Use of napkins, toilet rolls and face tissues. 
-	- Toilet rolls in the washroom and tissues in the kitchen can be replaced by Beco products.  
+	- Toilet rolls in the washroom and tissues in the kitchen can be replaced by Beco products.  [https://letsbeco.com/](https://letsbeco.com/)
+	- 
 - Ideal Printer settings and policy 
 
 **Other possible solutions to be evaluated**
-Business Cards 
+- Business Cards 
 
 ### Waste Management Consultants 
 
@@ -61,7 +62,7 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDM4MTE5OTEsLTc2NjU3MzA4NiwtMT
+eyJoaXN0b3J5IjpbLTE4OTc5NDE2MDcsLTc2NjU3MzA4NiwtMT
 U5NjM2NDQ1NywtNzAzNzcyMzY5LDM3NjkwMTEzMCw1NzY0MTA0
 OTgsMjA5ODkwNjUzNCwtNzM1OTE3NTc0LC0xNDQ0NjA3NzIyLC
 0yMDg4NzQ2NjEyXX0=
