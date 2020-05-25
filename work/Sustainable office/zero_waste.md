@@ -1,5 +1,7 @@
 
-### 
+### Outcome 
+
+- Divert 90% of 
 
 ### Waste Management Consultants 
 
@@ -9,6 +11,6 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDQ2MDc3MjIsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbNzc3MzE1OTcyLC0xNDQ0NjA3NzIyLC0yMD
+g4NzQ2NjEyXX0=
 -->
