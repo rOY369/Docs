@@ -42,7 +42,7 @@ We need an action plan in each waste category that
 - Arushi 
 - Dishant
 
-### Paper Waste
+## Paper Waste
 
 **Immediate Action**
 
@@ -61,6 +61,7 @@ dispenser’s Rs 0.30.
 	- Turn on paper saving features in the printer ( read user manual )
 	- Double sided printing
 	- Penalty on excessive unnecessary printing
+	- Regular checks on paper 
 
 **Other possible solutions to be evaluated**
 - Business Cards 
@@ -73,7 +74,7 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NDMxNDAxNiwtNzY2NTczMDg2LC0xNT
+eyJoaXN0b3J5IjpbMjExMjI5MTEyMCwtNzY2NTczMDg2LC0xNT
 k2MzY0NDU3LC03MDM3NzIzNjksMzc2OTAxMTMwLDU3NjQxMDQ5
 OCwyMDk4OTA2NTM0LC03MzU5MTc1NzQsLTE0NDQ2MDc3MjIsLT
 IwODg3NDY2MTJdfQ==
