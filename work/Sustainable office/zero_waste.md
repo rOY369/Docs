@@ -71,9 +71,9 @@ dispenser’s Rs 0.30.
 **Immediate Action**
 - Water saving tap aerator filter 
 	- Changing the water filters in all the taps ensure 40%-60% less water utilisation than regular taps. [https://www.amazon.in/Neosystek-Neo005-Plastic-Kitchen-Aerator/dp/B00HFQC7DK](https://www.amazon.in/Neosystek-Neo005-Plastic-Kitchen-Aerator/dp/B00HFQC7DK)
-	- 
 
 **Other possible solutions to be evaluated**
+- Zerodor waterless urinals 
 
 ### Waste Management Consultants 
 
@@ -83,8 +83,8 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTg1OTg4NzcsLTc2NjU3MzA4NiwtMT
-U5NjM2NDQ1NywtNzAzNzcyMzY5LDM3NjkwMTEzMCw1NzY0MTA0
-OTgsMjA5ODkwNjUzNCwtNzM1OTE3NTc0LC0xNDQ0NjA3NzIyLC
-0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTk4NjIwNDY0LC03NjY1NzMwODYsLTE1OT
+YzNjQ0NTcsLTcwMzc3MjM2OSwzNzY5MDExMzAsNTc2NDEwNDk4
+LDIwOTg5MDY1MzQsLTczNTkxNzU3NCwtMTQ0NDYwNzcyMiwtMj
+A4ODc0NjYxMl19
 -->
