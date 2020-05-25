@@ -84,6 +84,8 @@ purified water.
 
 ## Food Waste 
 
+## Stationary 
+
 ## 
 ### Waste Management Consultants 
 
@@ -93,8 +95,8 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDQ3ODY2MjcsLTgwNzkxMzQyOSwtNz
-Y2NTczMDg2LC0xNTk2MzY0NDU3LC03MDM3NzIzNjksMzc2OTAx
-MTMwLDU3NjQxMDQ5OCwyMDk4OTA2NTM0LC03MzU5MTc1NzQsLT
-E0NDQ2MDc3MjIsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTY4NDE5ODEyNSwtODA3OTEzNDI5LC03Nj
+Y1NzMwODYsLTE1OTYzNjQ0NTcsLTcwMzc3MjM2OSwzNzY5MDEx
+MzAsNTc2NDEwNDk4LDIwOTg5MDY1MzQsLTczNTkxNzU3NCwtMT
+Q0NDYwNzcyMiwtMjA4ODc0NjYxMl19
 -->
