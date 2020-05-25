@@ -53,8 +53,12 @@ We need an action plan in each waste category that
 		- Eco-friendly packaging
 		- Affordable
 	- Tissue paper dispenser in washroom to be replaced with hand dryer. 
-		- More hygienic. Dry tissue papers have the probability of having harmful bacteria and h
-- Ideal Printer settings and policy 
+		- More hygienic. Dry tissue papers have the probability of having harmful bacteria and germs. 
+		- Bad scenario - no tissue paper. 
+		- The average cost per use for a hand dryer is a measly Rs 0.05 as compared to a paper
+dispenser’s Rs 0.30. 
+- Ideal Printer settings and policy
+	- Turn on paper saving features in the priner
 
 **Other possible solutions to be evaluated**
 - Business Cards 
@@ -67,8 +71,8 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5Njc1NzUsLTc2NjU3MzA4NiwtMTU5Nj
-M2NDQ1NywtNzAzNzcyMzY5LDM3NjkwMTEzMCw1NzY0MTA0OTgs
-MjA5ODkwNjUzNCwtNzM1OTE3NTc0LC0xNDQ0NjA3NzIyLC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTYxNzM5MjIzNywtNzY2NTczMDg2LC0xNT
+k2MzY0NDU3LC03MDM3NzIzNjksMzc2OTAxMTMwLDU3NjQxMDQ5
+OCwyMDk4OTA2NTM0LC03MzU5MTc1NzQsLTE0NDQ2MDc3MjIsLT
+IwODg3NDY2MTJdfQ==
 -->
