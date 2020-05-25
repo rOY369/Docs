@@ -58,7 +58,9 @@ We need an action plan in each waste category that
 		- The average cost per use for a hand dryer is a measly Rs 0.05 as compared to a paper
 dispenser’s Rs 0.30. 
 - Ideal Printer settings and policy
-	- Turn on paper saving features in the priner
+	- Turn on paper saving features in the printer ( read user manual )
+	- Double sided printing
+	- Penalty on 
 
 **Other possible solutions to be evaluated**
 - Business Cards 
@@ -71,8 +73,8 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNzM5MjIzNywtNzY2NTczMDg2LC0xNT
-k2MzY0NDU3LC03MDM3NzIzNjksMzc2OTAxMTMwLDU3NjQxMDQ5
-OCwyMDk4OTA2NTM0LC03MzU5MTc1NzQsLTE0NDQ2MDc3MjIsLT
-IwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTEwMjY3NzIwOTIsLTc2NjU3MzA4NiwtMT
+U5NjM2NDQ1NywtNzAzNzcyMzY5LDM3NjkwMTEzMCw1NzY0MTA0
+OTgsMjA5ODkwNjUzNCwtNzM1OTE3NTc0LC0xNDQ0NjA3NzIyLC
+0yMDg4NzQ2NjEyXX0=
 -->
