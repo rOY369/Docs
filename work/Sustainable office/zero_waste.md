@@ -66,7 +66,15 @@ dispenser’s Rs 0.30.
 **Other possible solutions to be evaluated**
 
 
-## Water Wa
+## Water waste 
+
+**Immediate Action**
+- Water saving tap aerator filter 
+	- Changing the water filters in all the taps ensure 40%-60% less water utilisation than regular taps. [https://www.amazon.in/Neosystek-Neo005-Plastic-Kitchen-Aerator/dp/B00HFQC7DK](https://www.amazon.in/Neosystek-Neo005-Plastic-Kitchen-Aerator/dp/B00HFQC7DK)
+	- 
+
+**Other possible solutions to be evaluated**
+
 ### Waste Management Consultants 
 
 A waste management consultant can help streamline our waste disposal process, reduce waste management costs and minimize operational costs. It can provide tailor made solutions to manage waste and recycling. By carrying waste audit, it can determine effective ways to shift to zero waste and better waste management. If we collaborate with such consultants, we also get a green certificate. 
@@ -75,7 +83,7 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzAyNjQyMTQsLTc2NjU3MzA4NiwtMT
+eyJoaXN0b3J5IjpbLTEzNTg1OTg4NzcsLTc2NjU3MzA4NiwtMT
 U5NjM2NDQ1NywtNzAzNzcyMzY5LDM3NjkwMTEzMCw1NzY0MTA0
 OTgsMjA5ODkwNjUzNCwtNzM1OTE3NTc0LC0xNDQ0NjA3NzIyLC
 0yMDg4NzQ2NjEyXX0=
