@@ -1,11 +1,11 @@
 
-### Outcome 
+## Outcome 
 
 The successful implementation of this zero_waste action plan means that the following outcomes are achieved
 - Divert 90% of our solid waste from landfills either through recycling, composting, reusing or other methods.
 - Get a green certificate from a certified waste management consultant. 
  
-### Basis of Action Plan 
+## Basis of Action Plan 
 
 Each step in the zero_waste action plan has to go through the following checks :
 - Is the solution absolutely required ? 
@@ -15,7 +15,7 @@ Each step in the zero_waste action plan has to go through the following checks :
 
 It will cover the following types of waste - `paper`, `water`, `electricity`
 
-### How ? 
+## How ? 
 
 We need an action plan that 
 - takes care of the existing waste problems immediately by deploying easy and economical solutions.
@@ -31,11 +31,12 @@ We need an action plan that
 - Monitoring and Measuring our consumption and waste  
 - Collaboration with Waste Management Consultants
 
-	- Tissues : Use of napkins, toilet rolls and face tissues. 
-	- Paper Waste : 
-		- Ideal Printer settings and policy
-		- Business Cards 
-	- 
+### Paper Waste
+
+
+- Tissues : Use of napkins, toilet rolls and face tissues. 
+- Ideal Printer settings and policy
+- Business Cards 
 
 ### Waste Management Consultants 
 
@@ -45,7 +46,8 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTYzNjQ0NTcsLTcwMzc3MjM2OSwzNz
-Y5MDExMzAsNTc2NDEwNDk4LDIwOTg5MDY1MzQsLTczNTkxNzU3
-NCwtMTQ0NDYwNzcyMiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTU1ODEwNDI4NywtMTU5NjM2NDQ1NywtNz
+AzNzcyMzY5LDM3NjkwMTEzMCw1NzY0MTA0OTgsMjA5ODkwNjUz
+NCwtNzM1OTE3NTc0LC0xNDQ0NjA3NzIyLC0yMDg4NzQ2NjEyXX
+0=
 -->
