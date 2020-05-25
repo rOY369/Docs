@@ -30,8 +30,9 @@ We need an action plan in each waste category that
 - Other effective solutions that can be discussed upon and deployed. 
 	- Research other effective solutions to reduce consumption or better manage waste. 
 	- These ideas will then be discussed upon. 
-	- If found viable, thee
+	- If found viable, these will be deployed. 
 - Awareness 
+	- Positive influence through Training, JouleTALKS and creative learning methods. 
 - Monitoring and Measuring our consumption and waste  
 - Collaboration with Waste Management Consultants
 
@@ -53,8 +54,8 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NzA5NDg3OCwtMTU5NjM2NDQ1NywtNz
-AzNzcyMzY5LDM3NjkwMTEzMCw1NzY0MTA0OTgsMjA5ODkwNjUz
-NCwtNzM1OTE3NTc0LC0xNDQ0NjA3NzIyLC0yMDg4NzQ2NjEyXX
-0=
+eyJoaXN0b3J5IjpbLTEyNjQyMDI1MzgsLTE1OTYzNjQ0NTcsLT
+cwMzc3MjM2OSwzNzY5MDExMzAsNTc2NDEwNDk4LDIwOTg5MDY1
+MzQsLTczNTkxNzU3NCwtMTQ0NDYwNzcyMiwtMjA4ODc0NjYxMl
+19
 -->
