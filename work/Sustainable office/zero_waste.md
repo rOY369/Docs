@@ -7,7 +7,9 @@ The successful implementation of this zero_waste action plan means that the foll
  
 ### Basis of Action Plan 
 
-Each step in the zero_waste action plan has to meet up the following re
+Each step in the zero_waste action plan has to go through the following checks :
+- Is the solution absolutely required ? 
+- Is it easy to integrate into our lives ? 
 
 
 ### Waste Management Consultants 
@@ -18,6 +20,6 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcxMjg4Nzc4LC0xNDQ0NjA3NzIyLC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTgxNTk1MDM1OCwtMTQ0NDYwNzcyMiwtMj
+A4ODc0NjYxMl19
 -->
