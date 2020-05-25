@@ -47,8 +47,13 @@ We need an action plan in each waste category that
 **Immediate Action**
 
 - Tissues : Use of napkins, toilet rolls and face tissues. 
-	- Toilet rolls in the washroom and tissues in the kitchen can be replaced by Beco products.  [https://letsbeco.com/](https://letsbeco.com/)
-	- 
+	- Toilet rolls in the washroom and tissues in the kitchen can be replaced by Bamboo based tissues [https://letsbeco.com/](https://letsbeco.com/)
+		- Bamboo based tissues are greener than regular tissues. Bamboo is a crop and not a tree. Bamboo grows 5 times faster than any other crop, requires one-third the amount of water than any other alternative like cotton. 
+		- 100% natural and plant based. 
+		- Eco-friendly packaging
+		- Affordable
+	- Tissue paper dispenser in washroom to be replaced with hand dryer. 
+		- More hygienic. Dry tissue papers have the probability of having harmful bacteria and h
 - Ideal Printer settings and policy 
 
 **Other possible solutions to be evaluated**
@@ -62,8 +67,8 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTc5NDE2MDcsLTc2NjU3MzA4NiwtMT
-U5NjM2NDQ1NywtNzAzNzcyMzY5LDM3NjkwMTEzMCw1NzY0MTA0
-OTgsMjA5ODkwNjUzNCwtNzM1OTE3NTc0LC0xNDQ0NjA3NzIyLC
-0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTU5Njc1NzUsLTc2NjU3MzA4NiwtMTU5Nj
+M2NDQ1NywtNzAzNzcyMzY5LDM3NjkwMTEzMCw1NzY0MTA0OTgs
+MjA5ODkwNjUzNCwtNzM1OTE3NTc0LC0xNDQ0NjA3NzIyLC0yMD
+g4NzQ2NjEyXX0=
 -->
