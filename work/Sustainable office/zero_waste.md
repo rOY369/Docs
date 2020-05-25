@@ -23,10 +23,15 @@ We need an action plan in each waste category that
 - involves tracking of our daily consumption.
 - guides us consistently towards more sustainable waste management process and practices over the long term. 
 
+We need a 
+
 **Action Plan**
 
 - Immediate Necessary Action
+	- Solutions that are absolutely required right now. 
 - Other effective solutions that can be discussed upon and deployed. 
+	- Research other effective solutions to reduce consumption or better manage waste. 
+	- These ideas will then be discussed upon 
 - Awareness 
 - Monitoring and Measuring our consumption and waste  
 - Collaboration with Waste Management Consultants
@@ -45,7 +50,7 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDEzODgyMDUsLTE1OTYzNjQ0NTcsLT
+eyJoaXN0b3J5IjpbLTE3MDIzMzA1MzMsLTE1OTYzNjQ0NTcsLT
 cwMzc3MjM2OSwzNzY5MDExMzAsNTc2NDEwNDk4LDIwOTg5MDY1
 MzQsLTczNTkxNzU3NCwtMTQ0NDYwNzcyMiwtMjA4ODc0NjYxMl
 19
