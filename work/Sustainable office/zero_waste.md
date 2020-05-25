@@ -23,6 +23,8 @@ We need an action plan that
 
 - Immediate action
 	- Tissues : Use of napkins, toilet rolls and face tissues. 
+	- Paper Waste : 
+		- Ideal Printer setting and policy
 	- 
 - Awareness 
 	- Training
@@ -39,7 +41,7 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg0ODgxMjQ0LDU3NjQxMDQ5OCwyMDk4OT
-A2NTM0LC03MzU5MTc1NzQsLTE0NDQ2MDc3MjIsLTIwODg3NDY2
-MTJdfQ==
+eyJoaXN0b3J5IjpbLTE5OTIwNjA2NjIsNTc2NDEwNDk4LDIwOT
+g5MDY1MzQsLTczNTkxNzU3NCwtMTQ0NDYwNzcyMiwtMjA4ODc0
+NjYxMl19
 -->
