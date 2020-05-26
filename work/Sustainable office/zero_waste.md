@@ -96,9 +96,12 @@ purified water.
 ## Stationary 
 
 **Immediate Action**
+	- Refillable pens or pencils | No single use pens
+
 **Other possible solutions to be evaluated**
 - Plastic free diaries and stationary 
 	- Finding vendors for reasonable prices.
+- Whiteboard and marker to be replaced with blackboard and chalk 
 
 ## General Waste Management
 
@@ -117,7 +120,7 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MjA0MTMwMywxNzE0MjUxNTk3LDIyMT
+eyJoaXN0b3J5IjpbLTgxNDQ4ODA1OSwxNzE0MjUxNTk3LDIyMT
 k3ODc3NywtOTM4OTM2MzQxLDE2ODQxOTgxMjUsLTgwNzkxMzQy
 OSwtNzY2NTczMDg2LC0xNTk2MzY0NDU3LC03MDM3NzIzNjksMz
 c2OTAxMTMwLDU3NjQxMDQ5OCwyMDk4OTA2NTM0LC03MzU5MTc1
