@@ -89,6 +89,7 @@ purified water.
 	- Vendor : Sandeep (+91-9873238833)
 - Zerodor waterless urinals [https://www.merinorestrooms.com/products/zerodor-waterless-urinals/](https://www.merinorestrooms.com/products/zerodor-waterless-urinals/)
 
+## Packaging and Plastic
 
 ## Food/Kitchen Waste
 
@@ -98,13 +99,15 @@ purified water.
 **Other possible solutions to be evaluated**
 - Plastic free diaries and stationary 
 	- Finding vendors for reasonable prices.
-- 
 
 ## General Waste Management
 
 **Questions**
 - How should waste segregation be done ?
+	- plastic waste
+	- e-waste
 - What to do with different types of waste produced ?
+	- plastic waste and e-waste to be disposed off through recyclers
 
 ## Waste Management Consultants 
 
@@ -114,9 +117,9 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjU0NjEyNDksMTcxNDI1MTU5NywyMj
-E5Nzg3NzcsLTkzODkzNjM0MSwxNjg0MTk4MTI1LC04MDc5MTM0
-MjksLTc2NjU3MzA4NiwtMTU5NjM2NDQ1NywtNzAzNzcyMzY5LD
-M3NjkwMTEzMCw1NzY0MTA0OTgsMjA5ODkwNjUzNCwtNzM1OTE3
-NTc0LC0xNDQ0NjA3NzIyLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTk0MjA0MTMwMywxNzE0MjUxNTk3LDIyMT
+k3ODc3NywtOTM4OTM2MzQxLDE2ODQxOTgxMjUsLTgwNzkxMzQy
+OSwtNzY2NTczMDg2LC0xNTk2MzY0NDU3LC03MDM3NzIzNjksMz
+c2OTAxMTMwLDU3NjQxMDQ5OCwyMDk4OTA2NTM0LC03MzU5MTc1
+NzQsLTE0NDQ2MDc3MjIsLTIwODg3NDY2MTJdfQ==
 -->
