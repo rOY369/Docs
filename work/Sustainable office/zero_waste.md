@@ -3,7 +3,7 @@
 
 The successful implementation of this zero_waste action plan means that the following outcomes are achieved
 - Divert 90% of our solid waste from landfills either through recycling, composting, reusing or other methods.
-- Electricity saving target
+- Electricity saving target ? 
 - Get a green certificate from a certified waste management consultant. 
  
 ## Basis of Action Plan 
@@ -18,7 +18,7 @@ Most critical points to remember -
 - Reduce plastic as much as possible 
 - Consume responsibly
 
-It will cover the following types of waste - `paper`, `water`, `electricity`
+It will cover the following types of waste - `paper`, `plsatic`,  `food/kitchen`,  `water`, `electricity`, 
 
 **Note** : Economically viable does not mean cheap solutions. The solution and its output together will be taken into account. All factors (installation, usage, maintenance, output etc.) will be evaluated to calculate cost-efficiency. 
 
@@ -126,7 +126,7 @@ purified water.
 - What to do with different types of waste produced ?
 	- plastic waste and e-waste to be disposed off through recyclers
 
-## Waste Management Consultants 
+## Waste Management/Zero Waste Consultants 
 
 A waste management consultant can help streamline our waste disposal process, reduce waste management costs and minimize operational costs. It can provide tailor made solutions to manage waste and recycling. By carrying waste audit, it can determine effective ways to shift to zero waste and better waste management. If we collaborate with such consultants, we also get a green certificate. 
 
@@ -134,9 +134,10 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDkyODAyMTQsMTcxNDI1MTU5NywyMj
-E5Nzg3NzcsLTkzODkzNjM0MSwxNjg0MTk4MTI1LC04MDc5MTM0
-MjksLTc2NjU3MzA4NiwtMTU5NjM2NDQ1NywtNzAzNzcyMzY5LD
-M3NjkwMTEzMCw1NzY0MTA0OTgsMjA5ODkwNjUzNCwtNzM1OTE3
-NTc0LC0xNDQ0NjA3NzIyLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbNzkwOTEzMDksLTE4NDkyODAyMTQsMTcxND
+I1MTU5NywyMjE5Nzg3NzcsLTkzODkzNjM0MSwxNjg0MTk4MTI1
+LC04MDc5MTM0MjksLTc2NjU3MzA4NiwtMTU5NjM2NDQ1NywtNz
+AzNzcyMzY5LDM3NjkwMTEzMCw1NzY0MTA0OTgsMjA5ODkwNjUz
+NCwtNzM1OTE3NTc0LC0xNDQ0NjA3NzIyLC0yMDg4NzQ2NjEyXX
+0=
 -->
