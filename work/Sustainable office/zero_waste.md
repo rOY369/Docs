@@ -107,6 +107,7 @@ purified water.
 
 **Immediate Action**
 	- Refillable pens or pencils | No single use pens
+		- Best solution ?
 	- Notebooks and diaries
 		- Recycled paper
 		- Ensure there is no plastic covering
@@ -121,14 +122,13 @@ purified water.
 
 **Questions**
 - How should waste segregation be done ?
-	- plastic waste
+	- plastic 
 	- e-waste
 	- Paper
 	- Cardboard
 	- Metal/Tin
-	- 
 - What to do with different types of waste produced ?
-	- Segregated waste to be disposed off through Chintan
+	- Segregated waste to be disposed off through a certified recycler like Chintan
 
 ## Waste Management/Zero Waste Consultants 
 
@@ -138,7 +138,7 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDc0ODE5MTMsNzkwOTEzMDksLTE4ND
+eyJoaXN0b3J5IjpbLTE0ODU5NTAwMDEsNzkwOTEzMDksLTE4ND
 kyODAyMTQsMTcxNDI1MTU5NywyMjE5Nzg3NzcsLTkzODkzNjM0
 MSwxNjg0MTk4MTI1LC04MDc5MTM0MjksLTc2NjU3MzA4NiwtMT
 U5NjM2NDQ1NywtNzAzNzcyMzY5LDM3NjkwMTEzMCw1NzY0MTA0
