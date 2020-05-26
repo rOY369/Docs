@@ -123,8 +123,12 @@ purified water.
 - How should waste segregation be done ?
 	- plastic waste
 	- e-waste
+	- Paper
+	- Cardboard
+	- Metal/Tin
+	- 
 - What to do with different types of waste produced ?
-	- plastic waste and e-waste to be disposed off through recyclers
+	- Segregated waste to be disposed off through Chintan
 
 ## Waste Management/Zero Waste Consultants 
 
@@ -134,10 +138,10 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkwOTEzMDksLTE4NDkyODAyMTQsMTcxND
-I1MTU5NywyMjE5Nzg3NzcsLTkzODkzNjM0MSwxNjg0MTk4MTI1
-LC04MDc5MTM0MjksLTc2NjU3MzA4NiwtMTU5NjM2NDQ1NywtNz
-AzNzcyMzY5LDM3NjkwMTEzMCw1NzY0MTA0OTgsMjA5ODkwNjUz
-NCwtNzM1OTE3NTc0LC0xNDQ0NjA3NzIyLC0yMDg4NzQ2NjEyXX
-0=
+eyJoaXN0b3J5IjpbLTE3NDc0ODE5MTMsNzkwOTEzMDksLTE4ND
+kyODAyMTQsMTcxNDI1MTU5NywyMjE5Nzg3NzcsLTkzODkzNjM0
+MSwxNjg0MTk4MTI1LC04MDc5MTM0MjksLTc2NjU3MzA4NiwtMT
+U5NjM2NDQ1NywtNzAzNzcyMzY5LDM3NjkwMTEzMCw1NzY0MTA0
+OTgsMjA5ODkwNjUzNCwtNzM1OTE3NTc0LC0xNDQ0NjA3NzIyLC
+0yMDg4NzQ2NjEyXX0=
 -->
