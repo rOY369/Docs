@@ -3,6 +3,7 @@
 
 The successful implementation of this zero_waste action plan means that the following outcomes are achieved
 - Divert 90% of our solid waste from landfills either through recycling, composting, reusing or other methods.
+- Electricity saving target
 - Get a green certificate from a certified waste management consultant. 
  
 ## Basis of Action Plan 
@@ -82,7 +83,7 @@ purified water.
 	- No electricity required
 	- Enhanced mineral content of drinking water
 	- Vendor : Sandeep (+91-9873238833)
-- - Zerodor waterless urinals [https://www.merinorestrooms.com/products/zerodor-waterless-urinals/](https://www.merinorestrooms.com/products/zerodor-waterless-urinals/)
+- Zerodor waterless urinals [https://www.merinorestrooms.com/products/zerodor-waterless-urinals/](https://www.merinorestrooms.com/products/zerodor-waterless-urinals/)
 
 
 ## Food Waste 
@@ -100,9 +101,9 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzA0NDY4OTksMjIxOTc4Nzc3LC05Mz
-g5MzYzNDEsMTY4NDE5ODEyNSwtODA3OTEzNDI5LC03NjY1NzMw
-ODYsLTE1OTYzNjQ0NTcsLTcwMzc3MjM2OSwzNzY5MDExMzAsNT
-c2NDEwNDk4LDIwOTg5MDY1MzQsLTczNTkxNzU3NCwtMTQ0NDYw
-NzcyMiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTIxODU4MjgyOSwyMjE5Nzg3NzcsLTkzOD
+kzNjM0MSwxNjg0MTk4MTI1LC04MDc5MTM0MjksLTc2NjU3MzA4
+NiwtMTU5NjM2NDQ1NywtNzAzNzcyMzY5LDM3NjkwMTEzMCw1Nz
+Y0MTA0OTgsMjA5ODkwNjUzNCwtNzM1OTE3NTc0LC0xNDQ0NjA3
+NzIyLC0yMDg4NzQ2NjEyXX0=
 -->
