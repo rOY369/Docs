@@ -97,6 +97,10 @@ purified water.
 
 **Immediate Action**
 	- Refillable pens or pencils | No single use pens
+	- Notebooks and diaries
+		- Recycled paper
+		- Ensure there is no plastic covering
+	- 
 
 **Other possible solutions to be evaluated**
 - Plastic free diaries and stationary 
@@ -120,7 +124,7 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNDQ4ODA1OSwxNzE0MjUxNTk3LDIyMT
+eyJoaXN0b3J5IjpbLTMyMDE1ODU5OCwxNzE0MjUxNTk3LDIyMT
 k3ODc3NywtOTM4OTM2MzQxLDE2ODQxOTgxMjUsLTgwNzkxMzQy
 OSwtNzY2NTczMDg2LC0xNTk2MzY0NDU3LC03MDM3NzIzNjksMz
 c2OTAxMTMwLDU3NjQxMDQ5OCwyMDk4OTA2NTM0LC03MzU5MTc1
