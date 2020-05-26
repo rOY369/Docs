@@ -14,6 +14,10 @@ Each solution in the zero_waste action plan has to go through the following chec
 - Is it economically viable ?
 - Is it super-satisfying to use ? 
 
+Most critical points to remember - 
+- Reduce plastic as much as possible 
+- Consume responsibly
+
 It will cover the following types of waste - `paper`, `water`, `electricity`
 
 **Note** : Economically viable does not mean cheap solutions. The solution and its output together will be taken into account. All factors (installation, usage, maintenance, output etc.) will be evaluated to calculate cost-efficiency. 
@@ -90,6 +94,10 @@ purified water.
 
 ## Stationary 
 
+**Immediate Action**
+- 
+**Other possible solutions to be evaluated**
+
 ## General Waste Management
 
 **Questions**
@@ -104,7 +112,7 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMzI4Mzc4OCwxNzE0MjUxNTk3LDIyMT
+eyJoaXN0b3J5IjpbLTIwMzAzMTUzMCwxNzE0MjUxNTk3LDIyMT
 k3ODc3NywtOTM4OTM2MzQxLDE2ODQxOTgxMjUsLTgwNzkxMzQy
 OSwtNzY2NTczMDg2LC0xNTk2MzY0NDU3LC03MDM3NzIzNjksMz
 c2OTAxMTMwLDU3NjQxMDQ5OCwyMDk4OTA2NTM0LC03MzU5MTc1
