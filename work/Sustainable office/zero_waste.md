@@ -73,7 +73,7 @@ dispenser’s Rs 0.30.
 **Immediate Action**
 - Water saving tap aerator filter 
 	- Changing the water filters in all the taps ensure 40%-60% less water utilisation than regular taps. [https://www.amazon.in/Neosystek-Neo005-Plastic-Kitchen-Aerator/dp/B00HFQC7DK](https://www.amazon.in/Neosystek-Neo005-Plastic-Kitchen-Aerator/dp/B00HFQC7DK)
-- Zerodor waterless urinals [https://www.merinorestrooms.com/products/zerodor-waterless-urinals/](https://www.merinorestrooms.com/products/zerodor-waterless-urinals/)
+
 
 **Other possible solutions to be evaluated**
 - Replacing RO purifier with Alkaline Water Purifier
@@ -82,6 +82,7 @@ purified water.
 	- No electricity required
 	- Enhanced mineral content of drinking water
 	- Vendor : Sandeep (+91-9873238833)
+- - Zerodor waterless urinals [https://www.merinorestrooms.com/products/zerodor-waterless-urinals/](https://www.merinorestrooms.com/products/zerodor-waterless-urinals/)
 
 
 ## Food Waste 
@@ -91,7 +92,7 @@ purified water.
 ## General Waste Management
 
 
-### Waste Management Consultants 
+## Waste Management Consultants 
 
 A waste management consultant can help streamline our waste disposal process, reduce waste management costs and minimize operational costs. It can provide tailor made solutions to manage waste and recycling. By carrying waste audit, it can determine effective ways to shift to zero waste and better waste management. If we collaborate with such consultants, we also get a green certificate. 
 
@@ -99,9 +100,9 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIxOTc4Nzc3LC05Mzg5MzYzNDEsMTY4ND
-E5ODEyNSwtODA3OTEzNDI5LC03NjY1NzMwODYsLTE1OTYzNjQ0
-NTcsLTcwMzc3MjM2OSwzNzY5MDExMzAsNTc2NDEwNDk4LDIwOT
-g5MDY1MzQsLTczNTkxNzU3NCwtMTQ0NDYwNzcyMiwtMjA4ODc0
-NjYxMl19
+eyJoaXN0b3J5IjpbLTE3MzA0NDY4OTksMjIxOTc4Nzc3LC05Mz
+g5MzYzNDEsMTY4NDE5ODEyNSwtODA3OTEzNDI5LC03NjY1NzMw
+ODYsLTE1OTYzNjQ0NTcsLTcwMzc3MjM2OSwzNzY5MDExMzAsNT
+c2NDEwNDk4LDIwOTg5MDY1MzQsLTczNTkxNzU3NCwtMTQ0NDYw
+NzcyMiwtMjA4ODc0NjYxMl19
 -->
