@@ -86,7 +86,7 @@ purified water.
 - Zerodor waterless urinals [https://www.merinorestrooms.com/products/zerodor-waterless-urinals/](https://www.merinorestrooms.com/products/zerodor-waterless-urinals/)
 
 
-## Food Waste 
+## Food/Kitchen Waste
 
 ## Stationary 
 
@@ -104,9 +104,9 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNDI1MTU5NywyMjE5Nzg3NzcsLTkzOD
-kzNjM0MSwxNjg0MTk4MTI1LC04MDc5MTM0MjksLTc2NjU3MzA4
-NiwtMTU5NjM2NDQ1NywtNzAzNzcyMzY5LDM3NjkwMTEzMCw1Nz
-Y0MTA0OTgsMjA5ODkwNjUzNCwtNzM1OTE3NTc0LC0xNDQ0NjA3
-NzIyLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTMzMzI4Mzc4OCwxNzE0MjUxNTk3LDIyMT
+k3ODc3NywtOTM4OTM2MzQxLDE2ODQxOTgxMjUsLTgwNzkxMzQy
+OSwtNzY2NTczMDg2LC0xNTk2MzY0NDU3LC03MDM3NzIzNjksMz
+c2OTAxMTMwLDU3NjQxMDQ5OCwyMDk4OTA2NTM0LC03MzU5MTc1
+NzQsLTE0NDQ2MDc3MjIsLTIwODg3NDY2MTJdfQ==
 -->
