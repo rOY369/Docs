@@ -91,6 +91,11 @@ purified water.
 
 ## Packaging and Plastic
 
+**Other possible solutions to be evaluated**
+
+- Policy 
+	- 
+
 ## Food/Kitchen Waste
 
 ## Stationary 
@@ -124,9 +129,9 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMDE1ODU5OCwxNzE0MjUxNTk3LDIyMT
-k3ODc3NywtOTM4OTM2MzQxLDE2ODQxOTgxMjUsLTgwNzkxMzQy
-OSwtNzY2NTczMDg2LC0xNTk2MzY0NDU3LC03MDM3NzIzNjksMz
-c2OTAxMTMwLDU3NjQxMDQ5OCwyMDk4OTA2NTM0LC03MzU5MTc1
-NzQsLTE0NDQ2MDc3MjIsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTIwMzI1NDM3ODQsMTcxNDI1MTU5NywyMj
+E5Nzg3NzcsLTkzODkzNjM0MSwxNjg0MTk4MTI1LC04MDc5MTM0
+MjksLTc2NjU3MzA4NiwtMTU5NjM2NDQ1NywtNzAzNzcyMzY5LD
+M3NjkwMTEzMCw1NzY0MTA0OTgsMjA5ODkwNjUzNCwtNzM1OTE3
+NTc0LC0xNDQ0NjA3NzIyLC0yMDg4NzQ2NjEyXX0=
 -->
