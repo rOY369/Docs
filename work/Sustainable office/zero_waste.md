@@ -98,6 +98,9 @@ purified water.
 ## Packaging and Plastic
 
 **Immediate Action**
+- bubble wrapping
+- cardboard
+
 **Other possible solutions to be evaluated**
 - Policy 
 	- No chips/snacks/biscuits packed in multilayered packaging
@@ -143,11 +146,11 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MTM2NTAzOCwtMjE0NDI0NzM1MCwtMT
-Q4NTk1MDAwMSw3OTA5MTMwOSwtMTg0OTI4MDIxNCwxNzE0MjUx
-NTk3LDIyMTk3ODc3NywtOTM4OTM2MzQxLDE2ODQxOTgxMjUsLT
-gwNzkxMzQyOSwtNzY2NTczMDg2LC0xNTk2MzY0NDU3LC03MDM3
-NzIzNjksMzc2OTAxMTMwLDU3NjQxMDQ5OCwyMDk4OTA2NTM0LC
-03MzU5MTc1NzQsLTE0NDQ2MDc3MjIsLTIwODg3NDY2MTJdfQ==
-
+eyJoaXN0b3J5IjpbLTExNDUwOTU0OTgsMTI1MTM2NTAzOCwtMj
+E0NDI0NzM1MCwtMTQ4NTk1MDAwMSw3OTA5MTMwOSwtMTg0OTI4
+MDIxNCwxNzE0MjUxNTk3LDIyMTk3ODc3NywtOTM4OTM2MzQxLD
+E2ODQxOTgxMjUsLTgwNzkxMzQyOSwtNzY2NTczMDg2LC0xNTk2
+MzY0NDU3LC03MDM3NzIzNjksMzc2OTAxMTMwLDU3NjQxMDQ5OC
+wyMDk4OTA2NTM0LC03MzU5MTc1NzQsLTE0NDQ2MDc3MjIsLTIw
+ODg3NDY2MTJdfQ==
 -->
