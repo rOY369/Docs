@@ -49,6 +49,12 @@ We need an action plan in each waste category that
 
 ## Electricity Waste
 
+## E-waste
+
+**Immediate action**
+- Discussion with site employees
+
+
 ## Paper Waste
 
 **Immediate Action**
@@ -137,10 +143,11 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQyNDczNTAsLTE0ODU5NTAwMDEsNz
-kwOTEzMDksLTE4NDkyODAyMTQsMTcxNDI1MTU5NywyMjE5Nzg3
-NzcsLTkzODkzNjM0MSwxNjg0MTk4MTI1LC04MDc5MTM0MjksLT
-c2NjU3MzA4NiwtMTU5NjM2NDQ1NywtNzAzNzcyMzY5LDM3Njkw
-MTEzMCw1NzY0MTA0OTgsMjA5ODkwNjUzNCwtNzM1OTE3NTc0LC
-0xNDQ0NjA3NzIyLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTI1MTM2NTAzOCwtMjE0NDI0NzM1MCwtMT
+Q4NTk1MDAwMSw3OTA5MTMwOSwtMTg0OTI4MDIxNCwxNzE0MjUx
+NTk3LDIyMTk3ODc3NywtOTM4OTM2MzQxLDE2ODQxOTgxMjUsLT
+gwNzkxMzQyOSwtNzY2NTczMDg2LC0xNTk2MzY0NDU3LC03MDM3
+NzIzNjksMzc2OTAxMTMwLDU3NjQxMDQ5OCwyMDk4OTA2NTM0LC
+03MzU5MTc1NzQsLTE0NDQ2MDc3MjIsLTIwODg3NDY2MTJdfQ==
+
 -->
