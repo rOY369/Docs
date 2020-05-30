@@ -2,7 +2,7 @@
 System reliability 
 - 
 DeJoule reliability 
--	
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE4OTkwMDk5LDQ5NzgxODgxMF19
+eyJoaXN0b3J5IjpbLTIwNjgxNTc1MjcsNDk3ODE4ODEwXX0=
 -->
