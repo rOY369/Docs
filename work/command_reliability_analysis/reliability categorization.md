@@ -9,7 +9,10 @@ DeJoule reliability
 	- status 3 + status 0 + status 6 
 	- Failures due to software - 
 	- Failures due to asset - 
+		- asset off
+		- asset mode (manual)
+		- modbus communication error
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTExOTA0NDQ1LC0yMDY4MTU3NTI3LDQ5Nz
-gxODgxMF19
+eyJoaXN0b3J5IjpbMjAxNTgxODkxNSwtMjA2ODE1NzUyNyw0OT
+c4MTg4MTBdfQ==
 -->
