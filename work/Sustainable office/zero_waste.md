@@ -86,12 +86,7 @@ dispenser’s Rs 0.30.
 
 
 **Other possible solutions to be evaluated**
-- Replacing RO purifier with Alkaline Water Purifier
-	- RO purifier wastes approximately 3 litres of water for every 1 litre of
-purified water.
-	- No electricity required
-	- Enhanced mineral content of drinking water
-	- Vendor : Sandeep (+91-9873238833)
+
 - Zerodor waterless urinals [https://www.merinorestrooms.com/products/zerodor-waterless-urinals/](https://www.merinorestrooms.com/products/zerodor-waterless-urinals/)
 
 ## Packaging and Plastic
@@ -128,24 +123,25 @@ purified water.
 
 ## General Waste Management
 
-- wASTE
+- Waste Segregation
 	- plastic 
 	- e-waste
 	- Paper
 	- Cardboard
 	- Metal/Tin
-- What to do with different types of waste produced ?
-	- Segregated waste to be disposed off through a certified recycler like Chintan
+- Segregated waste to be disposed off through Chintan
 
-## Waste Management/Zero Waste Consultants 
-
-A waste management consultant can help streamline our waste disposal process, reduce waste management costs and minimize operational costs. It can provide tailor made solutions to manage waste and recycling. By carrying waste audit, it can determine effective ways to shift to zero waste and better waste management. If we collaborate with such consultants, we also get a green certificate. 
-
-Possible consultants in/around Delhi to collaborate with : 
-- Chintan 
-- Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
+## Future 
+ - waste consultants
+ - - Replacing RO purifier with Alkaline Water Purifier
+	- RO purifier wastes approximately 3 litres of water for every 1 litre of
+purified water.
+	- No electricity required
+	- Enhanced mineral content of drinking water
+	- Vendor : Sandeep (+91-9873238833)
+ - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NjE0OTk1NywtMTE0NTA5NTQ5OCwxMj
+eyJoaXN0b3J5IjpbLTQ3NzEyMDA0NSwtMTE0NTA5NTQ5OCwxMj
 UxMzY1MDM4LC0yMTQ0MjQ3MzUwLC0xNDg1OTUwMDAxLDc5MDkx
 MzA5LC0xODQ5MjgwMjE0LDE3MTQyNTE1OTcsMjIxOTc4Nzc3LC
 05Mzg5MzYzNDEsMTY4NDE5ODEyNSwtODA3OTEzNDI5LC03NjY1
