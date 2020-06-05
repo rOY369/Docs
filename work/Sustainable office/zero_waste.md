@@ -100,11 +100,9 @@ dispenser’s Rs 0.30.
 	- No chips/snacks/biscuits packed in multilayered packaging
 - What to do with ordered packaged food ?
 
-## Food/Kitchen Waste
+## Food Waste
 **Immediate Action**
 **Other possible solutions to be evaluated**
-- Policy 
-	- No Food Wastage
 
 ## Stationary 
 
@@ -114,7 +112,6 @@ dispenser’s Rs 0.30.
 	- Notebooks and diaries
 		- Recycled paper
 		- Ensure there is no plastic covering
-	- 
 
 **Other possible solutions to be evaluated**
 - Plastic free diaries and stationary 
@@ -133,15 +130,17 @@ dispenser’s Rs 0.30.
 
 ## Future 
  - waste consultants
- - - Replacing RO purifier with Alkaline Water Purifier
+ - Replacing RO purifier with Alkaline Water Purifier
 	- RO purifier wastes approximately 3 litres of water for every 1 litre of
 purified water.
 	- No electricity required
 	- Enhanced mineral content of drinking water
 	- Vendor : Sandeep (+91-9873238833)
- - 
+
+## General Guidelines
+- F
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NzEyMDA0NSwtMTE0NTA5NTQ5OCwxMj
+eyJoaXN0b3J5IjpbMTYzNTM1OTY2MCwtMTE0NTA5NTQ5OCwxMj
 UxMzY1MDM4LC0yMTQ0MjQ3MzUwLC0xNDg1OTUwMDAxLDc5MDkx
 MzA5LC0xODQ5MjgwMjE0LDE3MTQyNTE1OTcsMjIxOTc4Nzc3LC
 05Mzg5MzYzNDEsMTY4NDE5ODEyNSwtODA3OTEzNDI5LC03NjY1
