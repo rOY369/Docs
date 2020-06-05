@@ -128,7 +128,7 @@ purified water.
 
 ## General Waste Management
 
-- How should waste segregation be done ?
+- wASTE
 	- plastic 
 	- e-waste
 	- Paper
@@ -145,7 +145,7 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MTE4MTIwMCwtMTE0NTA5NTQ5OCwxMj
+eyJoaXN0b3J5IjpbMTM2NjE0OTk1NywtMTE0NTA5NTQ5OCwxMj
 UxMzY1MDM4LC0yMTQ0MjQ3MzUwLC0xNDg1OTUwMDAxLDc5MDkx
 MzA5LC0xODQ5MjgwMjE0LDE3MTQyNTE1OTcsMjIxOTc4Nzc3LC
 05Mzg5MzYzNDEsMTY4NDE5ODEyNSwtODA3OTEzNDI5LC03NjY1
