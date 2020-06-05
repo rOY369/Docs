@@ -14,9 +14,7 @@ DeJoule reliability
 			- `automanual` data parameter of vfd.
 		- modbus communication error
 			- logType write (OSError)
-	- Failures due to software 
-		- Total failures - failures due to asset
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NDg5MDY2MCwtMTk4NjAzNjg2NywtMj
-A2ODE1NzUyNyw0OTc4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbLTExNDIwNDI0OTUsMTI5NDg5MDY2MCwtMT
+k4NjAzNjg2NywtMjA2ODE1NzUyNyw0OTc4MTg4MTBdfQ==
 -->
