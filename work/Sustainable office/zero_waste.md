@@ -51,7 +51,7 @@ We need an action plan in each waste category that
 ## E-waste
 
 **Immediate action**
-- Discussion with site employees
+- General analysis of how much electronic waste we produce. Discussion with site employees to be done. 
 
 
 ## Paper Waste
@@ -96,9 +96,6 @@ dispenser’s Rs 0.30.
 - cardboard
 
 **Other possible solutions to be evaluated**
-- Policy 
-	- No chips/snacks/biscuits packed in multilayered packaging
-- What to do with ordered packaged food ?
 
 ## Food Waste
 **Immediate Action**
@@ -138,9 +135,10 @@ purified water.
 	- Vendor : Sandeep (+91-9873238833)
 
 ## General Guidelines
-- F
+- Food wastage
+- Packaged food
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNTM1OTY2MCwtMTE0NTA5NTQ5OCwxMj
+eyJoaXN0b3J5IjpbLTI3NDIyMjAzOCwtMTE0NTA5NTQ5OCwxMj
 UxMzY1MDM4LC0yMTQ0MjQ3MzUwLC0xNDg1OTUwMDAxLDc5MDkx
 MzA5LC0xODQ5MjgwMjE0LDE3MTQyNTE1OTcsMjIxOTc4Nzc3LC
 05Mzg5MzYzNDEsMTY4NDE5ODEyNSwtODA3OTEzNDI5LC03NjY1
