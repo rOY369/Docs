@@ -4,8 +4,7 @@
 The successful implementation of this zero_waste action plan means that the following outcomes are achieved
 - Divert 90% of our solid waste from landfills either through recycling, composting, reusing or other methods.
 - Electricity saving target ? 
-- Get a green certificate from a certified waste management consultant. 
- 
+
 ## Basis of Action Plan 
 
 Each solution in the zero_waste action plan has to go through the following checks :
@@ -146,11 +145,11 @@ Possible consultants in/around Delhi to collaborate with :
 - Chintan 
 - Saahas [https://saahaszerowaste.com/waste-management-consultant-audit/#corporates](https://saahaszerowaste.com/waste-management-consultant-audit/#corporates)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDUwOTU0OTgsMTI1MTM2NTAzOCwtMj
-E0NDI0NzM1MCwtMTQ4NTk1MDAwMSw3OTA5MTMwOSwtMTg0OTI4
-MDIxNCwxNzE0MjUxNTk3LDIyMTk3ODc3NywtOTM4OTM2MzQxLD
-E2ODQxOTgxMjUsLTgwNzkxMzQyOSwtNzY2NTczMDg2LC0xNTk2
-MzY0NDU3LC03MDM3NzIzNjksMzc2OTAxMTMwLDU3NjQxMDQ5OC
-wyMDk4OTA2NTM0LC03MzU5MTc1NzQsLTE0NDQ2MDc3MjIsLTIw
-ODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTY4MTE4MTIwMCwtMTE0NTA5NTQ5OCwxMj
+UxMzY1MDM4LC0yMTQ0MjQ3MzUwLC0xNDg1OTUwMDAxLDc5MDkx
+MzA5LC0xODQ5MjgwMjE0LDE3MTQyNTE1OTcsMjIxOTc4Nzc3LC
+05Mzg5MzYzNDEsMTY4NDE5ODEyNSwtODA3OTEzNDI5LC03NjY1
+NzMwODYsLTE1OTYzNjQ0NTcsLTcwMzc3MjM2OSwzNzY5MDExMz
+AsNTc2NDEwNDk4LDIwOTg5MDY1MzQsLTczNTkxNzU3NCwtMTQ0
+NDYwNzcyMl19
 -->
