@@ -8,13 +8,14 @@ DeJoule reliability
 - command failures
 	- Total failures : status 3 + status 0 + status 6 
 		- x commands reached firmware and processed without any error. These commands failed to execute possibly due to a fault in the equipment. 
-	- Failures due to asset -  
+	- Failures due to asset
 			- asset off
 			- asset mode (manual)
 				- `automanual` data parameter of vfd.
 			- modbus communication error
 				- logType write (OSError)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg2OTk1MzE4LDEyOTQ4OTA2NjAsLTE5OD
-YwMzY4NjcsLTIwNjgxNTc1MjcsNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbNzgyNzMwMDgzLDk4Njk5NTMxOCwxMjk0OD
+kwNjYwLC0xOTg2MDM2ODY3LC0yMDY4MTU3NTI3LDQ5NzgxODgx
+MF19
 -->
