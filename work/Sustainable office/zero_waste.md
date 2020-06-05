@@ -113,7 +113,6 @@ dispenser’s Rs 0.30.
 **Other possible solutions to be evaluated**
 - Plastic free diaries and stationary 
 	- Finding vendors for reasonable prices.
-- Whiteboard and marker to be replaced with blackboard and chalk 
 
 ## General Waste Management
 
@@ -138,11 +137,11 @@ purified water.
 - Food wastage
 - Packaged food
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NDIyMjAzOCwtMTE0NTA5NTQ5OCwxMj
-UxMzY1MDM4LC0yMTQ0MjQ3MzUwLC0xNDg1OTUwMDAxLDc5MDkx
-MzA5LC0xODQ5MjgwMjE0LDE3MTQyNTE1OTcsMjIxOTc4Nzc3LC
-05Mzg5MzYzNDEsMTY4NDE5ODEyNSwtODA3OTEzNDI5LC03NjY1
-NzMwODYsLTE1OTYzNjQ0NTcsLTcwMzc3MjM2OSwzNzY5MDExMz
-AsNTc2NDEwNDk4LDIwOTg5MDY1MzQsLTczNTkxNzU3NCwtMTQ0
-NDYwNzcyMl19
+eyJoaXN0b3J5IjpbLTE2NDUxNDcyNzQsLTExNDUwOTU0OTgsMT
+I1MTM2NTAzOCwtMjE0NDI0NzM1MCwtMTQ4NTk1MDAwMSw3OTA5
+MTMwOSwtMTg0OTI4MDIxNCwxNzE0MjUxNTk3LDIyMTk3ODc3Ny
+wtOTM4OTM2MzQxLDE2ODQxOTgxMjUsLTgwNzkxMzQyOSwtNzY2
+NTczMDg2LC0xNTk2MzY0NDU3LC03MDM3NzIzNjksMzc2OTAxMT
+MwLDU3NjQxMDQ5OCwyMDk4OTA2NTM0LC03MzU5MTc1NzQsLTE0
+NDQ2MDc3MjJdfQ==
 -->
