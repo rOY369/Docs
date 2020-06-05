@@ -11,8 +11,10 @@ DeJoule reliability
 	- Failures due to asset -  
 		- asset off
 		- asset mode (manual)
+			- `automanual` data parameter of vfd.
 		- modbus communication error
+			- logType write (OSError)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODYwMzY4NjcsLTIwNjgxNTc1MjcsND
-k3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbLTIwODg4MTE2ODAsLTE5ODYwMzY4NjcsLT
+IwNjgxNTc1MjcsNDk3ODE4ODEwXX0=
 -->
