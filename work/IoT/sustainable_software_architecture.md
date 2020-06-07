@@ -150,7 +150,10 @@ Design things to make their performance as insensitive to the unknown or uncontr
 		- Owner 
 		- Test cases
 
-**Design Document 5 : Testing Resilience/Architecture Validation**
+**Design Document 5 : **
+
+
+**Design Document 6 : Testing Resilience/Architecture Validation**
 
 - Thought experiments with anticipated changes. 
 - Assessing impact against current components and their responsibilities to see how well we are doing in isolating change.
@@ -176,7 +179,7 @@ Design things to make their performance as insensitive to the unknown or uncontr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NDU3OTE3OSwtMTA0NzgzODA0NiwtMT
-c1MjcwNjQwNiwzNjIwNjQyMTYsMTE0OTQzNTIxMiwxNDg0NDAw
-NzU1LC0xMjA5NDg1MywxOTYwNDUxMjksNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbMTg5NDI4NjEwLC0xMDQ3ODM4MDQ2LC0xNz
+UyNzA2NDA2LDM2MjA2NDIxNiwxMTQ5NDM1MjEyLDE0ODQ0MDA3
+NTUsLTEyMDk0ODUzLDE5NjA0NTEyOSw0OTc4MTg4MTBdfQ==
 -->
