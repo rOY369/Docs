@@ -90,7 +90,10 @@ Design things to make their performance as insensitive to the unknown or uncontr
 	- Top-level high-priority goals are translated into a set of use-cases which are used to document functional requirements. 
 	- The system structure fails if it does not support the services or functionality that users value or if the qualities associated with the functionality are unsatisfactory. 
 	- System qualities like performance and security are also important in directing architectural choices. 
-	- Future requirements also need to 
+	- Future requirements that the architecture will need to support will also be mentioned.  
+- Document : 
+	- Top-level high priority goals / Non-Functional requirements
+	- Use cases
 - Continuous Improvement
 
 **Design Document 2 : Components and Responsibilities**
@@ -130,7 +133,7 @@ Design things to make their performance as insensitive to the unknown or uncontr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNjMwNTc5NywzNjIwNjQyMTYsMTE0OT
-QzNTIxMiwxNDg0NDAwNzU1LC0xMjA5NDg1MywxOTYwNDUxMjks
-NDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbLTE2OTg4OTQ0ODUsMzYyMDY0MjE2LDExND
+k0MzUyMTIsMTQ4NDQwMDc1NSwtMTIwOTQ4NTMsMTk2MDQ1MTI5
+LDQ5NzgxODgxMF19
 -->
