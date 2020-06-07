@@ -47,9 +47,10 @@
 	- Describe our response to the forces. 
 	- Adapt and switch to a more disciplined approach like up-front design. 
 - **Status** :
-	- Proposed 
-
+	- Proposed
+- **Consequences**
+	- Describe the resulting context after applying the decision. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MDAwMTg4LDQ5NzgxODgxMF19
+eyJoaXN0b3J5IjpbLTE4MTY0MzUyMzcsNDk3ODE4ODEwXX0=
 -->
