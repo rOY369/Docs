@@ -26,10 +26,11 @@
 
 ## What is Software Architecture ? 
 
-***All architecture is design but not all design is architecture.***
-***
+*All architecture is design but not all design is architecture.*
+*The significant design decisions that shape a system, where significant is measured by cost of change.*
 
+C
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NTU4NzUwMiw0OTc4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbMzg3NzkwNjMsNDk3ODE4ODEwXX0=
 -->
