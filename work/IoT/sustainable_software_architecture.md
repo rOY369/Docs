@@ -139,6 +139,11 @@ Design things to make their performance as insensitive to the unknown or uncontr
 - Document
 	- Sequence Diagrams
 	- Flow charts
+	- Component Specifications
+		- Summary description of services the component provides
+		- A description of the operations
+			- Constraints or pre-post conditions for each operation
+		- 
 
 **Design Document 5 : Testing Resilience**
 
@@ -165,7 +170,7 @@ Design things to make their performance as insensitive to the unknown or uncontr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMTgzNjk2MywzNjIwNjQyMTYsMTE0OT
+eyJoaXN0b3J5IjpbLTgxNDMyNTgyMSwzNjIwNjQyMTYsMTE0OT
 QzNTIxMiwxNDg0NDAwNzU1LC0xMjA5NDg1MywxOTYwNDUxMjks
 NDk3ODE4ODEwXX0=
 -->
