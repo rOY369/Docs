@@ -113,13 +113,16 @@ Design things to make their performance as insensitive to the unknown or uncontr
 - Exploring behaviour
 	- Interaction between components
 	- How will it work ?
-	- 
+	- How does this approach contribute to desired system properties and yield needed system behaviours ?
+	- Diagrams and models
+		- Class diagrams
+		- Sequence diagrams
 - Continuous Improvement :
 	- Visualise and track changes to see how well the abstractions hold up. 
 	- Updating diagrams and models
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDQ4Mjg5NSwxNDg0NDAwNzU1LC0xMj
+eyJoaXN0b3J5IjpbMTE0OTQzNTIxMiwxNDg0NDAwNzU1LC0xMj
 A5NDg1MywxOTYwNDUxMjksNDk3ODE4ODEwXX0=
 -->
