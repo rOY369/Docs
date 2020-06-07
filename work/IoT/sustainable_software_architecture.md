@@ -67,8 +67,10 @@
 Design things to make their performance as insensitive to the unknown or uncontrollable external influence as practical.
 
 - Adapters at the system boundary 
-- AbsraBoundaries within the boundary 
+- Abstractions : Boundaries within the boundary must be invented to give our system internal form.
+
+**Understanding **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MTcxMjM5NiwtMTIwOTQ4NTMsMTk2MD
+eyJoaXN0b3J5IjpbMTI1NTQ2NTIzNSwtMTIwOTQ4NTMsMTk2MD
 Q1MTI5LDQ5NzgxODgxMF19
 -->
