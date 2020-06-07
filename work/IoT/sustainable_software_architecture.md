@@ -147,6 +147,8 @@ Design things to make their performance as insensitive to the unknown or uncontr
 		- How it is named
 		- A typical use scenario
 		- Exceptions
+		- Owner 
+		- Test cases
 
 **Design Document 5 : Testing Resilience**
 
@@ -173,7 +175,7 @@ Design things to make their performance as insensitive to the unknown or uncontr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUxNzI3ODIsMzYyMDY0MjE2LDExNDk0Mz
-UyMTIsMTQ4NDQwMDc1NSwtMTIwOTQ4NTMsMTk2MDQ1MTI5LDQ5
-NzgxODgxMF19
+eyJoaXN0b3J5IjpbLTE3NTI3MDY0MDYsMzYyMDY0MjE2LDExND
+k0MzUyMTIsMTQ4NDQwMDc1NSwtMTIwOTQ4NTMsMTk2MDQ1MTI5
+LDQ5NzgxODgxMF19
 -->
