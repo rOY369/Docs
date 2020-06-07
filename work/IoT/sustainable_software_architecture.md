@@ -42,10 +42,10 @@
 	- Up-front design approach in software development
 - **Context** : 
 	- Describe the forces at play probably in tension 
-	- Every now and then, we realise that the quality of our software does not meet the quality standards. In order to create a modular, adaptable, clean and 
+	- Every now and then, we realise that the quality of our software does not meet the standards. In order to create a modular, adaptable, clean and robust system we need to change the way we approach development. We need to adapt and switch to more disciple
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzk0NTExODQsNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbMTg1MTIzMzIxOCw0OTc4MTg4MTBdfQ==
 -->
