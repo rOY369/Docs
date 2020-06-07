@@ -16,7 +16,10 @@
 - Work Allocation 
 	- Decomposed system into substructures that are relatively independent with clear responsibilities and limited number of well-defined interfaces to communicate
 
+**Technical Purpose**
+- Meet system requirements and objectives
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgwNDI2MzE4LDQ5NzgxODgxMF19
+eyJoaXN0b3J5IjpbOTQxMDE3Njc5LDQ5NzgxODgxMF19
 -->
