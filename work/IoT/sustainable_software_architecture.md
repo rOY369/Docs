@@ -86,7 +86,9 @@ Design things to make their performance as insensitive to the unknown or uncontr
 - Cross-functional teams
 	- Tech support
 	- System intelligence 
-- The system value proposition i.e. top-level high-priority goals are translated into a s
+- The system value proposition 
+	- Top-level high-priority goals are translated into a set of use-cases which are used to document functional requirements. 
+	- The system structure fails if it does not support the services or functionality that users value or if the qualities 
 - Continuous Improvement
 
 **Design Document 2 : Components and Responsibilities**
@@ -126,7 +128,7 @@ Design things to make their performance as insensitive to the unknown or uncontr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMzU5MzAzMSwzNjIwNjQyMTYsMTE0OT
-QzNTIxMiwxNDg0NDAwNzU1LC0xMjA5NDg1MywxOTYwNDUxMjks
-NDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbMjU1NDMwNTQ5LDM2MjA2NDIxNiwxMTQ5ND
+M1MjEyLDE0ODQ0MDA3NTUsLTEyMDk0ODUzLDE5NjA0NTEyOSw0
+OTc4MTg4MTBdfQ==
 -->
