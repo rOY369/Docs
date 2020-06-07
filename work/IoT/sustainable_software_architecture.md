@@ -85,8 +85,8 @@ Design things to make their performance as insensitive to the unknown or uncontr
 	- Tech support
 	- System intelligence 
 
-****
+**Components and Responsibilities**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMDEwNjI5MywtMTIwOTQ4NTMsMTk2MD
-Q1MTI5LDQ5NzgxODgxMF19
+eyJoaXN0b3J5IjpbLTE3ODc1OTgwODAsLTEyMDk0ODUzLDE5Nj
+A0NTEyOSw0OTc4MTg4MTBdfQ==
 -->
