@@ -101,11 +101,14 @@ Design things to make their performance as insensitive to the unknown or uncontr
 
 - Thought experiments with anticipated changes. 
 - Assessing impact against current components and their responsibilities to see how well we are doing in isolating change.
+- Use lens of various views
+	- Secur
 - Change of perspective 
-	- Invite peers to share what is learned and seek out opportunities and weaknesses 
+	- Invite peers to share what is learned and seek out opportunities and weaknesses that were missed. 
+	- We need to adopt the discipline of not just accepting our initial understanding, but rather seeking different understandings.
 - Continuous Improvement :
 	- Visualise and track changes to see how well the abstractions hold up. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjY1MTA5MzgsLTEyMDk0ODUzLDE5Nj
-A0NTEyOSw0OTc4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbNTQ1Mzc2OTgwLC0xMjA5NDg1MywxOTYwND
+UxMjksNDk3ODE4ODEwXX0=
 -->
