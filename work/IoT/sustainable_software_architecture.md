@@ -175,10 +175,11 @@ At each step in structuring, it is worthwhile challenging our creativity to expa
 	- Visualise and track changes to see how well the abstractions hold up. 
 
 ## Test Cases --> Test Driven Development
+## Coding style guide 
 ## 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MDMxMTkzOCwxODk0Mjg2MTAsLTEwND
+eyJoaXN0b3J5IjpbMTcyOTQwMTI0NSwxODk0Mjg2MTAsLTEwND
 c4MzgwNDYsLTE3NTI3MDY0MDYsMzYyMDY0MjE2LDExNDk0MzUy
 MTIsMTQ4NDQwMDc1NSwtMTIwOTQ4NTMsMTk2MDQ1MTI5LDQ5Nz
 gxODgxMF19
