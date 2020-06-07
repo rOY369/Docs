@@ -162,6 +162,7 @@ Design things to make their performance as insensitive to the unknown or uncontr
 	- Highly configurable 
 - Change of perspective 
 	- Invite peers to share what is learned and seek out opportunities and weaknesses that were missed. 
+	- Assessment by Experts
 	- We need to adopt the discipline of not just accepting our initial understanding, but rather seeking different understandings.
 - Exploring behaviour
 	- How does this approach contribute to desired system properties and yield needed system behaviours ?
@@ -175,7 +176,7 @@ Design things to make their performance as insensitive to the unknown or uncontr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNzQ4MjI1MywtMTc1MjcwNjQwNiwzNj
-IwNjQyMTYsMTE0OTQzNTIxMiwxNDg0NDAwNzU1LC0xMjA5NDg1
-MywxOTYwNDUxMjksNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbLTEwNDc4MzgwNDYsLTE3NTI3MDY0MDYsMz
+YyMDY0MjE2LDExNDk0MzUyMTIsMTQ4NDQwMDc1NSwtMTIwOTQ4
+NTMsMTk2MDQ1MTI5LDQ5NzgxODgxMF19
 -->
