@@ -87,8 +87,15 @@ Design things to make their performance as insensitive to the unknown or uncontr
 
 **Design Document 2 : Components and Responsibilities**
 
+- 2 Directions
+	- Start with a first cut notion of components the system will need and identify allocate responsibilities to them. 
+	- OR start with responsibilities from what the system needs to do and factor to find components.
+
+
+## Continuous Improvement
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNzEzMzIzLC0xMjA5NDg1MywxOTYwND
-UxMjksNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbMTgyNDYxODk3MywtMTIwOTQ4NTMsMTk2MD
+Q1MTI5LDQ5NzgxODgxMF19
 -->
