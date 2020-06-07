@@ -91,7 +91,7 @@ Design things to make their performance as insensitive to the unknown or uncontr
 	- The system structure fails if it does not support the services or functionality that users value or if the qualities associated with the functionality are unsatisfactory. 
 	- System qualities like performance and security are also important in directing architectural choices. 
 	- Future requirements that the architecture will need to support will also be mentioned.  
-- Document : 
+- Document Form : 
 	- Top-level high priority goals / Non-Functional requirements
 		- System attributes like security, reliability, performance, maintainability, scalability, and usability
 	- Use cases / Functional requirements
@@ -99,18 +99,29 @@ Design things to make their performance as insensitive to the unknown or uncontr
 		- Specification of particular results of the software
 - Continuous Improvement
 
-**Design Document 2 : Components and Responsibilities**
+**Design Document 2 : Meta-Architecture**
+- Architectural vision 
+- research 
+	- architectural styles 
+	- patterns
+	- 
+
+
+
+
+**Design Document 3 : Components and Responsibilities**
 
 - The responsibility of architecture is architecture of responsibilities. 
 - 2 Directions
 	- Start with a first cut notion of components the system will need and identify allocate responsibilities to them. 
 	- OR start with responsibilities from what the system needs to do and factor to find components.
 - Ask : Does this component have a cohesive identity or purpose - a single responsibility ? 
-- CRC Cards
+- Document Form
+	- CRC Cards
 - Continuous Improvement
 	- Update the responsibilities for each component as more is learned as the system is explored and built out.
 
-**Design Document 3 : Testing Resilience**
+**Design Document 4 : Testing Resilience**
 
 - Thought experiments with anticipated changes. 
 - Assessing impact against current components and their responsibilities to see how well we are doing in isolating change.
@@ -136,7 +147,7 @@ Design things to make their performance as insensitive to the unknown or uncontr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjg1Nzg4NTksMzYyMDY0MjE2LDExND
+eyJoaXN0b3J5IjpbLTExNDM0NTg3NDQsMzYyMDY0MjE2LDExND
 k0MzUyMTIsMTQ4NDQwMDc1NSwtMTIwOTQ4NTMsMTk2MDQ1MTI5
 LDQ5NzgxODgxMF19
 -->
