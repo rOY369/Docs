@@ -130,7 +130,7 @@ Design things to make their performance as insensitive to the unknown or uncontr
 	- Update the responsibilities for each component as more is learned as the system is explored and built out.
 
 **Design Document 4 : Logical Architecture**
-- Detailed architecture specification 
+- Detailed, actionable, unambiguous and complete architecture specification 
 	- Defining component interfaces
 	- Connection mechanisms and protocols
 	- Exploring behaviour
@@ -175,7 +175,7 @@ Design things to make their performance as insensitive to the unknown or uncontr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTI3MDY0MDYsMzYyMDY0MjE2LDExND
-k0MzUyMTIsMTQ4NDQwMDc1NSwtMTIwOTQ4NTMsMTk2MDQ1MTI5
-LDQ5NzgxODgxMF19
+eyJoaXN0b3J5IjpbLTgwNzQ4MjI1MywtMTc1MjcwNjQwNiwzNj
+IwNjQyMTYsMTE0OTQzNTIxMiwxNDg0NDAwNzU1LC0xMjA5NDg1
+MywxOTYwNDUxMjksNDk3ODE4ODEwXX0=
 -->
