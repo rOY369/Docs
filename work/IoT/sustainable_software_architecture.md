@@ -29,8 +29,16 @@
 *All architecture is design but not all design is architecture.*
 *The significant design decisions that shape a system, where significant is measured by cost of change.*
 
-C
+**Cost of change**
+- Time 
+- Energy
+- Mental Stress
+- Satisfaction 
+
+2
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3NzkwNjMsNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbODIwMjU3ODI2LDQ5NzgxODgxMF19
 -->
