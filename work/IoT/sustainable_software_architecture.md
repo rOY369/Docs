@@ -28,14 +28,13 @@
 
 *All architecture is design but not all design is architecture.*
 *The significant design decisions that shape a system, where significant is measured by cost of change.*
-**
+*It is mainly spending more time on the whiteboard, diagrams, maps and models before hitting the keyboard. *
+
 **Cost of change**
 - Time 
 - Energy
 - Mental Stress
 - Satisfaction 
-
-
 
 **Decision Template**
 - **Title** :
@@ -43,10 +42,10 @@
 	- Up-front design approach in software development
 - **Context** : 
 	- Describe the forces at play probably in tension 
-	- 
+	- Every now and then, we realise that the quality of our software does not meet the quality standards. In order to create a modular, adaptable, clean and 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDUwNjA1ODUsNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbLTE0Nzk0NTExODQsNDk3ODE4ODEwXX0=
 -->
