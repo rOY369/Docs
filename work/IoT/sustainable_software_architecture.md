@@ -110,17 +110,23 @@ Design things to make their performance as insensitive to the unknown or uncontr
 - Document
 	- Will guide the architecture team during the next steps of structuring. 
 
-**Design Document 3 : Components and Responsibilities**
+**Design Document 3 : Conceptual Architecture**
 
+-  Components and Responsibilities
 - The responsibility of architecture is architecture of responsibilities. 
+- Useful vehicle for communicating the architecture to non-technical audience/management
 - 2 Directions
 	- Start with a first cut notion of components the system will need and identify allocate responsibilities to them. 
 	- OR start with responsibilities from what the system needs to do and factor to find components.
 - Ask : Does this component have a cohesive identity or purpose - a single responsibility ? 
 - Document Form
 	- CRC Cards
+	- Class Diagrams
 - Continuous Improvement
 	- Update the responsibilities for each component as more is learned as the system is explored and built out.
+
+
+
 
 **Design Document 4 : Testing Resilience**
 
@@ -148,7 +154,7 @@ Design things to make their performance as insensitive to the unknown or uncontr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NzEzMTc4LDM2MjA2NDIxNiwxMTQ5ND
-M1MjEyLDE0ODQ0MDA3NTUsLTEyMDk0ODUzLDE5NjA0NTEyOSw0
-OTc4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbLTEzMTQ2NDAwNzksMzYyMDY0MjE2LDExND
+k0MzUyMTIsMTQ4NDQwMDc1NSwtMTIwOTQ4NTMsMTk2MDQ1MTI5
+LDQ5NzgxODgxMF19
 -->
