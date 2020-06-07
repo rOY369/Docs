@@ -98,7 +98,7 @@ Design things to make their performance as insensitive to the unknown or uncontr
 		- Specification of behaviour 
 		- Specification of particular results of the software
 - Continuous Improvement
-	- Adding newr
+	- Adding new requirements/feature requests
 
 **Design Document 2 : Meta-Architecture**
 - Architectural vision 
@@ -111,6 +111,8 @@ Design things to make their performance as insensitive to the unknown or uncontr
 - Document
 	- Will guide the architecture team during the next steps of structuring. 
 - Continuous Improvement
+	- Consistently explore new designs and patterns
+	- Updating this document
 
 **Design Document 3 : Conceptual Architecture**
 
@@ -153,13 +155,17 @@ Design things to make their performance as insensitive to the unknown or uncontr
 	- We need to adopt the discipline of not just accepting our initial understanding, but rather seeking different understandings.
 - Exploring behaviour
 	- How does this approach contribute to desired system properties and yield needed system behaviours ?
+- Document
+	- Review
+	- Thought experiments with anticipated changes
 - Continuous Improvement :
 	- Visualise and track changes to see how well the abstractions hold up. 
 
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgyNzg3NDk4LDM2MjA2NDIxNiwxMTQ5ND
-M1MjEyLDE0ODQ0MDA3NTUsLTEyMDk0ODUzLDE5NjA0NTEyOSw0
-OTc4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbMTgwMTgzNjk2MywzNjIwNjQyMTYsMTE0OT
+QzNTIxMiwxNDg0NDAwNzU1LC0xMjA5NDg1MywxOTYwNDUxMjks
+NDk3ODE4ODEwXX0=
 -->
