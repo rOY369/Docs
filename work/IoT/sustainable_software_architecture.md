@@ -91,9 +91,11 @@ Design things to make their performance as insensitive to the unknown or uncontr
 - 2 Directions
 	- Start with a first cut notion of components the system will need and identify allocate responsibilities to them. 
 	- OR start with responsibilities from what the system needs to do and factor to find components.
+- Factor and Refactor
+- CRC Cards
 - Continuous Improvement
 	- Update the responsibilities for each component as more is learned as the system is explored and built out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NDA2ODQ1MCwtMTIwOTQ4NTMsMTk2MD
-Q1MTI5LDQ5NzgxODgxMF19
+eyJoaXN0b3J5IjpbLTE4ODkxMDM3MDUsLTEyMDk0ODUzLDE5Nj
+A0NTEyOSw0OTc4MTg4MTBdfQ==
 -->
