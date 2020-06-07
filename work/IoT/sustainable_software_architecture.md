@@ -110,9 +110,13 @@ Design things to make their performance as insensitive to the unknown or uncontr
 - Change of perspective 
 	- Invite peers to share what is learned and seek out opportunities and weaknesses that were missed. 
 	- We need to adopt the discipline of not just accepting our initial understanding, but rather seeking different understandings.
+- Exploring behaviour
 - Continuous Improvement :
 	- Visualise and track changes to see how well the abstractions hold up. 
+	- Updating diagrams and models
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NDQwMDc1NSwtMTIwOTQ4NTMsMTk2MD
-Q1MTI5LDQ5NzgxODgxMF19
+eyJoaXN0b3J5IjpbLTE3OTMwMTU5OTEsMTQ4NDQwMDc1NSwtMT
+IwOTQ4NTMsMTk2MDQ1MTI5LDQ5NzgxODgxMF19
 -->
