@@ -98,6 +98,7 @@ Design things to make their performance as insensitive to the unknown or uncontr
 		- Specification of behaviour 
 		- Specification of particular results of the software
 - Continuous Improvement
+	- Adding newr
 
 **Design Document 2 : Meta-Architecture**
 - Architectural vision 
@@ -109,6 +110,7 @@ Design things to make their performance as insensitive to the unknown or uncontr
 	- Concepts, Mechanisms and Principles
 - Document
 	- Will guide the architecture team during the next steps of structuring. 
+- Continuous Improvement
 
 **Design Document 3 : Conceptual Architecture**
 
@@ -129,10 +131,12 @@ Design things to make their performance as insensitive to the unknown or uncontr
 - Detailed architecture specification 
 	- Defining component interfaces
 	- Connection mechanisms and protocols
-	- Interaction between components
+	- Exploring behaviour
+		- Interaction between components
+		- How will it work ?
 - Document
 	- Sequence Diagrams
-
+	- Flow charts
 
 **Design Document 5 : Testing Resilience**
 
@@ -148,19 +152,14 @@ Design things to make their performance as insensitive to the unknown or uncontr
 	- Invite peers to share what is learned and seek out opportunities and weaknesses that were missed. 
 	- We need to adopt the discipline of not just accepting our initial understanding, but rather seeking different understandings.
 - Exploring behaviour
-	- Interaction between components
-	- How will it work ?
 	- How does this approach contribute to desired system properties and yield needed system behaviours ?
-	- Diagrams and models
-		- Class diagrams
-		- Sequence diagrams
 - Continuous Improvement :
 	- Visualise and track changes to see how well the abstractions hold up. 
-	- Updating diagrams and models
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjkwNzIwNjAsMzYyMDY0MjE2LDExND
-k0MzUyMTIsMTQ4NDQwMDc1NSwtMTIwOTQ4NTMsMTk2MDQ1MTI5
-LDQ5NzgxODgxMF19
+eyJoaXN0b3J5IjpbMjgyNzg3NDk4LDM2MjA2NDIxNiwxMTQ5ND
+M1MjEyLDE0ODQ0MDA3NTUsLTEyMDk0ODUzLDE5NjA0NTEyOSw0
+OTc4MTg4MTBdfQ==
 -->
