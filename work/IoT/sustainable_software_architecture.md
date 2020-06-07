@@ -102,12 +102,13 @@ Design things to make their performance as insensitive to the unknown or uncontr
 **Design Document 2 : Meta-Architecture**
 - Architectural vision 
 - research 
-	- architectural styles 
-	- patterns
-	- 
-
-
-
+	- Architectural styles 
+	- Patterns
+	- Dominant Designs
+	- Reference Architectures 
+	- Concepts, Mechanisms and Principles
+- Document
+	- Will guide the architecture team during the next steps of structuring. 
 
 **Design Document 3 : Components and Responsibilities**
 
@@ -147,7 +148,7 @@ Design things to make their performance as insensitive to the unknown or uncontr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDM0NTg3NDQsMzYyMDY0MjE2LDExND
-k0MzUyMTIsMTQ4NDQwMDc1NSwtMTIwOTQ4NTMsMTk2MDQ1MTI5
-LDQ5NzgxODgxMF19
+eyJoaXN0b3J5IjpbMTg3NzEzMTc4LDM2MjA2NDIxNiwxMTQ5ND
+M1MjEyLDE0ODQ0MDA3NTUsLTEyMDk0ODUzLDE5NjA0NTEyOSw0
+OTc4MTg4MTBdfQ==
 -->
