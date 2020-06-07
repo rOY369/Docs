@@ -10,9 +10,10 @@
 	-	Unable to adapt to the environment
 
 **Organisational Purpose**
-- Communicating high-level design to stakeholders 
+- Communicating high-level design to stakeholders, tech-support, quality assurance and even customers.
+	- Even large and complex architecturs
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NzgzODAyNSw0OTc4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbMTc4NDk4NTAwNyw0OTc4MTg4MTBdfQ==
 -->
