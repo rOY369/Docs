@@ -96,6 +96,7 @@ Design things to make their performance as insensitive to the unknown or uncontr
 		- System attributes like security, reliability, performance, maintainability, scalability, and usability
 	- Use cases / Functional requirements
 		- Specification of behaviour 
+		- Specification of particular results of the software
 - Continuous Improvement
 
 **Design Document 2 : Components and Responsibilities**
@@ -135,7 +136,7 @@ Design things to make their performance as insensitive to the unknown or uncontr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3OTk2NTY4NCwzNjIwNjQyMTYsMTE0OT
-QzNTIxMiwxNDg0NDAwNzU1LC0xMjA5NDg1MywxOTYwNDUxMjks
-NDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbLTExNjg1Nzg4NTksMzYyMDY0MjE2LDExND
+k0MzUyMTIsMTQ4NDQwMDc1NSwtMTIwOTQ4NTMsMTk2MDQ1MTI5
+LDQ5NzgxODgxMF19
 -->
