@@ -20,11 +20,16 @@
 - Meet system requirements and objectives
 - Enable flexible distribution/partitioning of the system 
 - Reduce cost of maintenance and evolution
-	- Anticipating main kinds of changes that will occur in the system at the architecture level, ensuring the design will facilitate such changes 
+	- Anticipating main kinds of changes that will occur in the system at the architecture level, ensuring the design will facilitate such changes.
 	- And localising as far as possible the effects of such changes on design documents, code and other parts of the system. 
-- Increase reuse and integration with third-party software
+- Increase reuse and integration with third-party software. 
+
+## What is Software Architecture ? 
+
+***All architecture is design but not all design is architecture.***
+***
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNDI3OTA0Myw0OTc4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbMTg3NTU4NzUwMiw0OTc4MTg4MTBdfQ==
 -->
