@@ -101,14 +101,18 @@ Design things to make their performance as insensitive to the unknown or uncontr
 
 - Thought experiments with anticipated changes. 
 - Assessing impact against current components and their responsibilities to see how well we are doing in isolating change.
-- Use lens of various views
-	- Secur
+- Use lens of various views (Use separation of concerns)
+	- Security 
+	- Responsiveness 
+	- Load spikes 
+	- Scope of optimisation 
+	- Highly configurable 
 - Change of perspective 
 	- Invite peers to share what is learned and seek out opportunities and weaknesses that were missed. 
 	- We need to adopt the discipline of not just accepting our initial understanding, but rather seeking different understandings.
 - Continuous Improvement :
 	- Visualise and track changes to see how well the abstractions hold up. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ1Mzc2OTgwLC0xMjA5NDg1MywxOTYwND
-UxMjksNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbMTQ4NDQwMDc1NSwtMTIwOTQ4NTMsMTk2MD
+Q1MTI5LDQ5NzgxODgxMF19
 -->
