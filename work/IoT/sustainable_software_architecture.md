@@ -65,7 +65,10 @@
 **How to create this structure ?**
 
 Design things to make their performance as insensitive to the unknown or uncontrollable external influence as practical.
+
+- Adapters at the system boundary 
+- AbsraBoundaries within the boundary 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTYzMjg2NzQsLTEyMDk0ODUzLDE5Nj
-A0NTEyOSw0OTc4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbLTI2MTcxMjM5NiwtMTIwOTQ4NTMsMTk2MD
+Q1MTI5LDQ5NzgxODgxMF19
 -->
