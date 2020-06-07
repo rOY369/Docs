@@ -84,18 +84,16 @@ Design things to make their performance as insensitive to the unknown or uncontr
 - Cross-functional teams
 	- Tech support
 	- System intelligence 
+- Continuous Improvement
 
 **Design Document 2 : Components and Responsibilities**
 
 - 2 Directions
 	- Start with a first cut notion of components the system will need and identify allocate responsibilities to them. 
 	- OR start with responsibilities from what the system needs to do and factor to find components.
-
-
-## Continuous Improvement
-
-
+- Continuous Improvement
+	- Update the responsibilities for each component as more is learned as the system is explored and built out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNDYxODk3MywtMTIwOTQ4NTMsMTk2MD
+eyJoaXN0b3J5IjpbMTA0NDA2ODQ1MCwtMTIwOTQ4NTMsMTk2MD
 Q1MTI5LDQ5NzgxODgxMF19
 -->
