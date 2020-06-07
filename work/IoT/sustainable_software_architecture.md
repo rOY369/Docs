@@ -53,7 +53,7 @@
 
 <img src="https://www.tutorialspoint.com/system_analysis_and_design/images/top_down.jpg" width="500px" height="300px" />
 
-Modular Structure reduces cost of change. 
+**Modular Structure reduces cost of change.**
 - Isolate impact of change. 
 - Isolate arenas of uncertainty and experiment. 
 - Increase reversibility and replaceability 
@@ -62,7 +62,10 @@ Modular Structure reduces cost of change.
 	- Abstractions
 	- Crisp, disentangled and simple
 
+**How to create this structure ?**
+
+Design things to make their performance as insensitive to the unknown or uncontrollable external influence as practical.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NTQ3MDA1MiwtMTIwOTQ4NTMsMTk2MD
-Q1MTI5LDQ5NzgxODgxMF19
+eyJoaXN0b3J5IjpbLTE1NTYzMjg2NzQsLTEyMDk0ODUzLDE5Nj
+A0NTEyOSw0OTc4MTg4MTBdfQ==
 -->
