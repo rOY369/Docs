@@ -29,7 +29,6 @@
 *All architecture is design but not all design is architecture.*
 *The significant design decisions that shape a system, where significant is measured by cost of change.*
 
-
 **Cost of change**
 - Time 
 - Energy
@@ -76,7 +75,7 @@ Design things to make their performance as insensitive to the unknown or uncontr
 - Understanding the problem domains being served by the system/software 
 - Business Agenda
 - User
-	- Requirements
+	- Requirements and Concerns
 - Product
 	- Goals
 	- Vision
@@ -175,12 +174,12 @@ At each step in structuring, it is worthwhile challenging our creativity to expa
 	- Visualise and track changes to see how well the abstractions hold up. 
 
 ## Test Cases --> Test Driven Development
-## Coding style guide 
+## Coding Style Guide 
 ## 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyOTQwMTI0NSwxODk0Mjg2MTAsLTEwND
-c4MzgwNDYsLTE3NTI3MDY0MDYsMzYyMDY0MjE2LDExNDk0MzUy
-MTIsMTQ4NDQwMDc1NSwtMTIwOTQ4NTMsMTk2MDQ1MTI5LDQ5Nz
-gxODgxMF19
+eyJoaXN0b3J5IjpbLTY5NDE2NzcyMSwxNzI5NDAxMjQ1LDE4OT
+QyODYxMCwtMTA0NzgzODA0NiwtMTc1MjcwNjQwNiwzNjIwNjQy
+MTYsMTE0OTQzNTIxMiwxNDg0NDAwNzU1LC0xMjA5NDg1MywxOT
+YwNDUxMjksNDk3ODE4ODEwXX0=
 -->
