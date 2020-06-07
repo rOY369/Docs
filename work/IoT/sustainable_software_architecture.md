@@ -24,8 +24,6 @@
 	- And localising as far as possible the effects of such changes on design documents, code and other parts of the system. 
 - Increase reuse and integration with third-party software. 
 
-**Disorder is easier and more permanent than order, which is **
-
 ## What is Software Architecture ? 
 
 *All architecture is design but not all design is architecture.*
@@ -53,6 +51,7 @@
 - **Consequences**
 	- Describe the resulting context after applying the decision. 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTYxOTU3NDAsNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbMTk2MDQ1MTI5LDQ5NzgxODgxMF19
 -->
