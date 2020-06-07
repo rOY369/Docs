@@ -69,15 +69,17 @@ Design things to make their performance as insensitive to the unknown or uncontr
 - Adapters at the system boundary 
 - Abstractions : Boundaries within the boundary must be invented to give our system internal form.
 
-**Understanding the problem domains being served by the system/software**
+**Separation of Concerns : Understanding the problem domains being served by the system/software**
 - User
 	- Requirements
-	-  Product
+- Product
+	- Goals
 	- Vision
 	- Principles
 - Cross-functional teams
-	-  
+	- Tech support
+	- System intelligence 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4OTg5NDEyMywtMTIwOTQ4NTMsMTk2MD
-Q1MTI5LDQ5NzgxODgxMF19
+eyJoaXN0b3J5IjpbLTE2MDU5ODg3MjIsLTEyMDk0ODUzLDE5Nj
+A0NTEyOSw0OTc4MTg4MTBdfQ==
 -->
