@@ -55,9 +55,14 @@
 
 Modular Structure reduces cost of change. 
 - Isolate impact of change. 
-- Isolate arenas of uncertai
+- Isolate arenas of uncertainty and experiment. 
+- Increase reversibility and replaceability 
+- Increase responsiveness/adaptability 
+- Reduce complexity 
+	- Abstractions
+	- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyODU1NDkyNSwtMTIwOTQ4NTMsMTk2MD
+eyJoaXN0b3J5IjpbLTc4MjE1ODQ5OCwtMTIwOTQ4NTMsMTk2MD
 Q1MTI5LDQ5NzgxODgxMF19
 -->
