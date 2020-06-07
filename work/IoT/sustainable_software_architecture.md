@@ -36,7 +36,7 @@
 - Mental Stress
 - Satisfaction 
 
-*It is mainly spending more time on the whiteboard, diagrams, maps and models before hitting the keyboard. *
+*It is mainly spending more time on the whiteboard, diagrams, maps and models before hitting the keyboard.*
 *What we do in the name of architecture, shapes what it is; what we think it is, shapes what we do*
 
 ## How ? 
@@ -123,6 +123,7 @@ Design things to make their performance as insensitive to the unknown or uncontr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0OTQzNTIxMiwxNDg0NDAwNzU1LC0xMj
-A5NDg1MywxOTYwNDUxMjksNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbMzYyMDY0MjE2LDExNDk0MzUyMTIsMTQ4ND
+QwMDc1NSwtMTIwOTQ4NTMsMTk2MDQ1MTI5LDQ5NzgxODgxMF19
+
 -->
