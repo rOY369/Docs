@@ -71,8 +71,11 @@
 
 Design things to make their performance as insensitive to the unknown or uncontrollable external influence as practical.
 
+- Architecture requirements <--> Architecture specification <--> Architecture validation 
 - Adapters at the system boundary 
 - Abstractions : Boundaries within the boundary must be invented to give our system internal form.
+
+
 
 **Design Document 1 : Separation of Concerns : Architecture Requirements/Basis**
 - Understanding the problem domains being served by the system/software 
@@ -180,8 +183,8 @@ At each step in structuring, it is worthwhile challenging our creativity to expa
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjcwMDgxMSwxODk0Mjg2MTAsLTEwND
-c4MzgwNDYsLTE3NTI3MDY0MDYsMzYyMDY0MjE2LDExNDk0MzUy
-MTIsMTQ4NDQwMDc1NSwtMTIwOTQ4NTMsMTk2MDQ1MTI5LDQ5Nz
-gxODgxMF19
+eyJoaXN0b3J5IjpbLTExODE5MDIwNjMsMTg5NDI4NjEwLC0xMD
+Q3ODM4MDQ2LC0xNzUyNzA2NDA2LDM2MjA2NDIxNiwxMTQ5NDM1
+MjEyLDE0ODQ0MDA3NTUsLTEyMDk0ODUzLDE5NjA0NTEyOSw0OT
+c4MTg4MTBdfQ==
 -->
