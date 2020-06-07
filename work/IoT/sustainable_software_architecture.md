@@ -151,7 +151,7 @@ Design things to make their performance as insensitive to the unknown or uncontr
 		- Test cases
 
 **Note : Architecture trade-off analysis**
-At each step in structuring, it is worthwhile challenging our creativity to expand the solution set under consideration. And then evaluating different alternatives against the prioritized
+At each step in structuring, it is worthwhile challenging our creativity to expand the solution set under consideration. And then evaluating different alternatives against the prioritised requirements. Selection of the best solution generally involves some compromise but it is best to make this explicit and worth mentioning in the design document. 
 
 
 **Design Document 6 : Testing Resilience/Architecture Validation**
@@ -180,8 +180,8 @@ At each step in structuring, it is worthwhile challenging our creativity to expa
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MjM5NzQxLDE4OTQyODYxMCwtMTA0Nz
-gzODA0NiwtMTc1MjcwNjQwNiwzNjIwNjQyMTYsMTE0OTQzNTIx
-MiwxNDg0NDAwNzU1LC0xMjA5NDg1MywxOTYwNDUxMjksNDk3OD
-E4ODEwXX0=
+eyJoaXN0b3J5IjpbMTQyMjcwMDgxMSwxODk0Mjg2MTAsLTEwND
+c4MzgwNDYsLTE3NTI3MDY0MDYsMzYyMDY0MjE2LDExNDk0MzUy
+MTIsMTQ4NDQwMDc1NSwtMTIwOTQ4NTMsMTk2MDQ1MTI5LDQ5Nz
+gxODgxMF19
 -->
