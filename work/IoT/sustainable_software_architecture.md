@@ -28,13 +28,18 @@
 
 *All architecture is design but not all design is architecture.*
 *The significant design decisions that shape a system, where significant is measured by cost of change.*
-*It is mainly spending more time on the whiteboard, diagrams, maps and models before hitting the keyboard. *
+
 
 **Cost of change**
 - Time 
 - Energy
 - Mental Stress
 - Satisfaction 
+
+*It is mainly spending more time on the whiteboard, diagrams, maps and models before hitting the keyboard. *
+*What we do in the name of architecture, shapes what it is; what we think it is, shapes what we do*
+
+## How ? 
 
 **Decision Template**
 - **Title** :
@@ -79,7 +84,9 @@ Design things to make their performance as insensitive to the unknown or uncontr
 - Cross-functional teams
 	- Tech support
 	- System intelligence 
+
+****
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDU5ODg3MjIsLTEyMDk0ODUzLDE5Nj
-A0NTEyOSw0OTc4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbMTAzMDEwNjI5MywtMTIwOTQ4NTMsMTk2MD
+Q1MTI5LDQ5NzgxODgxMF19
 -->
