@@ -97,10 +97,11 @@ Design things to make their performance as insensitive to the unknown or uncontr
 - Continuous Improvement
 	- Update the responsibilities for each component as more is learned as the system is explored and built out.
 
-**Testing Resilience**
+**Design Document 3 : Testing Resilience**
 
-- Thought
+- Thought experiments with anticipated changes. 
+- Assessing impact against current components and their responsibilities to see how well we are doing in isolating change.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NDIxNjQxNiwtMTIwOTQ4NTMsMTk2MD
-Q1MTI5LDQ5NzgxODgxMF19
+eyJoaXN0b3J5IjpbOTYxNzk2MTEzLC0xMjA5NDg1MywxOTYwND
+UxMjksNDk3ODE4ODEwXX0=
 -->
