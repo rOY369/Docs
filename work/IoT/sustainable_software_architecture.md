@@ -60,9 +60,9 @@ Modular Structure reduces cost of change.
 - Increase responsiveness/adaptability 
 - Reduce complexity 
 	- Abstractions
-	- 
+	- Crisp, disentangled and simple
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MjE1ODQ5OCwtMTIwOTQ4NTMsMTk2MD
+eyJoaXN0b3J5IjpbLTU2NTQ3MDA1MiwtMTIwOTQ4NTMsMTk2MD
 Q1MTI5LDQ5NzgxODgxMF19
 -->
