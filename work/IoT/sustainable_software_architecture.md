@@ -88,7 +88,9 @@ Design things to make their performance as insensitive to the unknown or uncontr
 	- System intelligence 
 - The system value proposition 
 	- Top-level high-priority goals are translated into a set of use-cases which are used to document functional requirements. 
-	- The system structure fails if it does not support the services or functionality that users value or if the qualities 
+	- The system structure fails if it does not support the services or functionality that users value or if the qualities associated with the functionality are unsatisfactory. 
+	- System qualities like performance and security are also important in directing architectural choices. 
+	- Future requirements also need to 
 - Continuous Improvement
 
 **Design Document 2 : Components and Responsibilities**
@@ -128,7 +130,7 @@ Design things to make their performance as insensitive to the unknown or uncontr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU1NDMwNTQ5LDM2MjA2NDIxNiwxMTQ5ND
-M1MjEyLDE0ODQ0MDA3NTUsLTEyMDk0ODUzLDE5NjA0NTEyOSw0
-OTc4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbLTcxNjMwNTc5NywzNjIwNjQyMTYsMTE0OT
+QzNTIxMiwxNDg0NDAwNzU1LC0xMjA5NDg1MywxOTYwNDUxMjks
+NDk3ODE4ODEwXX0=
 -->
