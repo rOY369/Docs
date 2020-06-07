@@ -51,7 +51,8 @@
 - **Consequences**
 	- Describe the resulting context after applying the decision. 
 
-
+Modular Structure reduces cost of change. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MDQ1MTI5LDQ5NzgxODgxMF19
+eyJoaXN0b3J5IjpbLTEyMDk0ODUzLDE5NjA0NTEyOSw0OTc4MT
+g4MTBdfQ==
 -->
