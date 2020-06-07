@@ -125,10 +125,16 @@ Design things to make their performance as insensitive to the unknown or uncontr
 - Continuous Improvement
 	- Update the responsibilities for each component as more is learned as the system is explored and built out.
 
+**Design Document 4 : Logical Architecture**
+- Detailed architecture specification 
+	- Defining component interfaces
+	- Connection mechanisms and protocols
+	- Interaction between components
+- Document
+	- Sequence Diagrams
 
 
-
-**Design Document 4 : Testing Resilience**
+**Design Document 5 : Testing Resilience**
 
 - Thought experiments with anticipated changes. 
 - Assessing impact against current components and their responsibilities to see how well we are doing in isolating change.
@@ -154,7 +160,7 @@ Design things to make their performance as insensitive to the unknown or uncontr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTQ2NDAwNzksMzYyMDY0MjE2LDExND
+eyJoaXN0b3J5IjpbLTE5NjkwNzIwNjAsMzYyMDY0MjE2LDExND
 k0MzUyMTIsMTQ4NDQwMDc1NSwtMTIwOTQ4NTMsMTk2MDQ1MTI5
 LDQ5NzgxODgxMF19
 -->
