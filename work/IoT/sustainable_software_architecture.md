@@ -37,9 +37,12 @@
 
 It is mainly spending more time on the whiteboard, diagrams, maps and models before hitting the keyboard. 
 
-**Decision Template **
+**Decision Template**
+- **Title** : Start developing using up-front design approach 
+- **Context** : 
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI0ODgxMDIsNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbMTM0OTgwMDMxLDQ5NzgxODgxMF19
 -->
