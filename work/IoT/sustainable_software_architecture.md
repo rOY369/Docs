@@ -143,7 +143,10 @@ Design things to make their performance as insensitive to the unknown or uncontr
 		- Summary description of services the component provides
 		- A description of the operations
 			- Constraints or pre-post conditions for each operation
-		- 
+		- How the component is instantiated
+		- How it is named
+		- A typical use scenario
+		- Exceptions
 
 **Design Document 5 : Testing Resilience**
 
@@ -170,7 +173,7 @@ Design things to make their performance as insensitive to the unknown or uncontr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNDMyNTgyMSwzNjIwNjQyMTYsMTE0OT
-QzNTIxMiwxNDg0NDAwNzU1LC0xMjA5NDg1MywxOTYwNDUxMjks
-NDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbNjUxNzI3ODIsMzYyMDY0MjE2LDExNDk0Mz
+UyMTIsMTQ4NDQwMDc1NSwtMTIwOTQ4NTMsMTk2MDQ1MTI5LDQ5
+NzgxODgxMF19
 -->
