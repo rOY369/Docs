@@ -175,11 +175,11 @@ At each step in structuring, it is worthwhile challenging our creativity to expa
 
 ## Test Cases --> Test Driven Development
 ## Coding Style Guide 
-## 
+## CICD 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NDE2NzcyMSwxNzI5NDAxMjQ1LDE4OT
-QyODYxMCwtMTA0NzgzODA0NiwtMTc1MjcwNjQwNiwzNjIwNjQy
-MTYsMTE0OTQzNTIxMiwxNDg0NDAwNzU1LC0xMjA5NDg1MywxOT
-YwNDUxMjksNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbLTEzOTk4MjIwNDgsLTY5NDE2NzcyMSwxNz
+I5NDAxMjQ1LDE4OTQyODYxMCwtMTA0NzgzODA0NiwtMTc1Mjcw
+NjQwNiwzNjIwNjQyMTYsMTE0OTQzNTIxMiwxNDg0NDAwNzU1LC
+0xMjA5NDg1MywxOTYwNDUxMjksNDk3ODE4ODEwXX0=
 -->
