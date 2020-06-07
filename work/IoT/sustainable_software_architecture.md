@@ -51,8 +51,13 @@
 - **Consequences**
 	- Describe the resulting context after applying the decision. 
 
+<img src="https://www.tutorialspoint.com/system_analysis_and_design/images/top_down.jpg" width="500px" height="300px" />
+
 Modular Structure reduces cost of change. 
+- Isolate impact of change. 
+- Isolate arenas of uncertai
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDk0ODUzLDE5NjA0NTEyOSw0OTc4MT
-g4MTBdfQ==
+eyJoaXN0b3J5IjpbMTEyODU1NDkyNSwtMTIwOTQ4NTMsMTk2MD
+Q1MTI5LDQ5NzgxODgxMF19
 -->
