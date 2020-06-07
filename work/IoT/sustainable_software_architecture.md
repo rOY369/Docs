@@ -174,12 +174,13 @@ At each step in structuring, it is worthwhile challenging our creativity to expa
 	- Visualise and track changes to see how well the abstractions hold up. 
 
 ## Test Cases --> Test Driven Development
+## Integration Testing
 ## Coding Style Guide 
-## CICD 
-
+## CICD
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTk4MjIwNDgsLTY5NDE2NzcyMSwxNz
-I5NDAxMjQ1LDE4OTQyODYxMCwtMTA0NzgzODA0NiwtMTc1Mjcw
-NjQwNiwzNjIwNjQyMTYsMTE0OTQzNTIxMiwxNDg0NDAwNzU1LC
-0xMjA5NDg1MywxOTYwNDUxMjksNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbLTExMjUxOTcyMjQsLTEzOTk4MjIwNDgsLT
+Y5NDE2NzcyMSwxNzI5NDAxMjQ1LDE4OTQyODYxMCwtMTA0Nzgz
+ODA0NiwtMTc1MjcwNjQwNiwzNjIwNjQyMTYsMTE0OTQzNTIxMi
+wxNDg0NDAwNzU1LC0xMjA5NDg1MywxOTYwNDUxMjksNDk3ODE4
+ODEwXX0=
 -->
