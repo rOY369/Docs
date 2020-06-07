@@ -86,6 +86,7 @@ Design things to make their performance as insensitive to the unknown or uncontr
 - Cross-functional teams
 	- Tech support
 	- System intelligence 
+- The system value proposition i.e. top-level high-priority goals are translated into a s
 - Continuous Improvement
 
 **Design Document 2 : Components and Responsibilities**
@@ -125,7 +126,7 @@ Design things to make their performance as insensitive to the unknown or uncontr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk2OTA3MDI2LDM2MjA2NDIxNiwxMTQ5ND
-M1MjEyLDE0ODQ0MDA3NTUsLTEyMDk0ODUzLDE5NjA0NTEyOSw0
-OTc4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbMTAyMzU5MzAzMSwzNjIwNjQyMTYsMTE0OT
+QzNTIxMiwxNDg0NDAwNzU1LC0xMjA5NDg1MywxOTYwNDUxMjks
+NDk3ODE4ODEwXX0=
 -->
