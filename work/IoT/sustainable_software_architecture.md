@@ -150,7 +150,8 @@ Design things to make their performance as insensitive to the unknown or uncontr
 		- Owner 
 		- Test cases
 
-**Design Document 5 : **
+**Note : Architecture trade-off analysis**
+At each step in structuring, it is worthwhile challenging our creativity to expand the solution set under consideration. And then evaluating different alternatives against the prioritized
 
 
 **Design Document 6 : Testing Resilience/Architecture Validation**
@@ -179,7 +180,8 @@ Design things to make their performance as insensitive to the unknown or uncontr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NDI4NjEwLC0xMDQ3ODM4MDQ2LC0xNz
-UyNzA2NDA2LDM2MjA2NDIxNiwxMTQ5NDM1MjEyLDE0ODQ0MDA3
-NTUsLTEyMDk0ODUzLDE5NjA0NTEyOSw0OTc4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbLTU0MjM5NzQxLDE4OTQyODYxMCwtMTA0Nz
+gzODA0NiwtMTc1MjcwNjQwNiwzNjIwNjQyMTYsMTE0OTQzNTIx
+MiwxNDg0NDAwNzU1LC0xMjA5NDg1MywxOTYwNDUxMjksNDk3OD
+E4ODEwXX0=
 -->
