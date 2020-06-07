@@ -88,7 +88,7 @@ Design things to make their performance as insensitive to the unknown or uncontr
 
 **Design Document 2 : Components and Responsibilities**
 
-- The responsibility of architecture is architectr
+- The responsibility of architecture is architecture of responsibilities. 
 - 2 Directions
 	- Start with a first cut notion of components the system will need and identify allocate responsibilities to them. 
 	- OR start with responsibilities from what the system needs to do and factor to find components.
@@ -96,7 +96,11 @@ Design things to make their performance as insensitive to the unknown or uncontr
 - CRC Cards
 - Continuous Improvement
 	- Update the responsibilities for each component as more is learned as the system is explored and built out.
+
+**Testing Resilience**
+
+- Thought
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDA5MTk1NiwtMTIwOTQ4NTMsMTk2MD
+eyJoaXN0b3J5IjpbMTY1NDIxNjQxNiwtMTIwOTQ4NTMsMTk2MD
 Q1MTI5LDQ5NzgxODgxMF19
 -->
