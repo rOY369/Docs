@@ -35,10 +35,11 @@
 - Mental Stress
 - Satisfaction 
 
+It is mainly spending more time on the whiteboard, diagrams, maps and models before hitting the keyboard. 
 
-
+**Decision Template **
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjMzODIyNTIsNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbMjI0ODgxMDIsNDk3ODE4ODEwXX0=
 -->
