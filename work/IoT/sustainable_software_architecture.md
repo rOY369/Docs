@@ -39,7 +39,7 @@
 *It is mainly spending more time on the whiteboard, diagrams, maps and models before hitting the keyboard.*
 *What we do in the name of architecture, shapes what it is; what we think it is, shapes what we do*
 
-## How ? 
+## Design 
 
 **Decision Template**
 - **Title** :
@@ -174,12 +174,12 @@ At each step in structuring, it is worthwhile challenging our creativity to expa
 - Continuous Improvement :
 	- Visualise and track changes to see how well the abstractions hold up. 
 
-
-
+## Test Cases --> Test Driven Development
+## 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYwNTI5ODUxLDE4OTQyODYxMCwtMTA0Nz
-gzODA0NiwtMTc1MjcwNjQwNiwzNjIwNjQyMTYsMTE0OTQzNTIx
-MiwxNDg0NDAwNzU1LC0xMjA5NDg1MywxOTYwNDUxMjksNDk3OD
-E4ODEwXX0=
+eyJoaXN0b3J5IjpbMjA1MDMxMTkzOCwxODk0Mjg2MTAsLTEwND
+c4MzgwNDYsLTE3NTI3MDY0MDYsMzYyMDY0MjE2LDExNDk0MzUy
+MTIsMTQ4NDQwMDc1NSwtMTIwOTQ4NTMsMTk2MDQ1MTI5LDQ5Nz
+gxODgxMF19
 -->
