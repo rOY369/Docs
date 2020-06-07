@@ -18,8 +18,11 @@
 
 **Technical Purpose**
 - Meet system requirements and objectives
+- Enable flexible distribution/partitioning of the system 
+- Reduce cost of maintenance and evolution
+	- Anticipating main kinds of changes that 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQxMDE3Njc5LDQ5NzgxODgxMF19
+eyJoaXN0b3J5IjpbLTg5NDI2NDQ3Nyw0OTc4MTg4MTBdfQ==
 -->
