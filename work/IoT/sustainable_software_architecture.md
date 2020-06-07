@@ -74,7 +74,7 @@ Design things to make their performance as insensitive to the unknown or uncontr
 - Adapters at the system boundary 
 - Abstractions : Boundaries within the boundary must be invented to give our system internal form.
 
-**Separation of Concerns : Understanding the problem domains being served by the system/software**
+**Design Document 1 : Separation of Concerns : Understanding the problem domains being served by the system/software**
 - User
 	- Requirements
 - Product
@@ -85,8 +85,10 @@ Design things to make their performance as insensitive to the unknown or uncontr
 	- Tech support
 	- System intelligence 
 
-**Components and Responsibilities**
+**Design Document 2 : Components and Responsibilities**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODc1OTgwODAsLTEyMDk0ODUzLDE5Nj
-A0NTEyOSw0OTc4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbMTUwNzEzMzIzLC0xMjA5NDg1MywxOTYwND
+UxMjksNDk3ODE4ODEwXX0=
 -->
