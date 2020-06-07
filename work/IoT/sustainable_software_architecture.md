@@ -101,7 +101,9 @@ Design things to make their performance as insensitive to the unknown or uncontr
 
 - Thought experiments with anticipated changes. 
 - Assessing impact against current components and their responsibilities to see how well we are doing in isolating change.
+- Continuous Improvement :
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYxNzk2MTEzLC0xMjA5NDg1MywxOTYwND
+eyJoaXN0b3J5IjpbMTU5OTEzODAwLC0xMjA5NDg1MywxOTYwND
 UxMjksNDk3ODE4ODEwXX0=
 -->
