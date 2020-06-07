@@ -70,12 +70,7 @@
 **How to create this structure ?**
 
 Design things to make their performance as insensitive to the unknown or uncontrollable external influence as practical.
-
-- Architecture requirements <--> Architecture specification <--> Architecture validation 
-- Adapters at the system boundary 
-- Abstractions : Boundaries within the boundary must be invented to give our system internal form.
-
-
+*Architecture requirements <--> Architecture specification <--> Architecture validation* 
 
 **Design Document 1 : Separation of Concerns : Architecture Requirements/Basis**
 - Understanding the problem domains being served by the system/software 
@@ -183,8 +178,8 @@ At each step in structuring, it is worthwhile challenging our creativity to expa
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODE5MDIwNjMsMTg5NDI4NjEwLC0xMD
-Q3ODM4MDQ2LC0xNzUyNzA2NDA2LDM2MjA2NDIxNiwxMTQ5NDM1
-MjEyLDE0ODQ0MDA3NTUsLTEyMDk0ODUzLDE5NjA0NTEyOSw0OT
-c4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbMzYwNTI5ODUxLDE4OTQyODYxMCwtMTA0Nz
+gzODA0NiwtMTc1MjcwNjQwNiwzNjIwNjQyMTYsMTE0OTQzNTIx
+MiwxNDg0NDAwNzU1LC0xMjA5NDg1MywxOTYwNDUxMjksNDk3OD
+E4ODEwXX0=
 -->
