@@ -1,5 +1,5 @@
 
-DeJoule reliability 
+IoT command reliability 
 - Number of commands
 - Command success 
 	- status 4 + status 1
@@ -15,7 +15,7 @@ DeJoule reliability
 		- modbus communication error
 			- logType write (OSError)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNTIzNzMyMyw5ODY5OTUzMTgsMTI5ND
-g5MDY2MCwtMTk4NjAzNjg2NywtMjA2ODE1NzUyNyw0OTc4MTg4
-MTBdfQ==
+eyJoaXN0b3J5IjpbMTU0NDMzNTU4MCwxNjI1MjM3MzIzLDk4Nj
+k5NTMxOCwxMjk0ODkwNjYwLC0xOTg2MDM2ODY3LC0yMDY4MTU3
+NTI3LDQ5NzgxODgxMF19
 -->
