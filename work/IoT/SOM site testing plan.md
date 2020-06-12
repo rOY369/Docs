@@ -3,10 +3,11 @@
 ### Finalising site and region
 
 *Should all tests and metrics be carried out in one region and in one controller ?*
+- depends on usage as normal controller or as a nas controller
 
 - Site Preferences
 	- Which is not handed over to client
-	- Which is nearby 
+	- Which is nearby (Delhi NCR)
 	- Where deployment team/maintenance team is active
 	- Where DQI in general is low
 	- Where internet connectivity is reliable.
@@ -76,6 +77,6 @@
 
 2-3 weeks testing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2MDg4MDMyLC0xODcwMjUxOTc5LC0xMz
-MwNDQyNTcwXX0=
+eyJoaXN0b3J5IjpbOTQwMzc4NDY3LDM1NjA4ODAzMiwtMTg3MD
+I1MTk3OSwtMTMzMDQ0MjU3MF19
 -->
