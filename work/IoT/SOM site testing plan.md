@@ -2,6 +2,8 @@
 
 ### Finalising site and region
 
+*Should all tests and metrics be carried out in one region and in one controller ?*
+
 - Site Preferences
 	- Which is not handed over to client
 	- Which is nearby 
@@ -13,7 +15,7 @@
 		- Ensure no power supply problems or any other physical problems in the region
 		- Confirm with SI team
 	- Where network strength is average. (Between 60% - 100%)
-		- Network strength should be at least 
+		- Network strength should be good enough to at least carry out the tests.
 - Controller Preferences
 	- Where resource consumption on avg. is more than x. 
 	- Where number of recipes running are at least x. 
@@ -25,5 +27,6 @@
 ### Changes in Software (Logs Integration)
 ### Other pre-requisite measures
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5OTM3MjkxMCwtMTMzMDQ0MjU3MF19
+eyJoaXN0b3J5IjpbLTE4NzAyNTE5NzksLTEzMzA0NDI1NzBdfQ
+==
 -->
