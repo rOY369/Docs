@@ -46,10 +46,14 @@
 	- Power Fluctuation 
 	- Data Quantity
 - SSD unmount
-- 
+	- D2RS ssd unmount log to be run for 1 week at least before starting the test
+	- Nas connection status log ?
+	- Power fluctuation
+	- Recipes working 
 ### Changes in Software (Logs Integration)
+- D2RS ssd unmount log
 ### Other pre-requisite measures
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNTQzNDcxLC0xODcwMjUxOTc5LC0xMz
-MwNDQyNTcwXX0=
+eyJoaXN0b3J5IjpbMTE5ODg3NTY0NiwtMTg3MDI1MTk3OSwtMT
+MzMDQ0MjU3MF19
 -->
