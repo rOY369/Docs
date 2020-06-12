@@ -51,6 +51,12 @@
 	- Power fluctuation
 	- Recipes commands reliability
 
+### Procedure
+
+- Finalise the site and controller with SOM 
+- Configure it with the same controller ID
+- R
+
 ### Changes in Software (Logs Integration)
 - D2RS ssd unmount log
 
@@ -62,7 +68,10 @@
 - Firmware for SOM should be ready and tested
 - Contact deployment team beforehand 
 - Contact site teams beforehand (data/commands could be non-reliable)
+
+### Timeline
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNzgxNjY2NCwtMTg3MDI1MTk3OSwtMT
-MzMDQ0MjU3MF19
+eyJoaXN0b3J5IjpbLTE1MzE2NTcwMzUsLTE4NzAyNTE5NzksLT
+EzMzA0NDI1NzBdfQ==
 -->
