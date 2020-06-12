@@ -26,10 +26,12 @@
 - Performance
 	- Figure out possible reasons behind high resource consumption. 
 	- Mock the same pattern in som.
-	- Compare 
+	- Compare som resource consumption with Rpi controller resource consumption. 
+	- Any possible change in system logs ( cpu, ram, disk) 
+- 
 ### Changes in Software (Logs Integration)
 ### Other pre-requisite measures
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NzAyNDM1OCwtMTg3MDI1MTk3OSwtMT
+eyJoaXN0b3J5IjpbMTkxOTczNjExMCwtMTg3MDI1MTk3OSwtMT
 MzMDQ0MjU3MF19
 -->
