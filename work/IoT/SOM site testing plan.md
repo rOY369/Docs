@@ -65,6 +65,7 @@
 ### Changes in Software (Logs Integration)
 - D2RS ssd unmount log (1 week)
 - nas connection status ??
+- Under voltage log
 
 ### Other pre-requisite measures/requirements
 - All software repo tags for SOM to be deployed
@@ -79,6 +80,7 @@
 
 2-3 weeks testing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNTQwNTQyNiw5NDAzNzg0NjcsMzU2MD
-g4MDMyLC0xODcwMjUxOTc5LC0xMzMwNDQyNTcwXX0=
+eyJoaXN0b3J5IjpbMTMyODY5NTMzNSwxMTI1NDA1NDI2LDk0MD
+M3ODQ2NywzNTYwODgwMzIsLTE4NzAyNTE5NzksLTEzMzA0NDI1
+NzBdfQ==
 -->
