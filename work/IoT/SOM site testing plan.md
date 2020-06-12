@@ -20,6 +20,7 @@
 	- Where resource consumption on avg. is more than x. 
 	- Where number of recipes running are at least x. 
 	- Where there is a large number of slave devices connected to the controller. 
+	- Where there is a large number of watchdog triggers.
 
 
 ### Tests 
@@ -27,11 +28,14 @@
 	- Figure out possible reasons behind high resource consumption. 
 	- Mock the same pattern in som.
 	- Compare som resource consumption with Rpi controller resource consumption. 
-	- Any possible change in system logs ( cpu, ram, disk) 
-- 
+	- Any possible change in system logs ( cpu, ram, disk) ? 
+- Uptime
+- Watchdog Triggers
+	- Figure out possible reasons behind large number of watchdog triggers.
+	- If there is a specific configuration 
 ### Changes in Software (Logs Integration)
 ### Other pre-requisite measures
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxOTczNjExMCwtMTg3MDI1MTk3OSwtMT
-MzMDQ0MjU3MF19
+eyJoaXN0b3J5IjpbLTE4ODQ0ODcwNjUsLTE4NzAyNTE5NzksLT
+EzMzA0NDI1NzBdfQ==
 -->
