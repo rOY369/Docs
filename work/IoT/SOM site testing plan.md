@@ -49,11 +49,16 @@
 	- D2RS ssd unmount log to be run for 1 week at least before starting the test
 	- Nas connection status log ?
 	- Power fluctuation
-	- Recipes working 
+	- Recipes commands reliability
+
 ### Changes in Software (Logs Integration)
 - D2RS ssd unmount log
-### Other pre-requisite measures
+
+### Other pre-requisite measures/requirements
+- All software re
+- Firmware for SOM should be ready and tested
+- Contact deployment team beforehand 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5ODg3NTY0NiwtMTg3MDI1MTk3OSwtMT
-MzMDQ0MjU3MF19
+eyJoaXN0b3J5IjpbLTE0NjM0Nzc0OTgsLTE4NzAyNTE5NzksLT
+EzMzA0NDI1NzBdfQ==
 -->
