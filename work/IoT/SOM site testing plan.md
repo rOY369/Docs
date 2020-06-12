@@ -55,10 +55,14 @@
 - D2RS ssd unmount log
 
 ### Other pre-requisite measures/requirements
-- All software re
+- All software repo tags for SOM to be deployed
+- remote 3 ?
+- CICD should be tested
+- reverse ssh should be tested
 - Firmware for SOM should be ready and tested
 - Contact deployment team beforehand 
+- Contact site teams beforehand (data/commands could be non-reliable)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjM0Nzc0OTgsLTE4NzAyNTE5NzksLT
-EzMzA0NDI1NzBdfQ==
+eyJoaXN0b3J5IjpbMTcyNzgxNjY2NCwtMTg3MDI1MTk3OSwtMT
+MzMDQ0MjU3MF19
 -->
