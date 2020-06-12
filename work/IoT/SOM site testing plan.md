@@ -38,12 +38,18 @@
 		- Compare the results.
 	- Boot time
 		- Difference between uptime and time host_service creates the first log
-	- DQI
+	- Data Quantity
 	- Power fluctuation
-	- 
+- Network Latch out
+	- Network Strength
+	- Link Quality
+	- Power Fluctuation 
+	- Data Quantity
+- SSD unmount
+- 
 ### Changes in Software (Logs Integration)
 ### Other pre-requisite measures
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODQ5MzkxMjAsLTE4NzAyNTE5NzksLT
-EzMzA0NDI1NzBdfQ==
+eyJoaXN0b3J5IjpbMTkzNTQzNDcxLC0xODcwMjUxOTc5LC0xMz
+MwNDQyNTcwXX0=
 -->
