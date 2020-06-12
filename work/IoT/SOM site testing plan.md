@@ -24,18 +24,26 @@
 
 
 ### Tests 
-- Performance
-	- Figure out possible reasons behind high resource consumption. 
-	- Mock the same pattern in som.
-	- Compare som resource consumption with Rpi controller resource consumption. 
-	- Any possible change in system logs ( cpu, ram, disk) ? 
-- Uptime
-- Watchdog Triggers
-	- Figure out possible reasons behind large number of watchdog triggers.
-	- If there is a specific configuration 
+
+- Raspberry Pi Hangup
+	- Performance
+		- Figure out possible reasons behind high resource consumption. 
+		- Mock the same pattern in som.
+		- Compare som resource consumption with Rpi controller resource consumption. 
+		- Any possible change in system logs ( cpu, ram, disk) ? 
+	- Uptime
+	- Watchdog Triggers
+		- Figure out possible reasons behind large number of watchdog triggers.
+		- If there is a specific combination or pattern, mock it in som. 
+		- Compare the results.
+	- Boot time
+		- Difference between uptime and time host_service creates the first log
+	- DQI
+	- Power fluctuation
+	- 
 ### Changes in Software (Logs Integration)
 ### Other pre-requisite measures
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODQ0ODcwNjUsLTE4NzAyNTE5NzksLT
+eyJoaXN0b3J5IjpbLTEzODQ5MzkxMjAsLTE4NzAyNTE5NzksLT
 EzMzA0NDI1NzBdfQ==
 -->
