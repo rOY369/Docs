@@ -60,6 +60,7 @@
 - Run it for 1-1.5 weeks as general controller and conduct tests except ssd unmount
 - Re-configure it as a NAS controller. 
 - Run it as NAS master for 1-1.5 weeks and conduct ssd unmount test. 
+	- 
 
 ### Changes in Software (Logs Integration)
 - D2RS ssd unmount log
@@ -77,6 +78,6 @@
 
 2-3 weeks testing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQwMzc4NDY3LDM1NjA4ODAzMiwtMTg3MD
-I1MTk3OSwtMTMzMDQ0MjU3MF19
+eyJoaXN0b3J5IjpbMTMwNzgwMDQ1NCw5NDAzNzg0NjcsMzU2MD
+g4MDMyLC0xODcwMjUxOTc5LC0xMzMwNDQyNTcwXX0=
 -->
