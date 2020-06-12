@@ -55,7 +55,10 @@
 
 - Finalise the site and controller with SOM 
 - Configure it with the same controller ID
-- R
+- Replace it on site
+- Run it for 1 week as general controller and conduct tests except ssd unmount
+- Re-configure it as a NAS controller. 
+- Run it as NAS master for 1 week and conduct ssd unmount test. 
 
 ### Changes in Software (Logs Integration)
 - D2RS ssd unmount log
@@ -71,7 +74,8 @@
 
 ### Timeline
 
+2 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzE2NTcwMzUsLTE4NzAyNTE5NzksLT
-EzMzA0NDI1NzBdfQ==
+eyJoaXN0b3J5IjpbMTk2NDI1NjU3MSwtMTg3MDI1MTk3OSwtMT
+MzMDQ0MjU3MF19
 -->
