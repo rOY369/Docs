@@ -29,11 +29,13 @@
 
 ## Known-Knowns
 
-- Software Performance
-	- Optimisation
-	- Query
-- 
+- Software Reliability
+	- Code Optimisation
+	- Query transaction 
+	- Bottlenecks in terms of data and commands reliability
+
+## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MzA2MTY3NSwxMjE0NTQ4NDk5LDU4OD
-Q0MTM0N119
+eyJoaXN0b3J5IjpbLTEyODU2NTA4MTgsMTIxNDU0ODQ5OSw1OD
+g0NDEzNDddfQ==
 -->
