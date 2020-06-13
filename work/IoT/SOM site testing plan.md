@@ -67,10 +67,10 @@
 - D2RS ssd unmount log (1 week)
 - nas connection status ??
 - Under voltage log
-- Boot time
 - `ping_to_gateway` + `hostname_resolve_time`
 - `cpu_load`
 - `used memory (MB)`
+- Better procedure to calculate boot time. 
 
 ### Other pre-requisite measures/requirements
 - All software repo tags for SOM to be deployed
@@ -85,7 +85,7 @@
 
 2-3 weeks testing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzODQ1MjI0OCwyMDQ1MTQxNTE3LDEzMj
+eyJoaXN0b3J5IjpbMTQ5MjE1NDkxMiwyMDQ1MTQxNTE3LDEzMj
 g2OTUzMzUsMTEyNTQwNTQyNiw5NDAzNzg0NjcsMzU2MDg4MDMy
 LC0xODcwMjUxOTc5LC0xMzMwNDQyNTcwXX0=
 -->
