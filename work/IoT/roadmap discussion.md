@@ -1,5 +1,5 @@
 
-- Vision + next 3 months steps
+- Vision + next months steps
 	- Reliability
 	- Scalability
 	- Modularity
@@ -14,12 +14,13 @@
 		- Documentation
 			- Code documentation
 			- Service documentation
-	- Process
-		- 
+	- Software Development Process
+		- Design
+		- Code Development Pipeline
 	- Setting up Reasonable Metrics
 		- Working on Improvements
 	- Hardware Agnostics
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY4MzUxMzg4LDEyMTQ1NDg0OTksNTg4ND
-QxMzQ3XX0=
+eyJoaXN0b3J5IjpbOTA3MzM5MDYsMTIxNDU0ODQ5OSw1ODg0ND
+EzNDddfQ==
 -->
