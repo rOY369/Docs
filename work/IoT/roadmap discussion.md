@@ -44,7 +44,10 @@
 		- System services as docker ?
 		- Host database as docker ?
 - Security
-	- 
+	- Client Authentication
+	- MQTTS
+	- Data encryption
+
 ## Known-unknowns
 
 - Modularity
@@ -56,7 +59,8 @@
 		- Should we implement load balancer for Joule Recipes ? or should we give the access to the user which controller to deploy the recipe ? or no need to do anything ?
 - Hardware agnostic 
 	- SOM or third party ?
+- Secur
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MzgwNjA2MiwxMjE0NTQ4NDk5LDU4OD
+eyJoaXN0b3J5IjpbLTQ4NzgyOTkzMCwxMjE0NTQ4NDk5LDU4OD
 Q0MTM0N119
 -->
