@@ -2,8 +2,6 @@
 
 ### Finalising site and region
 
-*Should all tests and metrics be carried out in one region and in one controller ?*
-- depends on usage as normal controller or as a nas controller
 
 - Site Preferences
 	- Which is not handed over to client
@@ -11,6 +9,7 @@
 	- Where deployment team/maintenance team is active
 	- Where DQI in general is low
 	- Where internet connectivity is reliable.
+	- FORTIS Noida 
 - Region Preferences
 	- Where site team has reported maximum times of device restart cases. 
 		- Ensure no power supply problems or any other physical problems in the region
@@ -81,7 +80,7 @@
 
 2-3 weeks testing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTQ3MjgxNDMsMTMyODY5NTMzNSwxMT
-I1NDA1NDI2LDk0MDM3ODQ2NywzNTYwODgwMzIsLTE4NzAyNTE5
-NzksLTEzMzA0NDI1NzBdfQ==
+eyJoaXN0b3J5IjpbMjA0NTE0MTUxNywxMzI4Njk1MzM1LDExMj
+U0MDU0MjYsOTQwMzc4NDY3LDM1NjA4ODAzMiwtMTg3MDI1MTk3
+OSwtMTMzMDQ0MjU3MF19
 -->
