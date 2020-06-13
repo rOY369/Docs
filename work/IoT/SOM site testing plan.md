@@ -32,14 +32,13 @@
 		- Mock the same pattern in som.
 		- Compare som resource consumption with Rpi controller resource consumption. 
 	- Uptime
-		- 
+		- Device restart log
 	- Watchdog Triggers
 		- Figure out possible reasons behind large number of watchdog triggers.
 		- If there is a specific combination or pattern, mock it in som. 
 		- Compare the results.
 	- Boot time
-		- Difference between device Restart and acknowledgement of all watchdog triggers
-		- Difference between uptime and time host_service creates the first log
+		- Difference between device Restart time and acknowledgement of all watchdog triggers
 	- Data Quantity
 	- Power fluctuation
 - Network Latch out
@@ -85,7 +84,7 @@
 
 2-3 weeks testing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg4MTgwMDM4LDIwNDUxNDE1MTcsMTMyOD
-Y5NTMzNSwxMTI1NDA1NDI2LDk0MDM3ODQ2NywzNTYwODgwMzIs
-LTE4NzAyNTE5NzksLTEzMzA0NDI1NzBdfQ==
+eyJoaXN0b3J5IjpbLTE1NDQ1NTAzNjAsMjA0NTE0MTUxNywxMz
+I4Njk1MzM1LDExMjU0MDU0MjYsOTQwMzc4NDY3LDM1NjA4ODAz
+MiwtMTg3MDI1MTk3OSwtMTMzMDQ0MjU3MF19
 -->
