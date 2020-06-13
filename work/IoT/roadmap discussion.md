@@ -1,5 +1,5 @@
 
-- Vision + next months steps
+- Vision + next 6 months steps
 	- Reliability
 	- Scalability
 	- Modularity
@@ -9,7 +9,7 @@
 			- Easy to integrate new features
 			- Less coupling
 		- Architecture
-	- Refactoring
+	- Refactoring/Technical Debt
 		- Quality Unit testing
 		- Documentation
 			- Code documentation
@@ -21,6 +21,6 @@
 		- Working on Improvements
 	- Hardware Agnostics
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA3MzM5MDYsMTIxNDU0ODQ5OSw1ODg0ND
-EzNDddfQ==
+eyJoaXN0b3J5IjpbMTMzMDQ4NjYzNywxMjE0NTQ4NDk5LDU4OD
+Q0MTM0N119
 -->
