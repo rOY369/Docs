@@ -39,6 +39,7 @@
 		- Compare the results.
 	- Boot time
 		- Difference between device Restart time and acknowledgement of all watchdog triggers
+		- A better procedure/parameter ?
 	- Data Quantity
 	- Power fluctuation
 - Network Latch out
@@ -84,7 +85,7 @@
 
 2-3 weeks testing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDQ1NTAzNjAsMjA0NTE0MTUxNywxMz
-I4Njk1MzM1LDExMjU0MDU0MjYsOTQwMzc4NDY3LDM1NjA4ODAz
-MiwtMTg3MDI1MTk3OSwtMTMzMDQ0MjU3MF19
+eyJoaXN0b3J5IjpbMTUzODQ1MjI0OCwyMDQ1MTQxNTE3LDEzMj
+g2OTUzMzUsMTEyNTQwNTQyNiw5NDAzNzg0NjcsMzU2MDg4MDMy
+LC0xODcwMjUxOTc5LC0xMzMwNDQyNTcwXX0=
 -->
