@@ -12,7 +12,7 @@ IoT command reliability
 		- VFD mode is off
 			- Firmware executes the command successfully.
 			- How to detect this mode ?
-				- output frequency = 0 
+				- output frequency = 0 and `automanual = 0`
 		- VFD mode (manual)
 			- `automanual` data parameter of vfd
 			- Firmware executes command successfully.
@@ -21,7 +21,7 @@ IoT command reliability
 			- `data = "null"`
 		- Modbus communication error
 			- Firmware logs command status as False with  `logType write (OSError)`
-			- `data = "null"`
+			- `data = "null"` (
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTc0NDc0NTUsLTk3NDcyMjg4MV19
+eyJoaXN0b3J5IjpbMTUzOTE1NTUyLC05NzQ3MjI4ODFdfQ==
 -->
