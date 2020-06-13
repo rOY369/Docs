@@ -59,8 +59,9 @@
 		- Should we implement load balancer for Joule Recipes ? or should we give the access to the user which controller to deploy the recipe ? or no need to do anything ?
 - Hardware agnostic 
 	- SOM or third party ?
-- Secur
+- Security
+	- Any other critical measures ?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NzgyOTkzMCwxMjE0NTQ4NDk5LDU4OD
-Q0MTM0N119
+eyJoaXN0b3J5IjpbMTYyOTkxNzkyLDEyMTQ1NDg0OTksNTg4ND
+QxMzQ3XX0=
 -->
