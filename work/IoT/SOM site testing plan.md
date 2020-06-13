@@ -17,11 +17,11 @@
 	- Where network parameters (network strength + `link quality` +`ping_to_gateway` + `hostname_resolve_time`) is average. (Between 60% - 100%) (SI Team)
 		- It should be good enough to at least carry out the tests.
 - Controller Preferences
-	- Where resource consumption on avg. is more than x. 
-	- Where number of recipes running are at least x. 
-	- Where there is a large number of slave devices connected to the controller. 
-	- Where there is a large number of watchdog triggers.
-	- Specifications should be at least Rpi-3. 
+	- Where resource consumption on avg. is more (Must-have)
+	- Where most number of recipes are running. (Good-2-have)
+	- Where there is a large number of slave devices connected to the controller.  (Good-2-have)
+	- Where there is a large number of watchdog triggers. 
+	- Specifications should be at least Rpi-3. (Must-have)
 
 ### Tests 
 
@@ -83,7 +83,7 @@
 
 2-3 weeks testing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzU3MTI2MDcsMjA0NTE0MTUxNywxMz
-I4Njk1MzM1LDExMjU0MDU0MjYsOTQwMzc4NDY3LDM1NjA4ODAz
-MiwtMTg3MDI1MTk3OSwtMTMzMDQ0MjU3MF19
+eyJoaXN0b3J5IjpbLTQ2Nzg2MjY0OSwyMDQ1MTQxNTE3LDEzMj
+g2OTUzMzUsMTEyNTQwNTQyNiw5NDAzNzg0NjcsMzU2MDg4MDMy
+LC0xODcwMjUxOTc5LC0xMzMwNDQyNTcwXX0=
 -->
