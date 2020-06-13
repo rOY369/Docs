@@ -14,8 +14,8 @@
 	- Where site team has reported maximum times of device restart cases. (Manash + SI Team)
 		- Ensure no power supply problems or any other physical problems in the region (Manash)
 		- Confirm with SI team
-	- Where network strength is average. (Between 60% - 100%) (SI Team)
-		- Network strength should be good enough to at least carry out the tests.
+	- Where network parameters (network strength + link quality) is average. (Between 60% - 100%) (SI Team)
+		- It should be good enough to at least carry out the tests.
 - Controller Preferences
 	- Where resource consumption on avg. is more than x. 
 	- Where number of recipes running are at least x. 
@@ -80,7 +80,7 @@
 
 2-3 weeks testing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njk0NjgwNDUsMjA0NTE0MTUxNywxMz
-I4Njk1MzM1LDExMjU0MDU0MjYsOTQwMzc4NDY3LDM1NjA4ODAz
-MiwtMTg3MDI1MTk3OSwtMTMzMDQ0MjU3MF19
+eyJoaXN0b3J5IjpbMTQ0MzQyMjY2OCwyMDQ1MTQxNTE3LDEzMj
+g2OTUzMzUsMTEyNTQwNTQyNiw5NDAzNzg0NjcsMzU2MDg4MDMy
+LC0xODcwMjUxOTc5LC0xMzMwNDQyNTcwXX0=
 -->
