@@ -66,7 +66,7 @@
 ### Changes in Software (Logs Integration)
 - D2RS ssd unmount log (1 week)
 - nas connection status ??
-- Under voltage log
+- current drawn + Under voltage log
 - `ping_to_gateway` + `hostname_resolve_time`
 - `cpu_load`
 - `used memory (MB)`
@@ -85,7 +85,7 @@
 
 2-3 weeks testing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MjE1NDkxMiwyMDQ1MTQxNTE3LDEzMj
+eyJoaXN0b3J5IjpbLTQ4MDY5ODM4MiwyMDQ1MTQxNTE3LDEzMj
 g2OTUzMzUsMTEyNTQwNTQyNiw5NDAzNzg0NjcsMzU2MDg4MDMy
 LC0xODcwMjUxOTc5LC0xMzMwNDQyNTcwXX0=
 -->
