@@ -47,9 +47,11 @@
 - Issues in previous Rpi System
 	- Improvements in the new system
 - Scalability
-	- Requirements ?
-		- Should we implement load balancer for Joule Recipes ? or should we give the access to the user which controller to deploy the recipe ?
+	- Load Requirements ?
+		- Should we implement load balancer for Joule Recipes ? or should we give the access to the user which controller to deploy the recipe ? or no need to do anything ?
+- Hardware agnostic 
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNTM3OTk0NiwxMjE0NTQ4NDk5LDU4OD
+eyJoaXN0b3J5IjpbLTUyODA5MTkyMSwxMjE0NTQ4NDk5LDU4OD
 Q0MTM0N119
 -->
