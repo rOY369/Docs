@@ -27,7 +27,7 @@
 	- Working on Improvements
 - Hardware Agnostics
 
-## Known-Knowns
+## Known-Known
 
 - Reliability
 	- Software Reliability
@@ -43,7 +43,8 @@
 	- Software dependencies
 		- System services as docker ?
 		- Host database as docker ?
-
+- Security
+	- 
 ## Known-unknowns
 
 - Modularity
@@ -54,8 +55,8 @@
 	- Load Requirements ?
 		- Should we implement load balancer for Joule Recipes ? or should we give the access to the user which controller to deploy the recipe ? or no need to do anything ?
 - Hardware agnostic 
-	- 
+	- SOM or third party ?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAzMTE2Njk5LDEyMTQ1NDg0OTksNTg4ND
-QxMzQ3XX0=
+eyJoaXN0b3J5IjpbLTY2MzgwNjA2MiwxMjE0NTQ4NDk5LDU4OD
+Q0MTM0N119
 -->
