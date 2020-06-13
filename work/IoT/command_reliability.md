@@ -12,11 +12,12 @@ IoT command reliability
 		- asset mode is off
 			- Firmware executes the command successfully.
 			- How to detect this mode ?
+				- output frequency = 0 
 		- asset mode (manual)
 			- `automanual` data parameter of vfd
 			- Firmware executes command successfully.
 		- Modbus communication error/Asset powered off
 			- Firmware logs command status as False with  `logType write (OSError)`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NDcyMjg4MV19
+eyJoaXN0b3J5IjpbLTE3Mzk4NjU4NzIsLTk3NDcyMjg4MV19
 -->
