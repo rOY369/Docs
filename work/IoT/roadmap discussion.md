@@ -29,9 +29,8 @@
 ## Technical Debt
 
 - Removing redundancies
-	- Common libraries 
-- 
+	- Common librar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NDExMTIsMTIxNDU0ODQ5OSw1ODg0ND
-EzNDddfQ==
+eyJoaXN0b3J5IjpbMTY4NjgzMTU3NCwxMjE0NTQ4NDk5LDU4OD
+Q0MTM0N119
 -->
