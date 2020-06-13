@@ -18,6 +18,7 @@ IoT command reliability
 			- Firmware executes command successfully.
 		- Modbus communication error/Asset powered off
 			- Firmware logs command status as False with  `logType write (OSError)`
+			- `data = "null"`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzk4NjU4NzIsLTk3NDcyMjg4MV19
+eyJoaXN0b3J5IjpbMzU2MzQyMjM3LC05NzQ3MjI4ODFdfQ==
 -->
