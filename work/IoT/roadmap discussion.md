@@ -39,8 +39,11 @@
 ## Known-unknowns
 
 - Modularity
-	- So
+	- Reliability gained to modularity
+- Issues in previous Rpi System
+	- Improvements in the new system
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE3NDQ1NzMzLDEyMTQ1NDg0OTksNTg4ND
-QxMzQ3XX0=
+eyJoaXN0b3J5IjpbLTk4NjUxNzE5NSwxMjE0NTQ4NDk5LDU4OD
+Q0MTM0N119
 -->
