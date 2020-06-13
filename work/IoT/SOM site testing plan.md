@@ -18,10 +18,11 @@
 		- It should be good enough to at least carry out the tests.
 - Controller Preferences
 	- Where resource consumption on avg. is more (Must-have)
+	- Specifications should be at least Rpi-3. (Must-have)
 	- Where most number of recipes are running. (Good-2-have)
 	- Where there is a large number of slave devices connected to the controller.  (Good-2-have)
-	- Where there is a large number of watchdog triggers. 
-	- Specifications should be at least Rpi-3. (Must-have)
+	- Where there is a large number of watchdog triggers. (Good-2-have)
+
 
 ### Tests 
 
@@ -30,13 +31,14 @@
 		- Figure out possible reasons behind high resource consumption. 
 		- Mock the same pattern in som.
 		- Compare som resource consumption with Rpi controller resource consumption. 
-		- Any possible change in system logs ( cpu, ram, disk) ? 
 	- Uptime
+		- 
 	- Watchdog Triggers
 		- Figure out possible reasons behind large number of watchdog triggers.
 		- If there is a specific combination or pattern, mock it in som. 
 		- Compare the results.
 	- Boot time
+		- Difference between device Restart and acknowledgement of all watchdog triggers
 		- Difference between uptime and time host_service creates the first log
 	- Data Quantity
 	- Power fluctuation
@@ -83,7 +85,7 @@
 
 2-3 weeks testing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2Nzg2MjY0OSwyMDQ1MTQxNTE3LDEzMj
-g2OTUzMzUsMTEyNTQwNTQyNiw5NDAzNzg0NjcsMzU2MDg4MDMy
-LC0xODcwMjUxOTc5LC0xMzMwNDQyNTcwXX0=
+eyJoaXN0b3J5IjpbNjg4MTgwMDM4LDIwNDUxNDE1MTcsMTMyOD
+Y5NTMzNSwxMTI1NDA1NDI2LDk0MDM3ODQ2NywzNTYwODgwMzIs
+LTE4NzAyNTE5NzksLTEzMzA0NDI1NzBdfQ==
 -->
