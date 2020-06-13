@@ -21,8 +21,7 @@
 	- Where number of recipes running are at least x. 
 	- Where there is a large number of slave devices connected to the controller. 
 	- Where there is a large number of watchdog triggers.
-	-
-
+	- Specifications should be at least Rpi-3. 
 
 ### Tests 
 
@@ -82,7 +81,7 @@
 
 2-3 weeks testing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM0NTMwNzc3LDIwNDUxNDE1MTcsMTMyOD
-Y5NTMzNSwxMTI1NDA1NDI2LDk0MDM3ODQ2NywzNTYwODgwMzIs
-LTE4NzAyNTE5NzksLTEzMzA0NDI1NzBdfQ==
+eyJoaXN0b3J5IjpbLTMxODM0NDIxOCwyMDQ1MTQxNTE3LDEzMj
+g2OTUzMzUsMTEyNTQwNTQyNiw5NDAzNzg0NjcsMzU2MDg4MDMy
+LC0xODcwMjUxOTc5LC0xMzMwNDQyNTcwXX0=
 -->
