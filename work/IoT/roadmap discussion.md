@@ -31,8 +31,9 @@
 
 - Software Performance
 	- Optimisation
+	- Query
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NzQ4ODUzNCwxMjE0NTQ4NDk5LDU4OD
+eyJoaXN0b3J5IjpbLTM1MzA2MTY3NSwxMjE0NTQ4NDk5LDU4OD
 Q0MTM0N119
 -->
