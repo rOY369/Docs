@@ -82,12 +82,14 @@
 - Firmware for SOM should be ready and tested
 - Contact deployment team beforehand 
 - Contact site teams beforehand (data/commands could be non-reliable)
+- Availability of SOM module + Tested SOM peripheral board
 
 ### Timeline
 
 2-3 weeks testing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMDkxMDcwMywyMDQ1MTQxNTE3LDEzMj
-g2OTUzMzUsMTEyNTQwNTQyNiw5NDAzNzg0NjcsMzU2MDg4MDMy
-LC0xODcwMjUxOTc5LC0xMzMwNDQyNTcwXX0=
+eyJoaXN0b3J5IjpbLTEyNDQ3ODg1MTAsLTMxMDkxMDcwMywyMD
+Q1MTQxNTE3LDEzMjg2OTUzMzUsMTEyNTQwNTQyNiw5NDAzNzg0
+NjcsMzU2MDg4MDMyLC0xODcwMjUxOTc5LC0xMzMwNDQyNTcwXX
+0=
 -->
