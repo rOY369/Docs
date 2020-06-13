@@ -45,6 +45,8 @@
 - Network Latch out
 	- Network Strength
 	- Link Quality
+	- `ping_to_gateway`
+	- `hostname_resolve_time`
 	- Power Fluctuation 
 	- Data Quantity
 - SSD unmount
@@ -85,7 +87,7 @@
 
 2-3 weeks testing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MDY5ODM4MiwyMDQ1MTQxNTE3LDEzMj
+eyJoaXN0b3J5IjpbLTMxMDkxMDcwMywyMDQ1MTQxNTE3LDEzMj
 g2OTUzMzUsMTEyNTQwNTQyNiw5NDAzNzg0NjcsMzU2MDg4MDMy
 LC0xODcwMjUxOTc5LC0xMzMwNDQyNTcwXX0=
 -->
