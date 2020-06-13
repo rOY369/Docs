@@ -29,13 +29,18 @@
 
 ## Known-Knowns
 
-- Software Reliability
-	- Code Optimisation
-	- Query transaction 
-	- Bottlenecks in terms of data and commands reliability
+- Reliability
+	- Software Reliability
+		- Code Optimisation
+		- Query transaction 
+		- Bottlenecks in terms of data and commands reliability
+	- SSD unmount
 
-## 
+## Known-unknowns
+
+- Modularity
+	- So
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODU2NTA4MTgsMTIxNDU0ODQ5OSw1OD
-g0NDEzNDddfQ==
+eyJoaXN0b3J5IjpbMzE3NDQ1NzMzLDEyMTQ1NDg0OTksNTg4ND
+QxMzQ3XX0=
 -->
