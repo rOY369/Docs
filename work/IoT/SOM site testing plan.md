@@ -67,6 +67,8 @@
 - Under voltage log
 - Boot time
 - `ping_to_gateway` + `hostname_resolve_time`
+- `cpu_load`
+- `used memory (MB)`
 
 ### Other pre-requisite measures/requirements
 - All software repo tags for SOM to be deployed
@@ -81,7 +83,7 @@
 
 2-3 weeks testing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxODM0NDIxOCwyMDQ1MTQxNTE3LDEzMj
-g2OTUzMzUsMTEyNTQwNTQyNiw5NDAzNzg0NjcsMzU2MDg4MDMy
-LC0xODcwMjUxOTc5LC0xMzMwNDQyNTcwXX0=
+eyJoaXN0b3J5IjpbLTEwMzU3MTI2MDcsMjA0NTE0MTUxNywxMz
+I4Njk1MzM1LDExMjU0MDU0MjYsOTQwMzc4NDY3LDM1NjA4ODAz
+MiwtMTg3MDI1MTk3OSwtMTMzMDQ0MjU3MF19
 -->
