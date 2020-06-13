@@ -23,6 +23,7 @@
 - Software Development Process
 	- Design
 	- Code Development Pipeline
+	- Code 
 - Setting up Reasonable Metrics
 	- Working on Improvements
 - Hardware Agnostics
@@ -62,6 +63,6 @@
 - Security
 	- Any other critical measures ?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyOTkxNzkyLDEyMTQ1NDg0OTksNTg4ND
-QxMzQ3XX0=
+eyJoaXN0b3J5IjpbLTEwMDM2MzkwNTYsMTIxNDU0ODQ5OSw1OD
+g0NDEzNDddfQ==
 -->
