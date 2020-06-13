@@ -14,7 +14,7 @@
 	- Where site team has reported maximum times of device restart cases. (Manash + SI Team)
 		- Ensure no power supply problems or any other physical problems in the region (Manash)
 		- Confirm with SI team
-	- Where network parameters (network strength + link quality) is average. (Between 60% - 100%) (SI Team)
+	- Where network parameters (network strength + `link quality` +`ping_to_gateway` + `hostname_resolve_time`) is average. (Between 60% - 100%) (SI Team)
 		- It should be good enough to at least carry out the tests.
 - Controller Preferences
 	- Where resource consumption on avg. is more than x. 
@@ -66,6 +66,7 @@
 - nas connection status ??
 - Under voltage log
 - Boot time
+- `ping_to_gateway` + `hostname_resolve_time`
 
 ### Other pre-requisite measures/requirements
 - All software repo tags for SOM to be deployed
@@ -80,7 +81,7 @@
 
 2-3 weeks testing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MzQyMjY2OCwyMDQ1MTQxNTE3LDEzMj
-g2OTUzMzUsMTEyNTQwNTQyNiw5NDAzNzg0NjcsMzU2MDg4MDMy
-LC0xODcwMjUxOTc5LC0xMzMwNDQyNTcwXX0=
+eyJoaXN0b3J5IjpbMjc2Nzk2MDM2LDIwNDUxNDE1MTcsMTMyOD
+Y5NTMzNSwxMTI1NDA1NDI2LDk0MDM3ODQ2NywzNTYwODgwMzIs
+LTE4NzAyNTE5NzksLTEzMzA0NDI1NzBdfQ==
 -->
