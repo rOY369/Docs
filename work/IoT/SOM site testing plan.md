@@ -11,10 +11,10 @@
 	- Where internet connectivity is reliable.
 	- FORTIS Noida 
 - Region Preferences
-	- Where site team has reported maximum times of device restart cases. 
-		- Ensure no power supply problems or any other physical problems in the region
+	- Where site team has reported maximum times of device restart cases. (Manash + SI Team)
+		- Ensure no power supply problems or any other physical problems in the region (Manash)
 		- Confirm with SI team
-	- Where network strength is average. (Between 60% - 100%)
+	- Where network strength is average. (Between 60% - 100%) (SI Team)
 		- Network strength should be good enough to at least carry out the tests.
 - Controller Preferences
 	- Where resource consumption on avg. is more than x. 
@@ -80,7 +80,7 @@
 
 2-3 weeks testing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NTE0MTUxNywxMzI4Njk1MzM1LDExMj
-U0MDU0MjYsOTQwMzc4NDY3LDM1NjA4ODAzMiwtMTg3MDI1MTk3
-OSwtMTMzMDQ0MjU3MF19
+eyJoaXN0b3J5IjpbLTE1Njk0NjgwNDUsMjA0NTE0MTUxNywxMz
+I4Njk1MzM1LDExMjU0MDU0MjYsOTQwMzc4NDY3LDM1NjA4ODAz
+MiwtMTg3MDI1MTk3OSwtMTMzMDQ0MjU3MF19
 -->
