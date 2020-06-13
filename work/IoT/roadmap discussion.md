@@ -39,6 +39,10 @@
 	- Modularity
 		- Software design
 		- Feature toggling
+- Hardware agnostic
+	- Software dependencies
+		- System services as docker ?
+		- Host database as docker ?
 
 ## Known-unknowns
 
@@ -52,6 +56,6 @@
 - Hardware agnostic 
 	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyODA5MTkyMSwxMjE0NTQ4NDk5LDU4OD
-Q0MTM0N119
+eyJoaXN0b3J5IjpbODAzMTE2Njk5LDEyMTQ1NDg0OTksNTg4ND
+QxMzQ3XX0=
 -->
