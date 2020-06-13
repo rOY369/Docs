@@ -10,11 +10,13 @@ IoT command reliability
 		- x commands reached firmware and processed without any error. These commands failed to execute possibly due to a fault in the equipment. 
 	- Failures due to asset
 		- asset mode is off
-			- Firmware executes the command successfully 
+			- Firmware executes the command successfully.
+			- How to detect this mode ?
 		- asset mode (manual)
 			- `automanual` data parameter of vfd
-		- modbus communication error
-			- logType write (OSError)
+			- Firmware executes command successfully.
+		- Modbus communication error/Asset powered off
+			- Firmware logs command status as False with  `logType write (OSError)`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTE2NDI0NDhdfQ==
+eyJoaXN0b3J5IjpbLTk3NDcyMjg4MV19
 -->
