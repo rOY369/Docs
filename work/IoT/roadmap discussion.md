@@ -15,6 +15,7 @@
 - Technical Debt
 	- Refactoring
 		- Code should be Easy to read and understand
+		- Removing redundancies
 	- Quality Unit testing
 	- Documentation
 		- Code documentation
@@ -26,11 +27,11 @@
 	- Working on Improvements
 - Hardware Agnostics
 
-## Technical Debt
+## Known-Knowns
 
-- Removing redundancies
-	- Common librar
+- Software Performance
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NjgzMTU3NCwxMjE0NTQ4NDk5LDU4OD
+eyJoaXN0b3J5IjpbMTAxMTczODU1NSwxMjE0NTQ4NDk5LDU4OD
 Q0MTM0N119
 -->
