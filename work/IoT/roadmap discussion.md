@@ -36,9 +36,9 @@
 		- Bottlenecks in terms of data and commands reliability
 	- SSD unmount
 - Scalability
-- Modularity
-	- Software design
-	- Feature toggling
+	- Modularity
+		- Software design
+		- Feature toggling
 
 ## Known-unknowns
 
@@ -46,8 +46,10 @@
 	- Reliability gained to modularity
 - Issues in previous Rpi System
 	- Improvements in the new system
-- 
+- Scalability
+	- Requirements ?
+		- Should we implement load balancer for Joule Recipes ? or should we give the access to the user which controller to deploy the recipe ?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgwMDQ3MjU0LDEyMTQ1NDg0OTksNTg4ND
-QxMzQ3XX0=
+eyJoaXN0b3J5IjpbMTYxNTM3OTk0NiwxMjE0NTQ4NDk5LDU4OD
+Q0MTM0N119
 -->
