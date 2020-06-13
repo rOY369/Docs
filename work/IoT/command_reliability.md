@@ -21,7 +21,7 @@ IoT command reliability
 			- `data = "null"`
 		- Modbus communication error
 			- Firmware logs command status as False with  `logType write (OSError)`
-			- `data = "null"` (
+			- `data = "null"` (possibility)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzOTE1NTUyLC05NzQ3MjI4ODFdfQ==
+eyJoaXN0b3J5IjpbNTYwODY1NDE4LC05NzQ3MjI4ODFdfQ==
 -->
