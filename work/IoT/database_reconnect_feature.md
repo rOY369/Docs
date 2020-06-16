@@ -130,13 +130,13 @@ def thread_target_func_2():
 	- Some error with the computation/logic of query inside the database function
 	- Query syntax error
 
-**Note** : 
-
-*Considering the above problems and concerns, I see this as an opportunity to reduce some of the coupling in the applicationcontainer software. We have to take a look at how database is being accessed right now and how can we improve its design keeping in mind the problems we have faced in the past and the problems we have at hand and those we can anticipate.*
+**
+***Considering the above problems and concerns, I see this as an opportunity to reduce some of the coupling in the applicationcontainer software. We have to take a look at how database is being accessed right now and how can we improve its design keeping in mind the problems we have faced in the past and the problems we have at hand and those we can anticipate.***
 - Database reconnect functionality 
-- The database functions are exactly the same while accessing the nas database/local database. So they should be reusable i.e. it should have a single source. But right now we have 2 different sources. 
+- The database functions are exactly the same while accessing the nas database/local database. So they should be reusable i.e. it should have a single source. But right now we have 2 different sources. We have to make the same change in 2 places which is a redundant effort and also can increases scope of error. 
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MTIyNTIxNCwtMTExMjMyNDY3NiwxOD
+eyJoaXN0b3J5IjpbMTA3MDI2OTM3MywtMTExMjMyNDY3NiwxOD
 gyNjM0OTMyXX0=
 -->
