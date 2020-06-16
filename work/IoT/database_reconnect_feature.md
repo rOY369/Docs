@@ -72,7 +72,7 @@ class DATABASE():
         except Exception as error:
             print("WRONG QUERY..ROLLING BACK", error)
             self.CONNECTION_DATABASE.rollback()
-
+	@reconnect()
     def set_command_status_worker(self, status, epochtime):
         try:
             self.CURSOR.execute(
@@ -85,5 +85,5 @@ class DATABASE():
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NTU3MzcwMl19
+eyJoaXN0b3J5IjpbLTgyNTUyMjQyMl19
 -->
