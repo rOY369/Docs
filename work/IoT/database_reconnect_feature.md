@@ -125,7 +125,9 @@ def thread_target_func_2():
 
 ### Unnecessary Reconnect
 
-- If we don't catch specific database errors, the reconnect will be called even if there is any other
+- If we don't catch specific database errors, the reconnect will be called even if there is any other exception which did not require the reconnect in the first place. 
+- For example
+	- Some error with the computation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMTM4Njk1OSwxODgyNjM0OTMyXX0=
+eyJoaXN0b3J5IjpbNzQwODk4MTgsMTg4MjYzNDkzMl19
 -->
