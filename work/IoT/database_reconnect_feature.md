@@ -1,5 +1,6 @@
 
-## 
+## Current solution
+
 ```
 class reconnect:
     def __init__(self, delay=10, numOfRetries=5):
@@ -87,7 +88,8 @@ class DATABASE():
 
 ## Problems/Edge cases if we use the above design  
 
-###
+### Calling of Database functions in different threads
+
 Considering that the software running inside applicationcontainer calls the database object in multiple threads.
 Suppose the usage of the database object in the following way - 
 
@@ -108,7 +110,7 @@ def thread_2():
 - Different queries like - 
 	- inserting devices date in the `logdata` table
 	- Running qos queries like `get_unuploaded_data_from_database`
-- Executed in different threads. So, the reconnect 
+- Executed in different threads. So, the reconnect loop could be running to reconnect with the database 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDYzNDg4LDE4ODI2MzQ5MzJdfQ==
+eyJoaXN0b3J5IjpbLTkwNTA1MTM3NywxODgyNjM0OTMyXX0=
 -->
