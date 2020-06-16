@@ -141,9 +141,13 @@ def thread_target_func_2():
 	- Are there any advantages of using one database object entirely in a software piece like applicationcontainer ?
 	- Will it save some ram/processing ? Will it simplify the design ?
 
+## Alternative
+
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMTY2OTgwNywtMTExMjMyNDY3NiwxOD
-gyNjM0OTMyXX0=
+eyJoaXN0b3J5IjpbOTAxNzcyOTg2LC0xMTEyMzI0Njc2LDE4OD
+I2MzQ5MzJdfQ==
 -->
