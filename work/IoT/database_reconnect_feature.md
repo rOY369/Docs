@@ -92,9 +92,17 @@ Suppose the usage of the database object in the following way -
 
 ```
 # dbObject can be global object (remote_obj/local_obj/proxy_obj)
+
 def thread_1():
-	dbObject
+	dbObject.execute(<query>)
+	or 
+	dbObject.mqtt_to_database_worker(args)
+
+def thread_2():
+	dbObject.execute(<query>)
+	or 
+	dbObject.get_unuploaded_data_from_databa(args)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcyMjE2ODAzLDE4ODI2MzQ5MzJdfQ==
+eyJoaXN0b3J5IjpbLTEwNTQzMTAzMTIsMTg4MjYzNDkzMl19
 -->
