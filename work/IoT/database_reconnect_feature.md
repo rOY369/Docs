@@ -117,8 +117,7 @@ def thread_target_func_2():
 ### Increase in Database functions execution time
 
 - In the current software architecture of applicationcontainer, the execution time of database functions depends on the time it takes for the local database/nas database to execute the respective query. 
-- We already know if there is a lag from the database side, the applicationcontainer could suffer in data, commands and recipe reliability. 
-- 
+- We already know if there is a lag from the database side(local or nas), the applicationcontainer  suffers in data, commands and recipe reliability. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTMwMjQxNiwxODgyNjM0OTMyXX0=
+eyJoaXN0b3J5IjpbMTU3MDc4MzgxMCwxODgyNjM0OTMyXX0=
 -->
