@@ -130,9 +130,11 @@ def thread_target_func_2():
 	- Some error with the computation/logic of query inside the database function
 	- Query syntax error
 
-**Considering the above problems and concerns, I see this as an opportunity to reduce some of the coupling in the applicationcontainer software. We have to take a look at how database is being accessed right now and how can we **
+**Note** : 
+
+*Considering the above problems and concerns, I see this as an opportunity to reduce some of the coupling in the applicationcontainer software. We have to take a look at how database is being accessed right now and how can we improve its design keeping in mind the problems we have faced in the past and the problems we we are anticipating *
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjc5NzY2NiwtMTExMjMyNDY3NiwxOD
+eyJoaXN0b3J5IjpbLTEwNzk5MDI4MSwtMTExMjMyNDY3NiwxOD
 gyNjM0OTMyXX0=
 -->
