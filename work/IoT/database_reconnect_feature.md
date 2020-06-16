@@ -114,13 +114,13 @@ def thread_target_func_2():
 - Suppose the local db crashes 
 	- In cases where same object is used in both threads, reconnect could take place through the same object from 2 different occurrences at the same time. 
 	- The same job with the same outcome could run twice or multiple times in a parallel fashion. This is some extra redundant processing. 
-- Also even if the database connection is stable, the same task of whether there is a need to reconnect happens every time a database function is called. 
+- Also even if the database connection is stable, the same task of whether there is a need to reconnect happens every time a database function is called. This seems like a minute unnecessary processing/ram we could save by exploring other alternatives/design to tackle the problem. 
 
 ### Increase in Database functions execution time
 
 - In the current software architecture of applicationcontainer, the execution time of database functions depends on the time it takes for the local database/nas database to execute the respective query. 
 - We already know if there is a lag from the database side(local or nas), the applicationcontainer  suffers in data, commands and recipe reliability. 
-- If we go with this 
+- If we go with the above approach, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MjYwMjkyNiwxODgyNjM0OTMyXX0=
+eyJoaXN0b3J5IjpbMTA4MDIwNDI5OCwxODgyNjM0OTMyXX0=
 -->
