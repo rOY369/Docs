@@ -86,7 +86,7 @@ class DATABASE():
 
 ```
 
-## Problems/Edge cases if we use the above design  
+## Problems/Edge cases/Concerns if we use the above design  
 
 ### Calling of Database functions in different threads
 
@@ -118,6 +118,7 @@ def thread_target_func_2():
 
 - In the current software architecture of applicationcontainer, the execution time of database functions depends on the time it takes for the local database/nas database to execute the respective query. 
 - We already know if there is a lag from the database side(local or nas), the applicationcontainer  suffers in data, commands and recipe reliability. 
+- If we 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MDc4MzgxMCwxODgyNjM0OTMyXX0=
+eyJoaXN0b3J5IjpbMjEyODcwMjQ3MiwxODgyNjM0OTMyXX0=
 -->
