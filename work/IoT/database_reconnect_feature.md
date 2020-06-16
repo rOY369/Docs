@@ -130,8 +130,8 @@ def thread_target_func_2():
 	- Some error with the computation/logic of query inside the database function
 	- Query syntax error
 
-**This is an opportunity to de-clutter  **
+**Considering the above problems and concerns, I see this as an opportunity to reduce some of the coupling in the applicationcontainer software.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxNTEwMTY2LC0xMTEyMzI0Njc2LDE4OD
+eyJoaXN0b3J5IjpbNTcwNDU0OTQzLC0xMTEyMzI0Njc2LDE4OD
 I2MzQ5MzJdfQ==
 -->
