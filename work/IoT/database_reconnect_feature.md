@@ -95,6 +95,7 @@ Suppose the usage of the database object in the following way -
 
 ```
 # dbObject can be global object (remote_obj/local_obj/proxy_obj)
+# dbObject can be same or different in both t
 
 def thread_1():
 	dbObject.execute(<query>)
@@ -110,7 +111,8 @@ def thread_2():
 - Different queries like - 
 	- inserting devices date in the `logdata` table
 	- Running qos queries like `get_unuploaded_data_from_database`
-- Executed in different threads. So, the reconnect loop could be running to reconnect with the database 
+- Executed in different threads. So, the reconnect loop could be running to reconnect with the database from 2 different places at the same time. 
+- This makes the extra processing redundant. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNTA1MTM3NywxODgyNjM0OTMyXX0=
+eyJoaXN0b3J5IjpbLTU4MDQ3MTExNSwxODgyNjM0OTMyXX0=
 -->
