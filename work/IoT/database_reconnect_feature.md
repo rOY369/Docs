@@ -144,7 +144,7 @@ def thread_target_func_2():
 - Increase efficiency 
 - Improve overall software design
 
-## Alternative
+## Better Alternative
 
 The connection manager which uses a database connections pool to execute queries can be a single channel of database access. 
 - Instantiate the connection manager inside applicationMain during init. 
@@ -162,11 +162,11 @@ remote_obj.dbConnectionManager.executor(funcName, tableName, *args, **kwargs)
 local_obj.dbConnectionManager.executor(funcName, tableName, *args, **kwargs)
 ```
 
-**Note** : It would be even better even if we can do all database access using `proxy_obj`. 
+**Note** : It would be even better even if we can do all database access using only `proxy_obj`. 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzUzNzI2ODQsLTE1NDE1ODIyMDQsOT
-AxNzcyOTg2LC0xMTEyMzI0Njc2LDE4ODI2MzQ5MzJdfQ==
+eyJoaXN0b3J5IjpbLTg4NjQyMzQ2OCwtMTU0MTU4MjIwNCw5MD
+E3NzI5ODYsLTExMTIzMjQ2NzYsMTg4MjYzNDkzMl19
 -->
