@@ -112,7 +112,9 @@ def thread_target_func_2():
 	- inserting devices date in the `logdata` table
 	- Running qos queries like `get_unuploaded_data_from_database`
 - In cases where same object is used in both threads, reconnect could take place through the same object from 2 different occurrences at the same time. 
-- The same job with the same outcome will run in 2 
+- The same job with the same outcome could run twice or multiple times in a parallel fashion. This is some extra redundant processing. 
+
+### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTk5MzA4NjYsMTg4MjYzNDkzMl19
+eyJoaXN0b3J5IjpbMzQ3MzU0ODg1LDE4ODI2MzQ5MzJdfQ==
 -->
