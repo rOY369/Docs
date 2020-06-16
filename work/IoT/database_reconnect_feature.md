@@ -91,10 +91,10 @@ Considering that the software running inside applicationcontainer calls the data
 Suppose the usage of the database object in the following way - 
 
 ```
-# dbObject can be global or through dbProxy
+# dbObject can be global remote_obj/local_ or through dbProxy
 def thread_1():
 	dbObject
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTQ5NTExNTAsMTg4MjYzNDkzMl19
+eyJoaXN0b3J5IjpbMTIzODIwODI0NywxODgyNjM0OTMyXX0=
 -->
