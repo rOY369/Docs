@@ -114,7 +114,7 @@ def thread_target_func_2():
 - Suppose the local db crashes 
 	- In cases where same object is used in both threads, reconnect could take place through the same object from 2 different occurrences at the same time. 
 	- The same job with the same outcome could run twice or multiple times in a parallel fashion. This is some extra redundant processing. 
-- Also even if the database connection is stable, the same task of whether there is a need to reconnect happens every time a database function is called. This seems like a minute unnecessary processing/ram we could save by exploring other alternatives/design to tackle the problem. 
+- Also even if the database connection is stable, the same task of whether there is a need to reconnect happens every time a database function is called. 	It would make more sense if the reconnection procedure took place 
 
 ### Increase in Database functions execution time
 
@@ -167,6 +167,6 @@ local_obj.dbConnectionManager.executor(funcName, tableName, *args, **kwargs)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDQ5MDMyMywtMTU0MTU4MjIwNCw5MD
-E3NzI5ODYsLTExMTIzMjQ2NzYsMTg4MjYzNDkzMl19
+eyJoaXN0b3J5IjpbODk1NTA1MzQsLTE1NDE1ODIyMDQsOTAxNz
+cyOTg2LC0xMTEyMzI0Njc2LDE4ODI2MzQ5MzJdfQ==
 -->
