@@ -62,7 +62,7 @@ class DATABASE():
         except Exception as error:
             return False
 
-    @reconnect()
+    @reconnect
     def mqtt_to_database_worker(self, DEVICEID, TOPIC, DATA, TS, STATUS):
         try:
             self.CURSOR.execute(
@@ -85,5 +85,5 @@ class DATABASE():
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNTUyMjQyMl19
+eyJoaXN0b3J5IjpbLTMzNTY3NTczM119
 -->
