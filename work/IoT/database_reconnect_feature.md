@@ -87,7 +87,13 @@ class DATABASE():
 
 Problems/Edge cases if we use the above design : 
 
-Considering that the software running inside applicationcontainer calls the database object in multiple threads. Suppose the usage of the database object in the following way - 
+Considering that the software running inside applicationcontainer calls the database object in multiple threads.
+Suppose the usage of the database object in the following way - 
+
+```
+def thread_1():
+	db
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzUwMTIxNTEsMTg4MjYzNDkzMl19
+eyJoaXN0b3J5IjpbLTE4MjUyMDUzODMsMTg4MjYzNDkzMl19
 -->
