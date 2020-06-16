@@ -130,7 +130,8 @@ def thread_target_func_2():
 	- Some error with the computation/logic of query inside the database function
 	- Query syntax error
 
-
+**This is an opportunity to de-clutter  **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTIzMjQ2NzYsMTg4MjYzNDkzMl19
+eyJoaXN0b3J5IjpbNzUxNTEwMTY2LC0xMTEyMzI0Njc2LDE4OD
+I2MzQ5MzJdfQ==
 -->
