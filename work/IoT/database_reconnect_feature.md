@@ -114,13 +114,13 @@ def thread_target_func_2():
 - Suppose the local db crashes 
 	- In cases where same object is used in both threads, reconnect could take place through the same object from 2 different occurrences at the same time. 
 	- The same job with the same outcome could run twice or multiple times in a parallel fashion. This is some extra redundant processing. 
-- Also even if the database connection is stable, the same task of whether there is a need to reconnect happens every time a database function is called. 	It would make more sense if the reconnection procedure took place 
+- Also even if the database connection is stable, the same task of whether there is a need to reconnect happens every time a database function is called. 	It would make more sense if the reconnection procedure is a property of the database object and not each database function. 
 
 ### Increase in Database functions execution time
 
 - In the current software architecture of applicationcontainer, the execution time of database functions depends on the time it takes for the local database/nas database to execute the respective query. 
 - We already know if there is a lag from the database side(local or nas), the applicationcontainer  suffers in data, commands and recipe reliability. 
-- If we go with the above approach, we can not afford putting delay and retries as minimum as possible. 
+- If we go with the above approach, we would strictly have to put delay and retries as minimum as possible. 
 - But considering the current health of applicationcontainer, even if we keep the above settings minimum, it will add some lag in the return of the database functions especially when database is crashed. We can not afford more lag since there was already a lag introduced when we brought nas in the picture. 
 
 ### Unnecessary Reconnect
@@ -167,6 +167,6 @@ local_obj.dbConnectionManager.executor(funcName, tableName, *args, **kwargs)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk1NTA1MzQsLTE1NDE1ODIyMDQsOTAxNz
-cyOTg2LC0xMTEyMzI0Njc2LDE4ODI2MzQ5MzJdfQ==
+eyJoaXN0b3J5IjpbLTQwMTU4MjI0MSwtMTU0MTU4MjIwNCw5MD
+E3NzI5ODYsLTExMTIzMjQ2NzYsMTg4MjYzNDkzMl19
 -->
