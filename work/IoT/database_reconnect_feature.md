@@ -113,8 +113,8 @@ def thread_target_func_2():
 	- Running qos queries like `get_unuploaded_data_from_database`
 - Suppose the local db crashes 
 	- In cases where same object is used in both threads, reconnect could take place through the same object from 2 different occurrences at the same time. 
-- The same job with the same outcome could run twice or multiple times in a parallel fashion. This is some extra redundant processing. 
-- If 
+	- The same job with the same outcome could run twice or multiple times in a parallel fashion. This is some extra redundant processing. 
+- Also even if the database connection is stable, the same task of whether there is a need to reconnect happens every time a database function is called. 
 
 ### Increase in Database functions execution time
 
@@ -122,5 +122,5 @@ def thread_target_func_2():
 - We already know if there is a lag from the database side(local or nas), the applicationcontainer  suffers in data, commands and recipe reliability. 
 - If we go with this 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY0MDIzMDczLDE4ODI2MzQ5MzJdfQ==
+eyJoaXN0b3J5IjpbMTk4MjYwMjkyNiwxODgyNjM0OTMyXX0=
 -->
