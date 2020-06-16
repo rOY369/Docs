@@ -120,7 +120,8 @@ def thread_target_func_2():
 
 - In the current software architecture of applicationcontainer, the execution time of database functions depends on the time it takes for the local database/nas database to execute the respective query. 
 - We already know if there is a lag from the database side(local or nas), the applicationcontainer  suffers in data, commands and recipe reliability. 
-- If we go with the above approach, 
+- If we go with the above approach, we can not afford putting delay and retries as minimum as possible. 
+- But considering the current health of applicationcontainer, even if we keep the above settings minimum, it will ad
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MDIwNDI5OCwxODgyNjM0OTMyXX0=
+eyJoaXN0b3J5IjpbMTYwNzA5NjQzMywxODgyNjM0OTMyXX0=
 -->
