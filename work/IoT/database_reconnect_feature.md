@@ -1,6 +1,5 @@
 
 The current solution is the following : 
-
 ```
 class reconnect:
     def __init__(self, delay=10, numOfRetries=5):
@@ -72,7 +71,8 @@ class DATABASE():
         except Exception as error:
             print("WRONG QUERY..ROLLING BACK", error)
             self.CONNECTION_DATABASE.rollback()
-	@reconnect()
+	
+	@reconnect
     def set_command_status_worker(self, status, epochtime):
         try:
             self.CURSOR.execute(
@@ -85,5 +85,5 @@ class DATABASE():
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNTY3NTczM119
+eyJoaXN0b3J5IjpbMTg4MjYzNDkzMl19
 -->
