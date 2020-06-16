@@ -153,13 +153,13 @@ class Application():
 		self.dbConnectionManager = connectionManager
 		
 	def execute(self, funcName, tableName, *args, **kwargs):
-		
+		conn = 
 ```
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc5MTkwMzg5LC0xNTQxNTgyMjA0LDkwMT
-c3Mjk4NiwtMTExMjMyNDY3NiwxODgyNjM0OTMyXX0=
+eyJoaXN0b3J5IjpbLTk0NzQ2NTQ2MiwtMTU0MTU4MjIwNCw5MD
+E3NzI5ODYsLTExMTIzMjQ2NzYsMTg4MjYzNDkzMl19
 -->
