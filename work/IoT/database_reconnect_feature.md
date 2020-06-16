@@ -99,10 +99,14 @@ def thread_1():
 	dbObject.mqtt_to_database_worker(args)
 
 def thread_2():
-	dbObject.execute(<query>)
+	dbObject.execute(<qos_related_query>)
 	or 
-	dbObject.get_unuploaded_data_from_databa(args)
+	dbObject.get_unuploaded_data_from_database(args)
 ```
+
+Different queries like
+- inserting devices date in the `logdata` table
+- Running qos queries like `get_unuploaded_data_from_database`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTQzMTAzMTIsMTg4MjYzNDkzMl19
+eyJoaXN0b3J5IjpbMTk3Nzk3OTA5LDE4ODI2MzQ5MzJdfQ==
 -->
