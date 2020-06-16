@@ -135,11 +135,12 @@ def thread_target_func_2():
 ***Considering the above problems and concerns, I see this as an opportunity to reduce some of the coupling in the applicationcontainer software. We have to take a look at how database is being accessed right now and how can we improve its design keeping in mind the problems we have faced in the past and the problems we have at hand and those we can anticipate.***
 
 - Database reconnect functionality 
-- The database functions are exactly the same while accessing the nas database/local database. So they should be reusable i.e. it should have a single source. But right now we have 2 different sources. We have to make the same change in 2 places which is a redundant effort and also can increases scope of error. 
+- The database functions are exactly the same while accessing the nas database/local database. So they should be reusable i.e. it should have a single source. But right now we have 2 different sources. We have to make the same change in 2 places which is a redundant effort and also can increases scope of error.
 - In case of local database, the database object is not thread safe.
-- Local Database is accessed through 3 different objects i.e. `remote_obj`, `proxy_obj` and `local_obj` in applicationcontainer.
+- Local Database is accessed through 3 different db objects i.e. `remote_obj`, `proxy_obj` and `local_obj` in applicationcontainer.
+	- Are there any advantages of using one database object ?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg3OTIxOTIxLC0xMTEyMzI0Njc2LDE4OD
-I2MzQ5MzJdfQ==
+eyJoaXN0b3J5IjpbLTE1NTkwMDA3MjQsLTExMTIzMjQ2NzYsMT
+g4MjYzNDkzMl19
 -->
