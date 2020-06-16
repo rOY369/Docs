@@ -127,7 +127,10 @@ def thread_target_func_2():
 
 - If we don't catch specific database errors, the reconnect will be called even if there is any other exception which did not require the reconnect in the first place. 
 - For example
-	- Some error with the computation
+	- Some error with the computation/logic of query inside the database function
+	- Query syntax error
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQwODk4MTgsMTg4MjYzNDkzMl19
+eyJoaXN0b3J5IjpbLTExMTIzMjQ2NzYsMTg4MjYzNDkzMl19
 -->
