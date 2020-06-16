@@ -137,9 +137,9 @@ def thread_target_func_2():
 - Database reconnect functionality 
 - The database functions are exactly the same while accessing the nas database/local database. So they should be reusable i.e. it should have a single source. But right now we have 2 different sources. We have to make the same change in 2 places which is a redundant effort and also can increases scope of error.
 - In case of local database, the database object is not thread safe.
-- Local Database is accessed through 3 different db objects i.e. `remote_obj`, `proxy_obj` and `local_obj` in applicationcontainer.
-	- Are there any advantages of using one database object entirely in a software piece like applicationcontainer ?
-	- Will it save some ram/processing ? Will it simplify the design ?
+- Local Database is accessed through 3 different db objects that are a part of  `remote_obj`, `proxy_obj` and `local_obj` in applicationcontainer. Is there a way to isolate the channel of accessing the database ?
+	- Are there any advantages of using one channel entirely in a software piece like applicationcontainer to access the database ?
+	- Will it save some ram/processing ? Will it simplify or solidify the architecture/design ?
 
 ## Alternative
 
@@ -148,6 +148,6 @@ def thread_target_func_2():
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxNzcyOTg2LC0xMTEyMzI0Njc2LDE4OD
-I2MzQ5MzJdfQ==
+eyJoaXN0b3J5IjpbLTE1NDE1ODIyMDQsOTAxNzcyOTg2LC0xMT
+EyMzI0Njc2LDE4ODI2MzQ5MzJdfQ==
 -->
