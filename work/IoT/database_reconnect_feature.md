@@ -146,20 +146,20 @@ def thread_target_func_2():
 
 ## Alternative
 
+The connection manager 
 ```
 class Application():
 
 	def setup_database(connectionManager):
 		self.dbConnectionManager = connectionManager
-		
-	def execute(self, funcName, tableName, *args, **kwargs):
-		conn = 
 ```
 
 
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NzQ2NTQ2MiwtMTU0MTU4MjIwNCw5MD
-E3NzI5ODYsLTExMTIzMjQ2NzYsMTg4MjYzNDkzMl19
+eyJoaXN0b3J5IjpbLTE3MTMzMTY5MDYsLTE1NDE1ODIyMDQsOT
+AxNzcyOTg2LC0xMTEyMzI0Njc2LDE4ODI2MzQ5MzJdfQ==
 -->
