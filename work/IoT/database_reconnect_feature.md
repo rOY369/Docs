@@ -109,7 +109,7 @@ def thread_target_func_2():
 ```
 
 - Different queries like - 
-	- inserting devices date in the `logdata` table
+	- inserting devices data in the `logdata` table
 	- Running qos queries like `get_unuploaded_data_from_database`
 - Suppose the local db crashes 
 	- In cases where same object is used in both threads, reconnect could take place through the same object from 2 different occurrences at the same time. 
@@ -166,9 +166,7 @@ local_obj.dbConnectionManager.executor(funcName, tableName, *args, **kwargs)
 
 
 
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgxOTk0MTE3LC0xNTQxNTgyMjA0LDkwMT
-c3Mjk4NiwtMTExMjMyNDY3NiwxODgyNjM0OTMyXX0=
+eyJoaXN0b3J5IjpbLTQwMDQ5MDMyMywtMTU0MTU4MjIwNCw5MD
+E3NzI5ODYsLTExMTIzMjQ2NzYsMTg4MjYzNDkzMl19
 -->
