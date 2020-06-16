@@ -137,9 +137,10 @@ def thread_target_func_2():
 - Database reconnect functionality 
 - The database functions are exactly the same while accessing the nas database/local database. So they should be reusable i.e. it should have a single source. But right now we have 2 different sources. We have to make the same change in 2 places which is a redundant effort and also can increases scope of error. 
 - In case of local database, the database object is not thread safe.
-- Database is accessed through 3 different objects i.e. applic
+- Local Database is accessed through 3 different objects i.e. `remote_obj`, `proxy_obj` and `local_obj` in applicationcontainer. Better design 
+	- Using one object to connect with the database has some advantages.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MjUyOTc5NywtMTExMjMyNDY3NiwxOD
-gyNjM0OTMyXX0=
+eyJoaXN0b3J5IjpbLTE0NTQxNDgzMzIsLTExMTIzMjQ2NzYsMT
+g4MjYzNDkzMl19
 -->
