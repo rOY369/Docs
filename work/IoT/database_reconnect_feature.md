@@ -91,9 +91,10 @@ Considering that the software running inside applicationcontainer calls the data
 Suppose the usage of the database object in the following way - 
 
 ```
+# dbObject can be f
 def thread_1():
-	db
+	dbObject
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjUyMDUzODMsMTg4MjYzNDkzMl19
+eyJoaXN0b3J5IjpbLTEyMzg3Njg4NjMsMTg4MjYzNDkzMl19
 -->
