@@ -121,11 +121,11 @@ def thread_target_func_2():
 - In the current software architecture of applicationcontainer, the execution time of database functions depends on the time it takes for the local database/nas database to execute the respective query. 
 - We already know if there is a lag from the database side(local or nas), the applicationcontainer  suffers in data, commands and recipe reliability. 
 - If we go with the above approach, we would strictly have to put delay and retries as minimum as possible. 
-- But considering the current health of applicationcontainer, even if we keep the above settings minimum, it will add some lag in the return of the database functions especially when database is crashed. We can not afford more lag since there was already a lag introduced when we brought nas in the picture. 
+- But considering the current health of applicationcontainer, even if we keep the above settings minimum, it will add some lag in the return of the database functions especially when database is crashed. Also this approach is not giving us any other advantage so this is not a good trade-off. 
 
 ### Unnecessary Reconnect
 
-- If we don't catch specific database errors, the reconnect will be called even if there is any other exception which did not require the reconnect in the first place. 
+- If we don't catch specific database errors, the reconnect procedure will be called even if there is any other exception which did not require the reconnect in the first place. 
 - For example
 	- Some error with the computation/logic of query inside the database function
 	- Query syntax error
@@ -167,6 +167,6 @@ local_obj.dbConnectionManager.executor(funcName, tableName, *args, **kwargs)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMTU4MjI0MSwtMTU0MTU4MjIwNCw5MD
+eyJoaXN0b3J5IjpbLTcxODc4NjQzMCwtMTU0MTU4MjIwNCw5MD
 E3NzI5ODYsLTExMTIzMjQ2NzYsMTg4MjYzNDkzMl19
 -->
