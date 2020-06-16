@@ -139,19 +139,25 @@ def thread_target_func_2():
 - In case of local database, the database object is not thread safe.
 - Local Database is accessed through 3 different db objects that are a part of  `remote_obj`, `proxy_obj` and `local_obj` in applicationcontainer. Is there a way to isolate the channel of accessing the database ?
 	- Are there any advantages of using one channel entirely in a software piece like applicationcontainer to access the database ?
-	- Will it save some ram/processing ? Will it simplify or solidify the architecture/design ?
+	- Will it save some ram/processing ? Better architectural design decision ?
+- Can be integrated with current application with least amount of effort and change. 
+- Will help i
 
 ## Alternative
 
 ```
 class Application():
-	def execute(b)
+
+	def setup_database():
+		
+	def execute(self, funcName, tableName, *args, **kwargs):
+		
 ```
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjA2NTM3ODYsLTE1NDE1ODIyMDQsOT
-AxNzcyOTg2LC0xMTEyMzI0Njc2LDE4ODI2MzQ5MzJdfQ==
+eyJoaXN0b3J5IjpbMTkwODU5MjUyMSwtMTU0MTU4MjIwNCw5MD
+E3NzI5ODYsLTExMTIzMjQ2NzYsMTg4MjYzNDkzMl19
 -->
