@@ -22,8 +22,9 @@ IoT command reliability
 		- Modbus communication error
 			- Firmware logs command status as False with  `logType write (OSError)`
 			- `data = "null"` (possibility)
-		- 
+		- VFD bypass mode
+			- `data = "null"`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzODU4Mzg5LDU2MDg2NTQxOCwtOTc0Nz
-IyODgxXX0=
+eyJoaXN0b3J5IjpbMjg2NjI4MTg5LDcwMzg1ODM4OSw1NjA4Nj
+U0MTgsLTk3NDcyMjg4MV19
 -->
