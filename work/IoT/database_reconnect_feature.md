@@ -1,5 +1,5 @@
 
-The current solution is the following : 
+## 
 ```
 class reconnect:
     def __init__(self, delay=10, numOfRetries=5):
@@ -85,8 +85,9 @@ class DATABASE():
 
 ```
 
-Problems/Edge cases if we use the above design : 
+## Problems/Edge cases if we use the above design  
 
+###
 Considering that the software running inside applicationcontainer calls the database object in multiple threads.
 Suppose the usage of the database object in the following way - 
 
@@ -104,9 +105,10 @@ def thread_2():
 	dbObject.get_unuploaded_data_from_database(args)
 ```
 
-Different queries like
-- inserting devices date in the `logdata` table
-- Running qos queries like `get_unuploaded_data_from_database`
+- Different queries like - 
+	- inserting devices date in the `logdata` table
+	- Running qos queries like `get_unuploaded_data_from_database`
+- Executed in different threads. So, the reconnect 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3Nzk3OTA5LDE4ODI2MzQ5MzJdfQ==
+eyJoaXN0b3J5IjpbMTM3MDYzNDg4LDE4ODI2MzQ5MzJdfQ==
 -->
