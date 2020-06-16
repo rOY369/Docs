@@ -123,7 +123,9 @@ def thread_target_func_2():
 - If we go with the above approach, we can not afford putting delay and retries as minimum as possible. 
 - But considering the current health of applicationcontainer, even if we keep the above settings minimum, it will add some lag in the return of the database functions especially when database is crashed. We can not afford more lag since there was already a lag introduced when we brought nas in the picture. 
 
-### 
+### Unnecessary Reconnect
+
+- If we don't catch specific database errors, the reconnect will be called even if there is any other
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4OTIxMzQ5MiwxODgyNjM0OTMyXX0=
+eyJoaXN0b3J5IjpbMTMzMTM4Njk1OSwxODgyNjM0OTMyXX0=
 -->
