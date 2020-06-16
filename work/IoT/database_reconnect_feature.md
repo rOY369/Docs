@@ -149,6 +149,7 @@ def thread_target_func_2():
 The connection manager which uses a database connections pool to execute queries can be a single channel of database access. 
 - Instantiate the connection manager inside applicationMain during init. 
 - Hook up the same connection manager object to `remote_obj`, `local_obj` and `proxy_obj` during init using the below interface.
+	- Can we do all database access using `proxy_obj ?
 ```
 class Application():
 
@@ -156,13 +157,17 @@ class Application():
 		self.dbConnectionManager = connectionManager
 ```
 
-Use to access
+Use to access the database in the following manner : 
+```
+remote_obj.dbConnectionManager.executor(funcName, tableName, *args, **kwargs)
+local_obj.dbConnectionManager.executor(funcName, tableName, *args, **kwargs)
+```
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTUwMDkwNjUsLTE1NDE1ODIyMDQsOT
-AxNzcyOTg2LC0xMTEyMzI0Njc2LDE4ODI2MzQ5MzJdfQ==
+eyJoaXN0b3J5IjpbMTk5MjIzMzg3MywtMTU0MTU4MjIwNCw5MD
+E3NzI5ODYsLTExMTIzMjQ2NzYsMTg4MjYzNDkzMl19
 -->
