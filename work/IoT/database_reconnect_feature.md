@@ -114,9 +114,11 @@ def thread_target_func_2():
 - In cases where same object is used in both threads, reconnect could take place through the same object from 2 different occurrences at the same time. 
 - The same job with the same outcome could run twice or multiple times in a parallel fashion. This is some extra redundant processing. 
 
-### Blocking Database functions
+### Increase in Database functions execution time
 
-In the current software architecture of applicationcontainer, the database functions are non-blocking and the execution time depends on the time it takes for the local database/nas database to execute the respective query. 
+- In the current software architecture of applicationcontainer, the execution time of database functions depends on the time it takes for the local database/nas database to execute the respective query. 
+- We already know if there is a lag from the database side, the applicationcontainer could suffer in data, commands and recipe reliability. 
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMzY2OTkzOCwxODgyNjM0OTMyXX0=
+eyJoaXN0b3J5IjpbMjAwMTMwMjQxNiwxODgyNjM0OTMyXX0=
 -->
