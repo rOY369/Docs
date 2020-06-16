@@ -84,6 +84,8 @@ class DATABASE():
             self.CONNECTION_DATABASE.rollback()
 
 ```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MjYzNDkzMl19
+eyJoaXN0b3J5IjpbNjkzMzQwNTYwLDE4ODI2MzQ5MzJdfQ==
 -->
