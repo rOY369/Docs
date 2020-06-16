@@ -143,11 +143,15 @@ def thread_target_func_2():
 
 ## Alternative
 
+```
+class Application():
+	def execute(b)
+```
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDE1ODIyMDQsOTAxNzcyOTg2LC0xMT
-EyMzI0Njc2LDE4ODI2MzQ5MzJdfQ==
+eyJoaXN0b3J5IjpbLTEyMjA2NTM3ODYsLTE1NDE1ODIyMDQsOT
+AxNzcyOTg2LC0xMTEyMzI0Njc2LDE4ODI2MzQ5MzJdfQ==
 -->
