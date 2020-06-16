@@ -95,14 +95,14 @@ Suppose the usage of the database object in the following way -
 
 ```
 # dbObject can be global object (remote_obj/local_obj/proxy_obj)
-# dbObject can be same or different in both t
+# dbObject can be same or different in both thread target functions.
 
-def thread_1():
+def thread_target_func_1():
 	dbObject.execute(<query>)
 	or 
 	dbObject.mqtt_to_database_worker(args)
 
-def thread_2():
+def thread_target_func_2():
 	dbObject.execute(<qos_related_query>)
 	or 
 	dbObject.get_unuploaded_data_from_database(args)
@@ -113,6 +113,7 @@ def thread_2():
 	- Running qos queries like `get_unuploaded_data_from_database`
 - Executed in different threads. So, the reconnect loop could be running to reconnect with the database from 2 different places at the same time. 
 - This makes the extra processing redundant. 
+- Also in cases where same object is used in both threads, reconnect will take place through the same object from 2 different 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDQ3MTExNSwxODgyNjM0OTMyXX0=
+eyJoaXN0b3J5IjpbLTE0MDU2NzAzNTgsMTg4MjYzNDkzMl19
 -->
