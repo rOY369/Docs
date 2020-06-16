@@ -141,14 +141,16 @@ def thread_target_func_2():
 	- Are there any advantages of using one channel entirely in a software piece like applicationcontainer to access the database ?
 	- Will it save some ram/processing ? Better architectural design decision ?
 - Can be integrated with current application with least amount of effort and change. 
-- Will help i
+- Increase efficiency 
+- Improve overall software design
 
 ## Alternative
 
 ```
 class Application():
 
-	def setup_database():
+	def setup_database(connectionManager):
+		self.dbConnectionManager = connectionManager
 		
 	def execute(self, funcName, tableName, *args, **kwargs):
 		
@@ -158,6 +160,6 @@ class Application():
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwODU5MjUyMSwtMTU0MTU4MjIwNCw5MD
-E3NzI5ODYsLTExMTIzMjQ2NzYsMTg4MjYzNDkzMl19
+eyJoaXN0b3J5IjpbNTc5MTkwMzg5LC0xNTQxNTgyMjA0LDkwMT
+c3Mjk4NiwtMTExMjMyNDY3NiwxODgyNjM0OTMyXX0=
 -->
