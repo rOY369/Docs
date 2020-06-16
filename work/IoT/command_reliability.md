@@ -24,7 +24,8 @@ IoT command reliability
 			- `data = "null"` (possibility)
 		- VFD bypass mode
 			- `data = "null"`
+		- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg2NjI4MTg5LDcwMzg1ODM4OSw1NjA4Nj
-U0MTgsLTk3NDcyMjg4MV19
+eyJoaXN0b3J5IjpbLTg4ODQ3MjQwOCw3MDM4NTgzODksNTYwOD
+Y1NDE4LC05NzQ3MjI4ODFdfQ==
 -->
