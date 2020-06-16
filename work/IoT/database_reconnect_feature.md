@@ -85,7 +85,9 @@ class DATABASE():
 
 ```
 
+Problems/Edge cases if we use the above design : 
 
+Considering that the software running inside applicationcontainer calls the database object in multiple threads. Suppose the usage of the database object in the following way - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkzMzQwNTYwLDE4ODI2MzQ5MzJdfQ==
+eyJoaXN0b3J5IjpbLTE0NzUwMTIxNTEsMTg4MjYzNDkzMl19
 -->
