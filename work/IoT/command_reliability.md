@@ -12,7 +12,7 @@ IoT command reliability
 		- VFD mode is off
 			- Firmware executes the command successfully.
 			- How to detect this mode ?
-				- output frequency = 0
+					- Need to recheck 
 		- VFD mode (manual)
 			- `automanual` data parameter of vfd
 			- Firmware executes command successfully.
@@ -24,7 +24,9 @@ IoT command reliability
 			- `data = "null"` (possibility)
 		- VFD bypass mode
 			- `data = "null"`
+		- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQyMzY3Mzg4LC04ODg0NzI0MDgsNzAzOD
-U4Mzg5LDU2MDg2NTQxOCwtOTc0NzIyODgxXX0=
+eyJoaXN0b3J5IjpbMTgxMDYwODA1OSw5NDIzNjczODgsLTg4OD
+Q3MjQwOCw3MDM4NTgzODksNTYwODY1NDE4LC05NzQ3MjI4ODFd
+fQ==
 -->
