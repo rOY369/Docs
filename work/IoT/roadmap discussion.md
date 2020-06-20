@@ -35,16 +35,17 @@
 		- Code Optimisation
 		- Query transaction 
 		- Bottlenecks in terms of data and commands reliability
-	- SSD unmount
+	- Improve reliability of NAS and JB
+		- SSD unmount
 - Scalability
 	- Modularity
 		- Software design
 		- Feature toggling
 	- Joule Recipe Load
 			- Alert recipes on server
-			- Reliability of 
 			- Minimising unnecessary processing of recipes
-				- Example. 
+				- Example. use maintenance mode
+			- Run most recipes in NAS controller 
 - Hardware agnostic
 	- Software dependencies
 		- System services as docker ?
@@ -67,6 +68,6 @@
 - Security
 	- Any other critical measures 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODQ3MzA2MjcsMTQ2MjU0ODI4LC0zOD
+eyJoaXN0b3J5IjpbLTE1MTM4MjQ5NDgsMTQ2MjU0ODI4LC0zOD
 IzMjc1NDMsMTIxNDU0ODQ5OSw1ODg0NDEzNDddfQ==
 -->
