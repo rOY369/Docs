@@ -63,14 +63,12 @@
 	- Reliability gained to modularity
 - Issues in previous Rpi System
 	- Improvements in the new system
-- Scalability
-
 - Hardware agnostic 
 	- SOM or third party ?
 - Security
 	- Any other critical measures 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNTYyMjE5Nyw1NTk1NDQxMCwxNDYyNT
-Q4MjgsLTM4MjMyNzU0MywxMjE0NTQ4NDk5LDU4ODQ0MTM0N119
-
+eyJoaXN0b3J5IjpbLTQxNDc4NDc2NywtNzI1NjIyMTk3LDU1OT
+U0NDEwLDE0NjI1NDgyOCwtMzgyMzI3NTQzLDEyMTQ1NDg0OTks
+NTg4NDQxMzQ3XX0=
 -->
