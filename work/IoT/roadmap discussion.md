@@ -32,17 +32,17 @@
 
 - Reliability
 	- Software Reliability
-		- Code Optimisation
 		- Query transaction 
 		- Bottlenecks in terms of data and commands reliability
 	- Improve reliability of NAS and JB
 		- SSD unmount
 		- Root cause of JB container stuck issue
-		- Fla
+		- Flag timeout when JB is stuck
 - Scalability
 	- Modularity
 		- Software design
 		- Feature toggling
+		- code optimisation
 	- Joule Recipe Load
 			- *Alert recipes on server*
 			- Minimising unnecessary processing of recipes
@@ -70,7 +70,7 @@
 - Security
 	- Any other critical measures 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0MjA5MDM1LDU1OTU0NDEwLDE0NjI1ND
-gyOCwtMzgyMzI3NTQzLDEyMTQ1NDg0OTksNTg4NDQxMzQ3XX0=
+eyJoaXN0b3J5IjpbLTcyNTYyMjE5Nyw1NTk1NDQxMCwxNDYyNT
+Q4MjgsLTM4MjMyNzU0MywxMjE0NTQ4NDk5LDU4ODQ0MTM0N119
 
 -->
