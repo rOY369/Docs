@@ -61,14 +61,8 @@
 - Hardware agnostic 
 	- SOM or third party ?
 - Security
-	- Any other critical measures ?
-
-|                |Refactoring |Code documentation     |
-|----------------|------------|-----------------------------|
-|Single backticks|            |       |
-|Quotes          |            |        |
-|Dashes          |||
+	- Any other critical measures 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjA0MDM2MTcsLTM4MjMyNzU0MywxMj
-E0NTQ4NDk5LDU4ODQ0MTM0N119
+eyJoaXN0b3J5IjpbMTQ2MjU0ODI4LC0zODIzMjc1NDMsMTIxND
+U0ODQ5OSw1ODg0NDEzNDddfQ==
 -->
