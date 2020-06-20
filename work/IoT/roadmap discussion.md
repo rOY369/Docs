@@ -40,6 +40,11 @@
 	- Modularity
 		- Software design
 		- Feature toggling
+	- Joule Recipe Load
+			- Alert recipes on server
+			- Reliability of 
+			- Minimising unnecessary processing of recipes
+				- Example. 
 - Hardware agnostic
 	- Software dependencies
 		- System services as docker ?
@@ -56,13 +61,12 @@
 - Issues in previous Rpi System
 	- Improvements in the new system
 - Scalability
-	- Load Requirements ?
-		- Should we implement load balancer for Joule Recipes ? or should we give the access to the user which controller to deploy the recipe ? or no need to do anything ?
+
 - Hardware agnostic 
 	- SOM or third party ?
 - Security
 	- Any other critical measures 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MjU0ODI4LC0zODIzMjc1NDMsMTIxND
-U0ODQ5OSw1ODg0NDEzNDddfQ==
+eyJoaXN0b3J5IjpbLTExODQ3MzA2MjcsMTQ2MjU0ODI4LC0zOD
+IzMjc1NDMsMTIxNDU0ODQ5OSw1ODg0NDEzNDddfQ==
 -->
