@@ -63,12 +63,12 @@
 - Security
 	- Any other critical measures ?
 
-|                |Refactoring                          |Code documentation                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|                |Refactoring |Code documentation     |
+|----------------|------------|-----------------------------|
+|Single backticks|            |       |
+|Quotes          |            |        |
+|Dashes          |||
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MzEzNjQ0MiwtMzgyMzI3NTQzLDEyMT
-Q1NDg0OTksNTg4NDQxMzQ3XX0=
+eyJoaXN0b3J5IjpbLTE4MjA0MDM2MTcsLTM4MjMyNzU0MywxMj
+E0NTQ4NDk5LDU4ODQ0MTM0N119
 -->
