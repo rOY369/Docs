@@ -37,6 +37,8 @@
 		- Bottlenecks in terms of data and commands reliability
 	- Improve reliability of NAS and JB
 		- SSD unmount
+		- Root cause of JB container stuck issue
+		- Fla
 - Scalability
 	- Modularity
 		- Software design
@@ -68,6 +70,7 @@
 - Security
 	- Any other critical measures 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU5NTQ0MTAsMTQ2MjU0ODI4LC0zODIzMj
-c1NDMsMTIxNDU0ODQ5OSw1ODg0NDEzNDddfQ==
+eyJoaXN0b3J5IjpbNzA0MjA5MDM1LDU1OTU0NDEwLDE0NjI1ND
+gyOCwtMzgyMzI3NTQzLDEyMTQ1NDg0OTksNTg4NDQxMzQ3XX0=
+
 -->
