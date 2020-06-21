@@ -47,7 +47,6 @@
 
 ### Scalability 
 
-- Optimisation to 
 - Better Handling of Joule-Recipe Load
 	- Shift alert recipes on server*
 	- Minimising unnecessary processing of recipes
@@ -93,8 +92,8 @@
 - Security
 	- Any other critical measures 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODkwNzcyOCwyMDk1Nzg0MDcxLC04OT
-AyMTQzMDYsLTQxNDc4NDc2NywtNzI1NjIyMTk3LDU1OTU0NDEw
-LDE0NjI1NDgyOCwtMzgyMzI3NTQzLDEyMTQ1NDg0OTksNTg4ND
-QxMzQ3XX0=
+eyJoaXN0b3J5IjpbLTIwMTA0NjA2MjYsMjA5NTc4NDA3MSwtOD
+kwMjE0MzA2LC00MTQ3ODQ3NjcsLTcyNTYyMjE5Nyw1NTk1NDQx
+MCwxNDYyNTQ4MjgsLTM4MjMyNzU0MywxMjE0NTQ4NDk5LDU4OD
+Q0MTM0N119
 -->
