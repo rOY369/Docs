@@ -16,7 +16,7 @@
 		- Easy to modify and maintain 
 		- Easy to integrate new features
 		- Less coupled
-	- The process will also 
+		- Easy to optimise
 	- Team will spend 1.5 months to come up with this process. 
 	- Next 1.5 months will be spent on taking some services through this process. 
 	- Services which will be considered to work upon through the process :
@@ -45,7 +45,13 @@
 	- Finding root cause of JB container stuck issue
 	- Introduce a timeout in controllers after which if there is no response from Joulebox container, QOS service will be triggered to save the old data to be sent later when Joulebox container is back online. 
 
+### Scalability 
+
 ### Hardware Agnostics
+
+- Handling Joule-Recipe Load
+	- Shift alert recipes on server*
+	- Minimising unnecessary processing of recipes 
 
 
 ## Vision, Next 6 months steps
@@ -59,7 +65,11 @@
 ## Known-Known
 
 
-
+- Scalability
+	- Modularity
+		- Software design
+		- Feature toggling
+		- code optimisation
 	- Joule Recipe Load
 			- *Alert recipes on server*
 			- Minimising unnecessary processing of recipes
@@ -85,8 +95,8 @@
 - Security
 	- Any other critical measures 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTY2MDQzNSwyMDk1Nzg0MDcxLC04OT
-AyMTQzMDYsLTQxNDc4NDc2NywtNzI1NjIyMTk3LDU1OTU0NDEw
-LDE0NjI1NDgyOCwtMzgyMzI3NTQzLDEyMTQ1NDg0OTksNTg4ND
-QxMzQ3XX0=
+eyJoaXN0b3J5IjpbLTEwNTIxMDg1ODAsMjA5NTc4NDA3MSwtOD
+kwMjE0MzA2LC00MTQ3ODQ3NjcsLTcyNTYyMjE5Nyw1NTk1NDQx
+MCwxNDYyNTQ4MjgsLTM4MjMyNzU0MywxMjE0NTQ4NDk5LDU4OD
+Q0MTM0N119
 -->
