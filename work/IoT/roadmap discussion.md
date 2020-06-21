@@ -14,7 +14,8 @@
 	- Team will spend 1.5 months to come up with this process. 
 	- Next 1.5 months will be spent on taking some services through this process. 
 	- Exact number and which services will be decided based upon the process needs (time and effort) and service condition. 
-	- Services which could be considered 
+	- Services which will be considered to work upon through the process :
+		- 
 
 
 
@@ -89,7 +90,7 @@
 - Security
 	- Any other critical measures 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NTExNDk1OSwtNDE0Nzg0NzY3LC03Mj
+eyJoaXN0b3J5IjpbLTg5MDIxNDMwNiwtNDE0Nzg0NzY3LC03Mj
 U2MjIxOTcsNTU5NTQ0MTAsMTQ2MjU0ODI4LC0zODIzMjc1NDMs
 MTIxNDU0ODQ5OSw1ODg0NDEzNDddfQ==
 -->
