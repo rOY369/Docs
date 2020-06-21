@@ -33,7 +33,10 @@
 - Data and Commands
 	- Setting up reasonable metrics
 	- Consistently improving these metrics
-- 
+- Reliability of NAS
+	- SSD unmount 
+	- Finding root cause of JB container stuck issue
+	- Timeout for 
 
 
 ## Vision, Next 6 months steps
@@ -105,7 +108,7 @@
 - Security
 	- Any other critical measures 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzUyOTk1NTksMjA5NTc4NDA3MSwtOD
+eyJoaXN0b3J5IjpbLTEyNzI4OTY4MzgsMjA5NTc4NDA3MSwtOD
 kwMjE0MzA2LC00MTQ3ODQ3NjcsLTcyNTYyMjE5Nyw1NTk1NDQx
 MCwxNDYyNTQ4MjgsLTM4MjMyNzU0MywxMjE0NTQ4NDk5LDU4OD
 Q0MTM0N119
