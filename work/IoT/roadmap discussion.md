@@ -41,7 +41,7 @@
 	- Setting up reasonable metrics
 	- Consistently improving these metrics
 - Reliability of NAS
-	- SSD unmount (***How exactly will we resolve this ?***)
+	- **SSD unmount (How exactly will we resolve this in Rpi systems?)
 - Reliability of JB
 	- Finding root cause of JB container stuck issue
 	- Introduce a timeout in controllers after which if there is no response from Joulebox container, QOS service will be triggered to save the old data to be sent later when Joulebox container is back online. 
@@ -57,16 +57,16 @@
 
 ### Hardware Agnostic
 
-- Software dependencies
-		- System services as docker**
-		- Host database as docker*
+- System services as docker**
+- Host database as docker**
 
-## Vision, Next 6 months steps
+### Code Development and Deployment Pipeline
 
-- Software Development Process
-	- Design
-	- Code Development Pipeline
-	- Code Deployment Pipeline
+### Security
+
+- Client Authentication
+- MQTTS
+- Data encryption
 
 ## Known-Known
 
@@ -81,9 +81,7 @@
 		- System services as docker
 		- Host database as docker
 - Security
-	- Client Authentication
-	- MQTTS
-	- Data encryption
+
 
 ## Known-unknowns
 
@@ -96,8 +94,8 @@
 - Security
 	- Any other critical measures 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI0NzUzNjM4LDIwOTU3ODQwNzEsLTg5MD
-IxNDMwNiwtNDE0Nzg0NzY3LC03MjU2MjIxOTcsNTU5NTQ0MTAs
-MTQ2MjU0ODI4LC0zODIzMjc1NDMsMTIxNDU0ODQ5OSw1ODg0ND
-EzNDddfQ==
+eyJoaXN0b3J5IjpbLTM1NDQzNTAyMSwyMDk1Nzg0MDcxLC04OT
+AyMTQzMDYsLTQxNDc4NDc2NywtNzI1NjIyMTk3LDU1OTU0NDEw
+LDE0NjI1NDgyOCwtMzgyMzI3NTQzLDEyMTQ1NDg0OTksNTg4ND
+QxMzQ3XX0=
 -->
