@@ -37,7 +37,7 @@
 	- SSD unmount (How exactly will we resolve this ?)
 - Reliability of JB
 	- Finding root cause of JB container stuck issue
-	- Timeout 
+	- Introduce a timeout in controllers after which if there is no response from Joulebox container, QOS service will be triggered to save the old data to be sent later when Joulebox container is back online. 
 
 
 ## Vision, Next 6 months steps
@@ -109,7 +109,7 @@
 - Security
 	- Any other critical measures 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkwMjUzNzc5LDIwOTU3ODQwNzEsLTg5MD
+eyJoaXN0b3J5IjpbNjEzNzU0MDIzLDIwOTU3ODQwNzEsLTg5MD
 IxNDMwNiwtNDE0Nzg0NzY3LC03MjU2MjIxOTcsNTU5NTQ0MTAs
 MTQ2MjU0ODI4LC0zODIzMjc1NDMsMTIxNDU0ODQ5OSw1ODg0ND
 EzNDddfQ==
