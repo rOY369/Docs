@@ -3,7 +3,7 @@
 
 ### Technical Debt
 
-- Refactoring of Services
+- Refactoring of Services (Readable code + unit test + code documentation + service doc)
 	- Bridge Service (Owner = Harsh)
 	- Thermostat (Owner = Dishant)
 	- Host Service (Owner = Dishant)
@@ -26,8 +26,7 @@
 			- Database Interface
 			- MQTT
 	- Exact number and which services out of those mentioned above will be decided based upon the process needs (time and effort) and service condition.
-	- Both services inside architecture and inter services architecture will be considered in the ab
-
+	- Both services inside architecture and inter services architecture will be considered in the above process.
 
 
 ## Vision, Next 6 months steps
@@ -99,7 +98,7 @@
 - Security
 	- Any other critical measures 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTQ1NTkxNiwyMDk1Nzg0MDcxLC04OT
+eyJoaXN0b3J5IjpbLTg3NzQwMTIxMiwyMDk1Nzg0MDcxLC04OT
 AyMTQzMDYsLTQxNDc4NDc2NywtNzI1NjIyMTk3LDU1OTU0NDEw
 LDE0NjI1NDgyOCwtMzgyMzI3NTQzLDEyMTQ1NDg0OTksNTg4ND
 QxMzQ3XX0=
