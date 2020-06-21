@@ -47,14 +47,15 @@
 
 ### Scalability 
 
-### Hardware Agnostics
-
-- Handling Joule-Recipe Load
+- Optimisation to 
+- Better Handling of Joule-Recipe Load
 	- Shift alert recipes on server*
 	- Minimising unnecessary processing of recipes
 		- Recipe should not run if the mode is not `joule recipe`
 		- Possible solution : Use maintenance card/modes to play pause the recipes*
 	- Ability to run recipes in NAS controllers
+
+### Hardware Agnostics
 
 ## Vision, Next 6 months steps
 
@@ -72,11 +73,6 @@
 		- Software design
 		- Feature toggling
 		- code optimisation
-	- Joule Recipe Load
-			- *Alert recipes on server*
-			- Minimising unnecessary processing of recipes
-				- *Example. use maintenance mode*
-			- *Run recipes in NAS controllers*
 - Hardware agnostic
 	- Software dependencies
 		- System services as docker
@@ -97,8 +93,8 @@
 - Security
 	- Any other critical measures 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzE2NzQ5MzQsMjA5NTc4NDA3MSwtOD
-kwMjE0MzA2LC00MTQ3ODQ3NjcsLTcyNTYyMjE5Nyw1NTk1NDQx
-MCwxNDYyNTQ4MjgsLTM4MjMyNzU0MywxMjE0NTQ4NDk5LDU4OD
-Q0MTM0N119
+eyJoaXN0b3J5IjpbLTEyODkwNzcyOCwyMDk1Nzg0MDcxLC04OT
+AyMTQzMDYsLTQxNDc4NDc2NywtNzI1NjIyMTk3LDU1OTU0NDEw
+LDE0NjI1NDgyOCwtMzgyMzI3NTQzLDEyMTQ1NDg0OTksNTg4ND
+QxMzQ3XX0=
 -->
