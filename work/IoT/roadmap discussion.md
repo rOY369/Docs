@@ -51,8 +51,10 @@
 
 - Handling Joule-Recipe Load
 	- Shift alert recipes on server*
-	- Minimising unnecessary processing of recipes 
-
+	- Minimising unnecessary processing of recipes
+		- Recipe should not run if the mode is not `joule recipe`
+		- Possible solution : Use maintenance card/modes to play pause the recipes*
+	- Ability to run recipes in NAS controllers
 
 ## Vision, Next 6 months steps
 
@@ -95,7 +97,7 @@
 - Security
 	- Any other critical measures 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTIxMDg1ODAsMjA5NTc4NDA3MSwtOD
+eyJoaXN0b3J5IjpbLTEwMzE2NzQ5MzQsMjA5NTc4NDA3MSwtOD
 kwMjE0MzA2LC00MTQ3ODQ3NjcsLTcyNTYyMjE5Nyw1NTk1NDQx
 MCwxNDYyNTQ4MjgsLTM4MjMyNzU0MywxMjE0NTQ4NDk5LDU4OD
 Q0MTM0N119
