@@ -1,12 +1,15 @@
 
-## Roadmap Tasks
+## Roadmap Tasks (3 months)
 
 ### Technical Debt
 
 - Refactoring of Services
-	- Bridge Service (Owner = Dishant)
+	- Bridge Service (Owner = Harsh)
 	- Thermostat (Owner = Dishant)
 	- Host Service (Owner = Dishant)
+	- CICD (Owner = Priyam)
+- Modular Design 
+	- This will be backed by a software d
 
 
 
@@ -81,7 +84,7 @@
 - Security
 	- Any other critical measures 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwODIxMDI3MSwtNDE0Nzg0NzY3LC03Mj
+eyJoaXN0b3J5IjpbLTQ5MjA1OTczOCwtNDE0Nzg0NzY3LC03Mj
 U2MjIxOTcsNTU5NTQ0MTAsMTQ2MjU0ODI4LC0zODIzMjc1NDMs
 MTIxNDU0ODQ5OSw1ODg0NDEzNDddfQ==
 -->
