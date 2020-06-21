@@ -9,7 +9,8 @@
 	- Host Service (Owner = Dishant)
 	- CICD (Owner = Priyam)
 - Modular Design 
-	- This will be backed by a software d
+	- This will be backed by a software development process to be followed by the team which will guide us produce a high quality modular software. 
+	- This process will involve the steps for 
 
 
 
@@ -84,7 +85,7 @@
 - Security
 	- Any other critical measures 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MjA1OTczOCwtNDE0Nzg0NzY3LC03Mj
+eyJoaXN0b3J5IjpbMTk4MDc4MjU4MywtNDE0Nzg0NzY3LC03Mj
 U2MjIxOTcsNTU5NTQ0MTAsMTQ2MjU0ODI4LC0zODIzMjc1NDMs
 MTIxNDU0ODQ5OSw1ODg0NDEzNDddfQ==
 -->
