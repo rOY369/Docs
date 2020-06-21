@@ -11,7 +11,9 @@
 - Modular Design 
 	- This will be backed by a software development process to be followed by the team which will guide us produce a high quality modular software. 
 	- This process will involve the steps and guidelines related to designing of software components, testing style and other themes which will play an important role in ensuring high quality software. 
-	- Team will spend 1.5 months to come up with this proces
+	- Team will spend 1.5 months to come up with this process. 
+	- Next 1.5 months will be spent on taking some services through this process. 
+	- Exact number and which services wil
 
 
 
@@ -86,7 +88,7 @@
 - Security
 	- Any other critical measures 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NDIwODU4MywtNDE0Nzg0NzY3LC03Mj
-U2MjIxOTcsNTU5NTQ0MTAsMTQ2MjU0ODI4LC0zODIzMjc1NDMs
-MTIxNDU0ODQ5OSw1ODg0NDEzNDddfQ==
+eyJoaXN0b3J5IjpbLTEwNDQyMDMxMjAsLTQxNDc4NDc2NywtNz
+I1NjIyMTk3LDU1OTU0NDEwLDE0NjI1NDgyOCwtMzgyMzI3NTQz
+LDEyMTQ1NDg0OTksNTg4NDQxMzQ3XX0=
 -->
