@@ -34,9 +34,10 @@
 	- Setting up reasonable metrics
 	- Consistently improving these metrics
 - Reliability of NAS
-	- SSD unmount 
+	- SSD unmount (How exactly will we resolve this ?)
+- Reliability of JB
 	- Finding root cause of JB container stuck issue
-	- Timeout for 
+	- Timeout 
 
 
 ## Vision, Next 6 months steps
@@ -108,8 +109,8 @@
 - Security
 	- Any other critical measures 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzI4OTY4MzgsMjA5NTc4NDA3MSwtOD
-kwMjE0MzA2LC00MTQ3ODQ3NjcsLTcyNTYyMjE5Nyw1NTk1NDQx
-MCwxNDYyNTQ4MjgsLTM4MjMyNzU0MywxMjE0NTQ4NDk5LDU4OD
-Q0MTM0N119
+eyJoaXN0b3J5IjpbMjkwMjUzNzc5LDIwOTU3ODQwNzEsLTg5MD
+IxNDMwNiwtNDE0Nzg0NzY3LC03MjU2MjIxOTcsNTU5NTQ0MTAs
+MTQ2MjU0ODI4LC0zODIzMjc1NDMsMTIxNDU0ODQ5OSw1ODg0ND
+EzNDddfQ==
 -->
