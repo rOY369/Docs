@@ -25,9 +25,8 @@
 		- Common Libraries
 			- Database Interface
 			- MQTT
-	- Exact number and which services out of those mentioned above will be decided based upon the process needs (time and effort) and service condition. 
-
-
+	- Exact number and which services out of those mentioned above will be decided based upon the process needs (time and effort) and service condition.
+	- Both services inside architecture and inter services architecture will be considered in the ab
 
 
 
@@ -100,7 +99,8 @@
 - Security
 	- Any other critical measures 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NTc4NDA3MSwtODkwMjE0MzA2LC00MT
-Q3ODQ3NjcsLTcyNTYyMjE5Nyw1NTk1NDQxMCwxNDYyNTQ4Mjgs
-LTM4MjMyNzU0MywxMjE0NTQ4NDk5LDU4ODQ0MTM0N119
+eyJoaXN0b3J5IjpbLTQxOTQ1NTkxNiwyMDk1Nzg0MDcxLC04OT
+AyMTQzMDYsLTQxNDc4NDc2NywtNzI1NjIyMTk3LDU1OTU0NDEw
+LDE0NjI1NDgyOCwtMzgyMzI3NTQzLDEyMTQ1NDg0OTksNTg4ND
+QxMzQ3XX0=
 -->
