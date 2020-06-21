@@ -15,6 +15,10 @@
 	- Next 1.5 months will be spent on taking some services through this process. 
 	- Exact number and which services will be decided based upon the process needs (time and effort) and service condition. 
 	- Services which will be considered to work upon through the process :
+		- Application
+			- Data pipeline
+			- Diagnostics
+			- Modes
 		- 
 
 
@@ -90,7 +94,7 @@
 - Security
 	- Any other critical measures 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MDIxNDMwNiwtNDE0Nzg0NzY3LC03Mj
-U2MjIxOTcsNTU5NTQ0MTAsMTQ2MjU0ODI4LC0zODIzMjc1NDMs
-MTIxNDU0ODQ5OSw1ODg0NDEzNDddfQ==
+eyJoaXN0b3J5IjpbNzcwMjUwOTIyLC04OTAyMTQzMDYsLTQxND
+c4NDc2NywtNzI1NjIyMTk3LDU1OTU0NDEwLDE0NjI1NDgyOCwt
+MzgyMzI3NTQzLDEyMTQ1NDg0OTksNTg4NDQxMzQ3XX0=
 -->
