@@ -19,7 +19,13 @@
 			- Data pipeline
 			- Diagnostics
 			- Modes
-		- 
+		- CEP (Command Execution Pipeline)
+		- QOS
+		- Feedback
+		- Firmware L4
+		- Common Libraries
+			- Database Interface
+			- MQTT
 
 
 
@@ -94,7 +100,7 @@
 - Security
 	- Any other critical measures 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcwMjUwOTIyLC04OTAyMTQzMDYsLTQxND
+eyJoaXN0b3J5IjpbMTkzODEwMTg5LC04OTAyMTQzMDYsLTQxND
 c4NDc2NywtNzI1NjIyMTk3LDU1OTU0NDEwLDE0NjI1NDgyOCwt
 MzgyMzI3NTQzLDEyMTQ1NDg0OTksNTg4NDQxMzQ3XX0=
 -->
