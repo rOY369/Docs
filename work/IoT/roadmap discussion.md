@@ -17,6 +17,7 @@
 		- Easy to integrate new features
 		- Less coupled
 		- Easy to optimise
+		- Configurable (Feature toggling)
 	- Team will spend 1.5 months to come up with this process. 
 	- Next 1.5 months will be spent on taking some services through this process. 
 	- Services which will be considered to work upon through the process :
@@ -54,10 +55,13 @@
 		- Possible solution : Use maintenance card/modes to play pause the recipes*
 	- Ability to run recipes in NAS controllers
 
-### Hardware Agnostics
+### Hardware Agnostic
+
+- Software dependencies
+		- System services as docker**
+		- Host database as docker*
 
 ## Vision, Next 6 months steps
-
 
 - Software Development Process
 	- Design
@@ -92,8 +96,8 @@
 - Security
 	- Any other critical measures 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTA0NjA2MjYsMjA5NTc4NDA3MSwtOD
-kwMjE0MzA2LC00MTQ3ODQ3NjcsLTcyNTYyMjE5Nyw1NTk1NDQx
-MCwxNDYyNTQ4MjgsLTM4MjMyNzU0MywxMjE0NTQ4NDk5LDU4OD
-Q0MTM0N119
+eyJoaXN0b3J5IjpbNjI0NzUzNjM4LDIwOTU3ODQwNzEsLTg5MD
+IxNDMwNiwtNDE0Nzg0NzY3LC03MjU2MjIxOTcsNTU5NTQ0MTAs
+MTQ2MjU0ODI4LC0zODIzMjc1NDMsMTIxNDU0ODQ5OSw1ODg0ND
+EzNDddfQ==
 -->
