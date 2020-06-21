@@ -13,7 +13,6 @@
 	- This process will involve the steps and guidelines related to designing of software components, testing style and other themes which will play an important role in ensuring high quality software. 
 	- Team will spend 1.5 months to come up with this process. 
 	- Next 1.5 months will be spent on taking some services through this process. 
-	- Exact number and which services will be decided based upon the process needs (time and effort) and service condition. 
 	- Services which will be considered to work upon through the process :
 		- Application
 			- Data pipeline
@@ -26,6 +25,7 @@
 		- Common Libraries
 			- Database Interface
 			- MQTT
+	- Exact number and which services out of those mentioned above will be decided based upon the process needs (time and effort) and service condition. 
 
 
 
@@ -100,7 +100,7 @@
 - Security
 	- Any other critical measures 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzODEwMTg5LC04OTAyMTQzMDYsLTQxND
-c4NDc2NywtNzI1NjIyMTk3LDU1OTU0NDEwLDE0NjI1NDgyOCwt
-MzgyMzI3NTQzLDEyMTQ1NDg0OTksNTg4NDQxMzQ3XX0=
+eyJoaXN0b3J5IjpbMjA5NTc4NDA3MSwtODkwMjE0MzA2LC00MT
+Q3ODQ3NjcsLTcyNTYyMjE5Nyw1NTk1NDQxMCwxNDYyNTQ4Mjgs
+LTM4MjMyNzU0MywxMjE0NTQ4NDk5LDU4ODQ0MTM0N119
 -->
