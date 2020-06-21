@@ -68,25 +68,11 @@
 - MQTTS
 - Data encryption
 
-## Known-Known
-
-
-- Scalability
-	- Modularity
-		- Software design
-		- Feature toggling
-		- code optimisation
-- Hardware agnostic
-	- Software dependencies
-		- System services as docker
-		- Host database as docker
-- Security
-
-
 ## Known-unknowns
 
 - Modularity
-	- Reliability gained to modularity
+	- Whether modular design will increase reliability or not, will increase efficiency or not -- is unknown. 
+	- It will be a challenge for modular design process to take into account reliability as well as efficiency. 
 - Issues in previous Rpi System
 	- Improvements in the new system
 - Hardware agnostic 
@@ -94,7 +80,7 @@
 - Security
 	- Any other critical measures 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NDQzNTAyMSwyMDk1Nzg0MDcxLC04OT
+eyJoaXN0b3J5IjpbMTM3OTQ2ODIxMiwyMDk1Nzg0MDcxLC04OT
 AyMTQzMDYsLTQxNDc4NDc2NywtNzI1NjIyMTk3LDU1OTU0NDEw
 LDE0NjI1NDgyOCwtMzgyMzI3NTQzLDEyMTQ1NDg0OTksNTg4ND
 QxMzQ3XX0=
