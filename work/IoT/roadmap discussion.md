@@ -3,7 +3,7 @@
 
 ### Technical Debt
 
-- Refactoring of Services (Readable code + unit test + code documentation + service doc)
+- Refactoring of Services (Readable code + unit test + code documentation + service documentation)
 	- Bridge Service (Owner = Harsh)
 	- Thermostat (Owner = Dishant)
 	- Host Service (Owner = Dishant)
@@ -27,6 +27,13 @@
 			- MQTT
 	- Exact number and which services out of those mentioned above will be decided based upon the process needs (time and effort) and service condition.
 	- Both services inside architecture and inter services architecture will be considered in the above process.
+
+### Continuous Reliability 
+
+- Data and Commands
+	- Setting up reasonable metrics
+	- Consistently improving these metrics
+- 
 
 
 ## Vision, Next 6 months steps
@@ -98,8 +105,8 @@
 - Security
 	- Any other critical measures 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NzQwMTIxMiwyMDk1Nzg0MDcxLC04OT
-AyMTQzMDYsLTQxNDc4NDc2NywtNzI1NjIyMTk3LDU1OTU0NDEw
-LDE0NjI1NDgyOCwtMzgyMzI3NTQzLDEyMTQ1NDg0OTksNTg4ND
-QxMzQ3XX0=
+eyJoaXN0b3J5IjpbLTE4MzUyOTk1NTksMjA5NTc4NDA3MSwtOD
+kwMjE0MzA2LC00MTQ3ODQ3NjcsLTcyNTYyMjE5Nyw1NTk1NDQx
+MCwxNDYyNTQ4MjgsLTM4MjMyNzU0MywxMjE0NTQ4NDk5LDU4OD
+Q0MTM0N119
 -->
