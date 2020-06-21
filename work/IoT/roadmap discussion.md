@@ -1,4 +1,17 @@
 
+## Roadmap Tasks
+
+### Technical Debt
+
+- Refactoring of Services
+	- Bridge Service (Owner = Dishant)
+	- Thermostat (Owner = Dishant)
+	- Host Service (Owner = Dishant)
+
+
+
+
+
 ## Vision, Next 6 months steps
 
 - Reliability
@@ -68,7 +81,7 @@
 - Security
 	- Any other critical measures 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNDc4NDc2NywtNzI1NjIyMTk3LDU1OT
-U0NDEwLDE0NjI1NDgyOCwtMzgyMzI3NTQzLDEyMTQ1NDg0OTks
-NTg4NDQxMzQ3XX0=
+eyJoaXN0b3J5IjpbLTYwODIxMDI3MSwtNDE0Nzg0NzY3LC03Mj
+U2MjIxOTcsNTU5NTQ0MTAsMTQ2MjU0ODI4LC0zODIzMjc1NDMs
+MTIxNDU0ODQ5OSw1ODg0NDEzNDddfQ==
 -->
