@@ -46,6 +46,8 @@
 	- Finding root cause of JB container stuck issue
 	- Introduce a timeout in controllers after which if there is no response from Joulebox container, QOS service will be triggered to save the old data to be sent later when Joulebox container is back online. 
 
+### SOM
+
 ### Scalability 
 
 - Better Handling of Joule-Recipe Load
@@ -68,19 +70,26 @@
 - MQTTS
 - Data encryption
 
-## Known-unknowns
+### Features
+
+###  Known-unknowns
 
 - Modularity
 	- Whether modular design will increase reliability or not, will increase efficiency or not -- is unknown. 
-	- It will be a challenge for modular design process to take into account reliability as well as efficiency. 
-- Issues in previous Rpi System
-	- Improvements in the new system
+	- It will be a challenge for modular design process to ensure higher reliability as well as efficiency in the new designs and its implementation. 
+- Issues due to limitations in previous Rpi System and whether these will be solved with the new hardware or not.  
 - Hardware agnostic 
 	- SOM or third party ?
 - Security
 	- Any other critical measures 
+
+
+```
+* --> Dependent on other teams
+** --> Doubt --> Needs internal discussion before final edit
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3OTQ2ODIxMiwyMDk1Nzg0MDcxLC04OT
+eyJoaXN0b3J5IjpbMTY2OTQ5NzIwMCwyMDk1Nzg0MDcxLC04OT
 AyMTQzMDYsLTQxNDc4NDc2NywtNzI1NjIyMTk3LDU1OTU0NDEw
 LDE0NjI1NDgyOCwtMzgyMzI3NTQzLDEyMTQ1NDg0OTksNTg4ND
 QxMzQ3XX0=
