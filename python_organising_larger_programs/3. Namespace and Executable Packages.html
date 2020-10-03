@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>3. Namespace and Executable Packages</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h2 id="namespace-packages">Namespace Packages</h2>
+<p>Packages are generally implemented as directories containing a <code>__init__.py</code> file. This is true for most cases, but there are situations where you want to be able to split a package across multiple directories.</p>
+<img src="https://lh3.googleusercontent.com/enYulhI3fUmZU81qMP9u5wug0OJwgPzCzejmoDb6tz6Gzvv_pHEv731wFmgwB-HltzBTkmti55ZFpFoZR9T78c-PPj_k9_3NNh5no5XSY2_mwUnbZIZeAiI_oEH-5ixMo3dWYEGtSNtnEsK90gK-m3hVFmYiewHPaiI40qsb6hsZQmRwrR2mBIWT-arjekMJoxm-q0rFYUiENhl4QKc1MUJ-5t53m8bTF8TYy59CXjkJ1FWHNkz8ydow0GBD_JZaPxF_N77KO7blcdY6PnxJfGkMfB6oEkwqtkJJsjXSEnduRkyMyfKcx_yr-kBi6DEAvIOFZdxHDv49dwEmu_imFkxwz6iBD1bzJTxSMHt9FytaiDzikk4JVdWBhTWgKk1chrmQezxpCD-uS_jgweEbBEKWx7QCWJG_xwQownOPkdEJ7uN66186NtwWft015z7tuvI4fqMcNgVvZ2SZ1oUORLkuKBf10wbpC6hBPMc7A5RqOJwOtfAUYoKyxaHkgXQK0XhjNWLsXPQW2w6GVdF7j0TiOyMrmGGMSB3oJ6LKuZFJyMDEV2mEKfE9sTceEudSehbn2XFDFWOUtVgaLRfTBRaiK1yu9R4BYXWV4z6dPuqN9fMSxYjMMznwGAeFtBpPtCYFY7NylfJiz9fpF_pnxe89UIK1l9uqMv7RuSb24kCMhJs9vHirLqmzehNuag=w1348-h615-no?authuser=0" width="500px" height="300px">
+<p><strong>PEP 420 : Implicit Namespace Packages</strong> : Namespace packages are a mechanism for splitting a single Python package across multiple directories on disk.</p>
+<p>Namespace packages are different from normal packages as in they can’t have <code>__init__.py</code> file. This means that namespace packages will not have package level initialisation code. Nothing will be executed by the package when its imported. The primary reason behind this limitation is that it avoids complex questions of initialisation order when multiple directories contribute to a package.</p>
+<p>How does Python find namespace packages during import ?</p>
+<p><strong>Namespace Package Discovery Algo</strong> :</p>
+<ul>
+<li>When asked to import a name like <code>foo</code>, python scans each of the entries in <code>sys.path</code> in order.</li>
+<li>If in any of these directories, it finds a directory named <code>foo</code> containing <code>__init__.py</code>, then a normal package is imported.</li>
+<li>If it doesn’t find any normal packages, but it foes find <code>foo.py</code> or any other file that can act as a module, then this module is imported instead.</li>
+<li>Otherwise the import mechanism keeps track of any directories it finds which are named foo.</li>
+<li>If no normal packages or modules are found which satisfy the import, then all of the matching directory names act as parts of a namespace package.</li>
+</ul>
+<img src="https://lh3.googleusercontent.com/DqNDx67x-BDSzI7GRDeKx4NIig0o-RZfzI_r4-F3ZxPxEfqXfIlJlFD_gu0dKs-FudxdnOPpKrfebmy70r4iP3qBK8qZ6_RbPc9N21VBO85ItX8JECBA7Ej_jIwStP2Jbot8nMTbxBmaaPUL328m63pEIpkpfvBs3rS1o6amzk13i6lbRgb7Y90o-ibd56rube4xym-BxdIDmgoQB7sDcVayjcbiHl1YXPaYCXbip-XpSLtZHYyEKbCrOWJnaFXuE7jbkgRnTFHtnzt3Ml-KyDJ62ZkguOXBmtWs5_SMWPV9dD0FtW_rbMoHLy7Ds59A9KVlF6ar-1odmcGb042OhrBpDGbstM7G6jx7HtK6Pg0b2lLbzwAoU0npDVEoQF-SVs85UlJ7Yo4oTvZxz9Px9rop2u2Dg9YTFWwO_w3xIoJLYdeH2mH5KQBPbuvYTc6rGNGH6_ieD4dtpm4MyTVDvg0qmePVrFgcDCwK730U-S8GjhaPh75Ri2Oh-YsL8b_QajKnvNhalScalt_w2Y1m2zTMqN60aQvPFBvKlNI2xD20LXP1O7dTAXEmwk6QvP1JRzX5SLijZ7MZDycdPyMAd3mtZ8E_TIT_Zmldn3sJRYE8jYG2tB00JJz_e8k7rqFrNLY3KSj88ur7-HjBSCXpu6Cx53px__p4PS4mWdO1_lA2nIjdSXIM9c1Fmmpd6w=w622-h371-no?authuser=0" width="500px" height="300px">
+<p>The directory structure on the left is an example of a normal package where as the one on the right is an example of a namespace package. Notice that the <code>demo_reader</code> is split in two different paths in the namespace package structure. Also it doesn’t have <code>__init__.py</code> unlike the normal package structure.</p>
+<p>Now to import <code>demo_reader</code>, we need to make sure that both <code>path1</code> and <code>path2</code> are included in <code>sys.path</code>.</p>
+<h2 id="executable-directories">Executable Directories</h2>
+<p>Packages often implement some program that needs to be executed. One of the simplest ways to construct such programs is using executable directories. Executable directories let you specify a main entry point which is run when the directory is executed by Python.</p>
+<p>You can execute a directory if it contains <code>__main__.py</code>.  When python executes a <code>__main__.py</code>, it first adds the directory containing <code>__main__.py</code> to its <code>sys.path</code>. This way <code>__main__.py</code> can easily import any other modules with which it shares a directory.</p>
+<h2 id="executable-zip-files">Executable Zip Files</h2>
+<p>Python knows how to read zip files and treat them like directories, meaning that we can create executable zip files just like we created executable directories. The zip file should contain the contents of your executable directory but not the directory itself. Now we can tell Python to execute the zip file rather than the directory.</p>
+<h2 id="executable-packages">Executable Packages</h2>
+<p>In the section <code>Executable Directories</code>, we looked at the use of <code>__main__.py</code> to make a directory directly executable. We can use a similar technique to create executable packages. If you put <code>__main__.py</code> in a package directory, then Python will execute it when you run the package using python’s -m flag <code>python3 -m &lt;package_name&gt;</code></p>
+</div>
+</body>
+
+</html>
