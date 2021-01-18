@@ -9,6 +9,7 @@ class MyABC(metaclass=abc.ABCMeta):
   @abc.abstractproperty
   def some_property(self):
     pass
+
   
   
 class MyConcreteClass(MyABC):
@@ -32,3 +33,4 @@ class BadClass(MyABC):
   pass
 
 bcObject = BadClass()
+
