@@ -1,0 +1,4 @@
+from collections import namedtuple
+from itertools import starmap
+
+data = (("open",10),("closed",20))
