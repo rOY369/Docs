@@ -1,0 +1,38 @@
+#+begin_src plantuml :file class_diagram.png
+
+
+interface AbstractSubject {
+  attach(Observer)
+  detach(Observer)
+  notify()  
+  {abstract} get_state()
+}
+
+interface AbstractObserver {
+  {abstract} update()
+}
+
+class ConcreteSubject {
+  state
+  get_state()
+}
+
+class ConcreteObserver {
+  observerState
+}
+
+AbstractSubject -[hidden]- ConcreteSubject
+AbstractObserver -[hidden]- ConcreteObserver
+
+AbstractSubject <|.. ConcreteSubject
+AbstractObserver <|.. ConcreteObserver
+
+
+AbstractSubject "1"*--"*" AbstractObserver
+ConcreteSubject "1"--*"1" ConcreteObserver
+
+scale 2000 * 1300
+#+end_src
+
+#+RESULTS:
+[[file:observer_pattern.png]]

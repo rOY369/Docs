@@ -27,9 +27,7 @@ myObject = MyConcreteClass(4)
 myObject.do_something(3)
 print(myObject.some_property)
 
+# class BadClass(MyABC):
+#     pass
 
-class BadClass(MyABC):
-    pass
-
-
-bcObject = BadClass()
+# bcObject = BadClass()

@@ -1,0 +1,31 @@
+#+begin_src plantuml :file sequence_diagram.png
+
+participant main
+participant ConcreteSubject
+participant AbstractSubject
+participant ConcreteObserver
+
+
+loop for each observer
+main -> ConcreteSubject : attach(observer)
+ConcreteSubject -> AbstractSubject : attach(observer)
+end
+
+note over ConcreteSubject
+subject state changes
+end note
+
+main -> ConcreteSubject : notify()
+ConcreteSubject -> AbstractSubject : notify()
+
+loop for each observer
+AbstractSubject -> ConcreteObserver : update()
+ConcreteObserver -> ConcreteSubject : get_state()
+ConcreteSubject -->ConcreteObserver : returns self state
+end
+
+scale 2000 * 1300
+#+end_src
+
+#+RESULTS:
+[[file:sequence_diagram.png]]
