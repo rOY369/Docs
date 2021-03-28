@@ -1,0 +1,27 @@
+#+begin_src plantuml :file uml_diagram.png
+
+interface AbstractBuilder <<interface>> {
+  {abstract} build_part()
+
+}
+
+class Director {
+   assemble()
+}
+
+class ConcreteBuilder {
+  build_part()
+  get_result()
+}
+
+
+
+Director o--> AbstractBuilder
+ConcreteBuilder ..|> AbstractBuilder
+
+
+scale 2000 * 1300
+#+end_src
+
+#+RESULTS:
+[[file:uml_diagram.png]]
