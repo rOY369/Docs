@@ -1,4 +1,0 @@
-class ChevyVolt:
-
-    def start(self):
-        print("Chevrolet Volt running with shocking power !")

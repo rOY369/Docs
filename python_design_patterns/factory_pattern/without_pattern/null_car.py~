@@ -1,4 +1,0 @@
-class NullCar:
-
-    def __init__(self,car_name):
-        self._car_name = car_name
